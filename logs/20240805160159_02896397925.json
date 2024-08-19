@@ -1,0 +1,1 @@
+{"call_started": "16:01:50.981003", "called_end": "16:01:59.799303", "phone_number": "02896397925", "disposition": "LBR", "states": [{"state_name": "S_HELLO", "playing": ["hello.wav"], "transcript": {"helping_trans": "i'm chinese", "transcript": " i'm chinese."}, "predicted_class": {"res": "language_barrier", "method": "b"}}]}

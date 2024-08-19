@@ -1,0 +1,2510 @@
+            ---- BOT JSON LOADED ----             
+==================================================
+    ____    __           __      ___    _    __    __      __      
+   /  _/___/ /________ _/ /__   /   |  (_)  / /   / /_____/ /      
+   / // __  / ___/ __ `/ //_/  / /| | / /  / /   / __/ __  /       
+ _/ // /_/ / /  / /_/ / ,<    / ___ |/ /  / /___/ /_/ /_/ /_       
+/___/\__,_/_/   \__,_/_/|_|  /_/  |_/_/  /_____/\__/\__,_/(_)      
+                                                                   
+
+Version 3.1
+Dated:  08/08/2024 @ 5:40 PM
+Company Name:  Prime BPO
+==================================================
+==================================================
+Call # 0
+==================================================
+'audio_dict'
+--------------------------------------------------
+State: S_HELLO
+Playing : hello.wav
+Time: 6.0
+listening 0
+listening 1
+listening 2
+listening 3
+listening 4
+User Spoke:  hello
+AI Detect : greetings
+--------------------------------------------------
+State: S_INTRO
+Playing : ./sounds/merri/intro/intro_pitch_q.wav
+User Spoke:  so do you have medical
+==================================================
+DNC Detected at S_INTRO
+==================================================
+Data successfully written to ./logs/20240809142742_02748510462.json
+##################################################
+Disposition =  DNC
+##################################################
+==================================================
+Call # 1
+==================================================
+--------------------------------------------------
+State: S_HELLO
+Playing : hello.wav
+Time: 6.0
+listening 0
+listening 1
+listening 2
+listening 3
+listening 4
+listening 5
+listening 6
+Playing : are_you_there.wav
+--------------------------------------------------
+State: S_HELLO
+Time: 6.0
+listening 0
+listening 1
+listening 2
+listening 3
+listening 4
+listening 5
+listening 6
+           ---- User Did Not Speak ----           
+==================================================
+USER DIDNOT RESPONED at S_HELLO
+==================================================
+Data successfully written to ./logs/20240809142757_02621850979.json
+##################################################
+Disposition =  N
+##################################################
+            ---- BOT JSON LOADED ----             
+==================================================
+    ____    __           __      ___    _    __    __      __      
+   /  _/___/ /________ _/ /__   /   |  (_)  / /   / /_____/ /      
+   / // __  / ___/ __ `/ //_/  / /| | / /  / /   / __/ __  /       
+ _/ // /_/ / /  / /_/ / ,<    / ___ |/ /  / /___/ /_/ /_/ /_       
+/___/\__,_/_/   \__,_/_/|_|  /_/  |_/_/  /_____/\__/\__,_/(_)      
+                                                                   
+
+Version 3.1
+Dated:  08/08/2024 @ 5:40 PM
+Company Name:  Prime BPO
+==================================================
+==================================================
+Call # 0
+==================================================
+'audio_dict'
+--------------------------------------------------
+State: S_HELLO
+Playing : hello.wav
+Time: 6.0
+listening 0
+listening 1
+listening 2
+listening 3
+listening 4
+listening 5
+listening 6
+Playing : are_you_there.wav
+--------------------------------------------------
+State: S_HELLO
+Time: 6.0
+listening 0
+listening 1
+listening 2
+User Spoke:  hello.
+AI Detect : greetings
+--------------------------------------------------
+State: S_INTRO
+Playing : ./sounds/merri/intro/intro_pitch_q.wav
+User Spoke:  food card at absolutely no car oh do you have medical
+==================================================
+DNC Detected at S_INTRO
+==================================================
+Data successfully written to ./logs/20240809142931_02376248040.json
+##################################################
+Disposition =  DNC
+##################################################
+            ---- BOT JSON LOADED ----             
+==================================================
+    ____    __           __      ___    _    __    __      __      
+   /  _/___/ /________ _/ /__   /   |  (_)  / /   / /_____/ /      
+   / // __  / ___/ __ `/ //_/  / /| | / /  / /   / __/ __  /       
+ _/ // /_/ / /  / /_/ / ,<    / ___ |/ /  / /___/ /_/ /_/ /_       
+/___/\__,_/_/   \__,_/_/|_|  /_/  |_/_/  /_____/\__/\__,_/(_)      
+                                                                   
+
+Version 3.1
+Dated:  08/08/2024 @ 5:40 PM
+Company Name:  Prime BPO
+==================================================
+==================================================
+Call # 0
+==================================================
+'audio_dict'
+--------------------------------------------------
+State: S_HELLO
+Playing : hello.wav
+Time: 6.0
+listening 0
+listening 1
+listening 2
+listening 3
+listening 4
+listening 5
+listening 6
+Playing : are_you_there.wav
+--------------------------------------------------
+State: S_HELLO
+Time: 6.0
+listening 0
+listening 1
+listening 2
+listening 3
+listening 1
+User Spoke:  just
+AI Detect : affirmation
+--------------------------------------------------
+State: S_INTRO
+Playing : ./sounds/Harper/intro/intro_pitch_q.wav
+Time: 6
+listening 0
+listening 1
+listening 2
+listening 3
+listening 4
+listening 5
+listening 6
+Data successfully written to ./logs/20240809143049_01365405412.json
+##################################################
+Disposition =  N
+##################################################
+            ---- BOT JSON LOADED ----             
+==================================================
+    ____    __           __      ___    _    __    __      __      
+   /  _/___/ /________ _/ /__   /   |  (_)  / /   / /_____/ /      
+   / // __  / ___/ __ `/ //_/  / /| | / /  / /   / __/ __  /       
+ _/ // /_/ / /  / /_/ / ,<    / ___ |/ /  / /___/ /_/ /_/ /_       
+/___/\__,_/_/   \__,_/_/|_|  /_/  |_/_/  /_____/\__/\__,_/(_)      
+                                                                   
+
+Version 3.1
+Dated:  08/08/2024 @ 5:40 PM
+Company Name:  Prime BPO
+==================================================
+==================================================
+Call # 0
+==================================================
+'audio_dict'
+--------------------------------------------------
+State: S_HELLO
+Playing : hello.wav
+Time: 6.0
+listening 0
+listening 1
+listening 2
+listening 3
+User Spoke:  hello?
+AI Detect : greetings
+--------------------------------------------------
+State: S_INTRO
+Playing : ./sounds/Aria/intro/intro_pitch_q.wav
+Time: 6
+listening 0
+listening 1
+listening 2
+listening 3
+listening 4
+listening 5
+User Spoke:  just
+AI Detect : affirmation
+--------------------------------------------------
+State: S_TRANSFER
+Playing : transfer.wav
+Time: 3
+listening 0
+listening 1
+listening 2
+listening 3
+listening 4
+Data successfully written to ./logs/20240809143136_02838742640.json
+##################################################
+Disposition =  XFER
+##################################################
+==================================================
+Call # 1
+==================================================
+--------------------------------------------------
+State: S_HELLO
+Playing : hello.wav
+Time: 6.0
+listening 0
+listening 1
+listening 2
+listening 3
+Playing : are_you_there.wav
+--------------------------------------------------
+State: S_HELLO
+Time: 6.0
+listening 0
+listening 1
+listening 2
+User Spoke:  hi
+AI Detect : greetings
+--------------------------------------------------
+State: S_INTRO
+Playing : ./sounds/merri/intro/intro_pitch_q.wav
+Time: 6
+listening 0
+listening 1
+listening 2
+listening 3
+listening 4
+listening 1
+listening 1
+User Spoke:  yes i do
+AI Detect : affirmation
+--------------------------------------------------
+State: S_TRANSFER
+Playing : transfer.wav
+Time: 3
+listening 0
+listening 1
+listening 2
+listening 3
+listening 4
+Data successfully written to ./logs/20240809143228_01896915665.json
+##################################################
+Disposition =  XFER
+##################################################
+==================================================
+Call # 2
+==================================================
+--------------------------------------------------
+State: S_HELLO
+Playing : hello.wav
+Time: 6.0
+listening 0
+listening 1
+listening 2
+listening 3
+listening 1
+User Spoke:  hello?
+AI Detect : greetings
+--------------------------------------------------
+State: S_INTRO
+Playing : ./sounds/merri/intro/intro_pitch_q.wav
+Time: 6
+listening 0
+listening 1
+listening 2
+listening 1
+User Spoke:  fuck you.
+AI Detect : DNC
+Data successfully written to ./logs/20240809143307_02662952811.json
+##################################################
+Disposition =  DNC
+##################################################
+            ---- BOT JSON LOADED ----             
+==================================================
+    ____    __           __      ___    _    __    __      __      
+   /  _/___/ /________ _/ /__   /   |  (_)  / /   / /_____/ /      
+   / // __  / ___/ __ `/ //_/  / /| | / /  / /   / __/ __  /       
+ _/ // /_/ / /  / /_/ / ,<    / ___ |/ /  / /___/ /_/ /_/ /_       
+/___/\__,_/_/   \__,_/_/|_|  /_/  |_/_/  /_____/\__/\__,_/(_)      
+                                                                   
+
+Version 3.1
+Dated:  08/08/2024 @ 5:40 PM
+Company Name:  Prime BPO
+==================================================
+==================================================
+Call # 0
+==================================================
+'audio_dict'
+--------------------------------------------------
+State: S_HELLO
+Playing : hello.wav
+ None
+ None
+Time: 6.0
+listening 0
+listening 1
+User Spoke:  hello.
+AI Detect : greetings
+--------------------------------------------------
+State: S_INTRO
+Playing : ./sounds/Harper/intro/intro_pitch_q.wav
+ None
+ None
+ None
+ None
+hi this is None
+hi this is hover None
+hi this is hover from that None
+hi this is hover from that health center None
+hi this is hover from that health center i'm calling None
+hi this is hover from that health center i'm calling to an None
+hi this is hover from that health center i'm calling to inform you that None
+hi this is hover from that health center i'm calling to inform you that after the None
+hi this is hover from that health center i'm calling to inform you that after the recent None
+hi this is hover from that health center i'm calling to inform you that after the recent open and None
+hi this is hover from that health center i'm calling to inform you that after the recent open enrollment a None
+hi this is hover from that health center i'm calling to inform you that after the recent open enrollment in medicare None
+hi this is hover from that health center i'm calling to inform you that after the recent open enrollment in medicare part a None
+hi this is hover from that health center i'm calling to inform you that after the recent open enrollment in medicare part a and None
+hi this is hover from that health center i'm calling to inform you that after the recent open enrollment in medicare part a and party None
+hi this is hover from that health center i'm calling to inform you that after the recent open enrollment in medicare part a and party you're eligible None
+hi this is hover from that health center i'm calling to inform you that after the recent open enrollment in medicare part a and party you're eligible for None
+hi this is hover from that health center i'm calling to inform you that after the recent open enrollment in medicare part a and party you're eligible for exciting new None
+hi this is hover from that health center i'm calling to inform you that after the recent open enrollment in medicare part a and party you're eligible for exciting new benefit None
+hi this is hover from that health center i'm calling to inform you that after the recent open enrollment in medicare part a and party you're eligible for exciting new benefits such as a None
+hi this is hover from that health center i'm calling to inform you that after the recent open enrollment in medicare part a and party you're eligible for exciting new benefits such as a one hundred None
+hi this is hover from that health center i'm calling to inform you that after the recent open enrollment in medicare part a and party you're eligible for exciting new benefits such as a one hundred and None
+hi this is hover from that health center i'm calling to inform you that after the recent open enrollment in medicare part a and party you're eligible for exciting new benefits such as a one hundred and eighty dollars None
+hi this is hover from that health center i'm calling to inform you that after the recent open enrollment in medicare part a and party you're eligible for exciting new benefits such as a one hundred and eighty dollar monthly None
+hi this is hover from that health center i'm calling to inform you that after the recent open enrollment in medicare part a and party you're eligible for exciting new benefits such as a one hundred and eighty dollar monthly cash back            ---- BOT JSON LOADED ----             
+==================================================
+    ____    __           __      ___    _    __    __      __      
+   /  _/___/ /________ _/ /__   /   |  (_)  / /   / /_____/ /      
+   / // __  / ___/ __ `/ //_/  / /| | / /  / /   / __/ __  /       
+ _/ // /_/ / /  / /_/ / ,<    / ___ |/ /  / /___/ /_/ /_/ /_       
+/___/\__,_/_/   \__,_/_/|_|  /_/  |_/_/  /_____/\__/\__,_/(_)      
+                                                                   
+
+Version 3.1
+Dated:  08/08/2024 @ 5:40 PM
+Company Name:  Prime BPO
+==================================================
+==================================================
+Call # 0
+==================================================
+'audio_dict'
+--------------------------------------------------
+State: S_HELLO
+Playing : hello.wav
+ None
+ None
+Time: 6.0
+listening 0
+listening 1
+User Spoke:  hello.
+AI Detect : greetings
+--------------------------------------------------
+State: S_INTRO
+Playing : ./sounds/Harper/intro/intro_pitch_q.wav
+ None
+ None
+ None
+ None
+hi this is None
+hi this is hover None
+hi this is hover from that None
+hi this is hover from that health center None
+hi this is hover from that health center i'm calling None
+hi this is hover from that health center i'm calling to an None
+hi this is hover from that health center i'm calling to inform you that None
+hi this is hover from that health center i'm calling to inform you that after the None
+hi this is hover from that health center i'm calling to inform you that after the recent None
+hi this is hover from that health center i'm calling to inform you that after the recent open and None
+hi this is hover from that health center i'm calling to inform you that after the recent open enrollment a None
+hi this is hover from that health center i'm calling to inform you that after the recent open enrollment in medicare None
+hi this is hover from that health center i'm calling to inform you that after the recent open enrollment in medicare part a None
+hi this is hover from that health center i'm calling to inform you that after the recent open enrollment in medicare part a and None
+hi this is hover from that health center i'm calling to inform you that after the recent open enrollment in medicare part a and party None
+hi this is hover from that health center i'm calling to inform you that after the recent open enrollment in medicare part a and party you're eligible None
+hi this is hover from that health center i'm calling to inform you that after the recent open enrollment in medicare part a and party you're eligible for None
+hi this is hover from that health center i'm calling to inform you that after the recent open enrollment in medicare part a and party you're eligible for exciting new None
+hi this is hover from that health center i'm calling to inform you that after the recent open enrollment in medicare part a and party you're eligible for exciting new benefit None
+hi this is hover from that health center i'm calling to inform you that after the recent open enrollment in medicare part a and party you're eligible for exciting new benefits such as a None
+hi this is hover from that health center i'm calling to inform you that after the recent open enrollment in medicare part a and party you're eligible for exciting new benefits such as a one hundred None
+hi this is hover from that health center i'm calling to inform you that after the recent open enrollment in medicare part a and party you're eligible for exciting new benefits such as a one hundred and None
+hi this is hover from that health center i'm calling to inform you that after the recent open enrollment in medicare part a and party you're eligible for exciting new benefits such as a one hundred and eighty dollars None
+hi this is hover from that health center i'm calling to inform you that after the recent open enrollment in medicare part a and party you're eligible for exciting new benefits such as a one hundred and eighty dollar monthly None
+hi this is hover from that health center i'm calling to inform you that after the recent open enrollment in medicare part a and party you're eligible for exciting new benefits such as a one hundred and eighty dollar monthly cash back None
+hi this is hover from that health center i'm calling to inform you that after the recent open enrollment in medicare part a and party you're eligible for exciting new benefits such as a one hundred and eighty dollar monthly cash back down None
+hi this is hover from that health center i'm calling to inform you that after the recent open enrollment in medicare part a and party you're eligible for exciting new benefits such as a one hundred and eighty dollar monthly cash back dental None
+hi this is hover from that health center i'm calling to inform you that after the recent open enrollment in medicare part a and party you're eligible for exciting new benefits such as a one hundred and eighty dollar monthly cash back dental hearing None
+hi this is hover from that health center i'm calling to inform you that after the recent open enrollment in medicare part a and party you're eligible for exciting new benefits such as a one hundred and eighty dollar monthly cash back dental and vision None
+hi this is hover from that health center i'm calling to inform you that after the recent open enrollment in medicare part a and party you're eligible for exciting new benefits such as a one hundred and eighty dollar monthly cash back dental and vision and None
+hi this is hover from that health center i'm calling to inform you that after the recent open enrollment in medicare part a and party you're eligible for exciting new benefits such as a one hundred and eighty dollar monthly cash back dental and vision and None
+hi this is hover from that health center i'm calling to inform you that after the recent open enrollment in medicare part a and party you're eligible for exciting new benefits such as a one hundred and eighty dollar monthly cash back dental and vision and prescription None
+hi this is hover from that health center i'm calling to inform you that after the recent open enrollment in medicare part a and party you're eligible for exciting new benefits such as a one hundred and eighty dollar monthly cash back dental and vision and prescription coverage None
+hi this is hover from that health center i'm calling to inform you that after the recent open enrollment in medicare part a and party you're eligible for exciting new benefits such as a one hundred and eighty dollar monthly cash back dental and vision and prescription coverage as well as None
+hi this is hover from that health center i'm calling to inform you that after the recent open enrollment in medicare part a and party you're eligible for exciting new benefits such as a one hundred and eighty dollar monthly cash back dental and vision and prescription coverage as well as a food None
+hi this is hover from that health center i'm calling to inform you that after the recent open enrollment in medicare part a and party you're eligible for exciting new benefits such as a one hundred and eighty dollar monthly cash back dental and vision and prescription coverage as well as a food cart None
+hi this is hover from that health center i'm calling to inform you that after the recent open enrollment if left medicare part a and party you're eligible for exciting new benefits such as a one hundred and eighty dollar monthly cash back dental and vision and prescription coverage as well as a food cart all None
+ None
+we do have None
+we do have medicare part None
+we do have medicare part a None
+we do have medicare part a and the None
+Time: 6
+listening 0
+listening 1
+listening 2
+listening 3
+listening 4
+listening 5
+listening 1
+User Spoke:  just
+AI Detect : affirmation
+--------------------------------------------------
+State: S_TRANSFER
+Playing : transfer.wav
+ None
+ None
+ None
+ None
+ None
+ None
+ None
+            ---- BOT JSON LOADED ----             
+==================================================
+    ____    __           __      ___    _    __    __      __      
+   /  _/___/ /________ _/ /__   /   |  (_)  / /   / /_____/ /      
+   / // __  / ___/ __ `/ //_/  / /| | / /  / /   / __/ __  /       
+ _/ // /_/ / /  / /_/ / ,<    / ___ |/ /  / /___/ /_/ /_/ /_       
+/___/\__,_/_/   \__,_/_/|_|  /_/  |_/_/  /_____/\__/\__,_/(_)      
+                                                                   
+
+Version 3.1
+Dated:  08/08/2024 @ 5:40 PM
+Company Name:  Prime BPO
+==================================================
+==================================================
+Call # 0
+==================================================
+'audio_dict'
+--------------------------------------------------
+State: S_HELLO
+Playing : hello.wav
+ None
+ None
+Time: 6.0
+listening 0
+listening 1
+listening 2
+User Spoke:  hello
+            ---- BOT JSON LOADED ----             
+==================================================
+    ____    __           __      ___    _    __    __      __      
+   /  _/___/ /________ _/ /__   /   |  (_)  / /   / /_____/ /      
+   / // __  / ___/ __ `/ //_/  / /| | / /  / /   / __/ __  /       
+ _/ // /_/ / /  / /_/ / ,<    / ___ |/ /  / /___/ /_/ /_/ /_       
+/___/\__,_/_/   \__,_/_/|_|  /_/  |_/_/  /_____/\__/\__,_/(_)      
+                                                                   
+
+Version 3.1
+Dated:  08/08/2024 @ 5:40 PM
+Company Name:  Prime BPO
+==================================================
+==================================================
+Call # 0
+==================================================
+'audio_dict'
+--------------------------------------------------
+State: S_HELLO
+Playing : hello.wav
+ None
+Time: 6.0
+listening 0
+listening 1
+listening 1
+User Spoke:  hello
+            ---- BOT JSON LOADED ----             
+==================================================
+    ____    __           __      ___    _    __    __      __      
+   /  _/___/ /________ _/ /__   /   |  (_)  / /   / /_____/ /      
+   / // __  / ___/ __ `/ //_/  / /| | / /  / /   / __/ __  /       
+ _/ // /_/ / /  / /_/ / ,<    / ___ |/ /  / /___/ /_/ /_/ /_       
+/___/\__,_/_/   \__,_/_/|_|  /_/  |_/_/  /_____/\__/\__,_/(_)      
+                                                                   
+
+Version 3.1
+Dated:  08/08/2024 @ 5:40 PM
+Company Name:  Prime BPO
+==================================================
+==================================================
+Call # 0
+==================================================
+'audio_dict'
+--------------------------------------------------
+State: S_HELLO
+Playing : hello.wav
+ None
+ None
+Time: 6.0
+listening 0
+listening 1
+listening 2
+listening 1
+User Spoke:  hello.
+            ---- BOT JSON LOADED ----             
+==================================================
+    ____    __           __      ___    _    __    __      __      
+   /  _/___/ /________ _/ /__   /   |  (_)  / /   / /_____/ /      
+   / // __  / ___/ __ `/ //_/  / /| | / /  / /   / __/ __  /       
+ _/ // /_/ / /  / /_/ / ,<    / ___ |/ /  / /___/ /_/ /_/ /_       
+/___/\__,_/_/   \__,_/_/|_|  /_/  |_/_/  /_____/\__/\__,_/(_)      
+                                                                   
+
+Version 3.1
+Dated:  08/08/2024 @ 5:40 PM
+Company Name:  Prime BPO
+==================================================
+==================================================
+Call # 0
+==================================================
+'audio_dict'
+--------------------------------------------------
+State: S_HELLO
+Playing : hello.wav
+ None
+ None
+Time: 6.0
+listening 0
+listening 1
+listening 2
+listening 3
+listening 4
+User Spoke:  hello
+AI Detect : greetings
+--------------------------------------------------
+State: S_INTRO
+Playing : ./sounds/Harper/intro/intro_pitch_q.wav
+ None
+ None
+ None
+ None
+ None
+hi this is None
+hi this is None
+hi this is how far from that helps None
+hi this is how far from that health center None
+hi this is how far from that health center i'm calling None
+hi this is how far from that health center i'm calling to None
+hi this is how far from that health center i'm calling to inform you that None
+hi this is how far from that health center i'm calling to inform you that after that None
+hi this is how far from that health center i'm calling to inform you that after the recent None
+hi this is how far from that health center i'm calling to inform you that after the recent open and home None
+hi this is how far from that health center i'm calling to inform you that after the recent open and moment if None
+hi this is how far from that health center i'm calling to inform you that after the recent open and moment if you have medical None
+hi this is how far from that health center i'm calling to inform you that after the recent open and moment if you have medicare part a None
+hi this is how far from that health center i'm calling to inform you that after the recent open and moment if you have medicare part a and None
+hi this is how far from that health center i'm calling to inform you that after the recent open and moment if you have medicare part a party None
+hi this is how far from that health center i'm calling to inform you that after the recent open and moment if you have medicare part a party you're eligible None
+hi this is how far from that health center i'm calling to inform you that after the recent open and moment if you have medicare part a party you're eligible for None
+hi this is how far from that health center i'm calling to inform you that after the recent open and moment if you have medicare part a party you're eligible for exciting new None
+hi this is how far from that health center i'm calling to inform you that after the recent open and moment if you have medicare part a party you're eligible for exciting new benefit None
+hi this is how far from that health center i'm calling to inform you that after the recent open and moment if you have medicare part a party you're eligible for exciting new benefits such as a None
+hi this is how far from that health center i'm calling to inform you that after the recent open and moment if you have medicare part a party you're eligible for exciting new benefits such as a one hundred None
+hi this is how far from that health center i'm calling to inform you that after the recent open and moment if you have medicare part a party you're eligible for exciting new benefits such as a one hundred and None
+hi this is how far from that health center i'm calling to inform you that after the recent open and moment if you have medicare part a party you're eligible for exciting new benefits such as a one hundred and eighty dollars None
+hi this is how far from that health center i'm calling to inform you that after the recent open and moment if you have medicare part a party you're eligible for exciting new benefits such as a one hundred and eighty dollar monthly            ---- BOT JSON LOADED ----             
+==================================================
+    ____    __           __      ___    _    __    __      __      
+   /  _/___/ /________ _/ /__   /   |  (_)  / /   / /_____/ /      
+   / // __  / ___/ __ `/ //_/  / /| | / /  / /   / __/ __  /       
+ _/ // /_/ / /  / /_/ / ,<    / ___ |/ /  / /___/ /_/ /_/ /_       
+/___/\__,_/_/   \__,_/_/|_|  /_/  |_/_/  /_____/\__/\__,_/(_)      
+                                                                   
+
+Version 3.1
+Dated:  08/08/2024 @ 5:40 PM
+Company Name:  Prime BPO
+==================================================
+==================================================
+Call # 0
+==================================================
+'audio_dict'
+--------------------------------------------------
+State: S_HELLO
+Playing : hello.wav
+ None
+ None
+Time: 6.0
+listening 0
+listening 1
+listening 2
+listening 3
+listening 4
+User Spoke:  hello
+AI Detect : greetings
+--------------------------------------------------
+State: S_INTRO
+Playing : ./sounds/Harper/intro/intro_pitch_q.wav
+ None
+ None
+ None
+ None
+ None
+hi this is None
+hi this is None
+hi this is how far from that helps None
+hi this is how far from that health center None
+hi this is how far from that health center i'm calling None
+hi this is how far from that health center i'm calling to None
+hi this is how far from that health center i'm calling to inform you that None
+hi this is how far from that health center i'm calling to inform you that after that None
+hi this is how far from that health center i'm calling to inform you that after the recent None
+hi this is how far from that health center i'm calling to inform you that after the recent open and home None
+hi this is how far from that health center i'm calling to inform you that after the recent open and moment if None
+hi this is how far from that health center i'm calling to inform you that after the recent open and moment if you have medical None
+hi this is how far from that health center i'm calling to inform you that after the recent open and moment if you have medicare part a None
+hi this is how far from that health center i'm calling to inform you that after the recent open and moment if you have medicare part a and None
+hi this is how far from that health center i'm calling to inform you that after the recent open and moment if you have medicare part a party None
+hi this is how far from that health center i'm calling to inform you that after the recent open and moment if you have medicare part a party you're eligible None
+hi this is how far from that health center i'm calling to inform you that after the recent open and moment if you have medicare part a party you're eligible for None
+hi this is how far from that health center i'm calling to inform you that after the recent open and moment if you have medicare part a party you're eligible for exciting new None
+hi this is how far from that health center i'm calling to inform you that after the recent open and moment if you have medicare part a party you're eligible for exciting new benefit None
+hi this is how far from that health center i'm calling to inform you that after the recent open and moment if you have medicare part a party you're eligible for exciting new benefits such as a None
+hi this is how far from that health center i'm calling to inform you that after the recent open and moment if you have medicare part a party you're eligible for exciting new benefits such as a one hundred None
+hi this is how far from that health center i'm calling to inform you that after the recent open and moment if you have medicare part a party you're eligible for exciting new benefits such as a one hundred and None
+hi this is how far from that health center i'm calling to inform you that after the recent open and moment if you have medicare part a party you're eligible for exciting new benefits such as a one hundred and eighty dollars None
+hi this is how far from that health center i'm calling to inform you that after the recent open and moment if you have medicare part a party you're eligible for exciting new benefits such as a one hundred and eighty dollar monthly None
+hi this is how far from that health center i'm calling to inform you that after the recent open and moment if you have medicare part a party you're eligible for exciting new benefits such as a one hundred and eighty dollar monthly cash back None
+hi this is how far from that health center i'm calling to inform you that after the recent open and moment if you have medicare part a party you're eligible for exciting new benefits such as a one hundred and eighty dollar monthly has been done None
+hi this is how far from that health center i'm calling to inform you that after the recent open and moment if you have medicare part a party you're eligible for exciting new benefits such as a one hundred and eighty dollar monthly cash back dental None
+hi this is how far from that health center i'm calling to inform you that after the recent open and moment if you have medicare part a party you're eligible for exciting new benefits such as a one hundred and eighty dollar monthly cash back dental hearing None
+hi this is how far from that health center i'm calling to inform you that after the recent open and moment if you have medicare part a party you're eligible for exciting new benefits such as a one hundred and eighty dollar monthly cash back dental hearing vision None
+hi this is how far from that health center i'm calling to inform you that after the recent open and moment if you have medicare part a party you're eligible for exciting new benefits such as a one hundred and eighty dollar monthly cash back dental hearing vision and None
+hi this is how far from that health center i'm calling to inform you that after the recent open and moment if you have medicare part a party you're eligible for exciting new benefits such as a one hundred and eighty dollar monthly cash back dental hearing vision and None
+hi this is how far from that health center i'm calling to inform you that after the recent open and moment if you have medicare part a party you're eligible for exciting new benefits such as a one hundred and eighty dollar monthly cash back dental hearing vision and prescription None
+hi this is how far from that health center i'm calling to inform you that after the recent open and moment if you have medicare part a party you're eligible for exciting new benefits such as a one hundred and eighty dollar monthly cash back dental hearing vision and prescription coverage None
+hi this is how far from that health center i'm calling to inform you that after the recent open and moment if you have medicare part a party you're eligible for exciting new benefits such as a one hundred and eighty dollar monthly cash back dental hearing vision and prescription coverage as well None
+hi this is how far from that health center i'm calling to inform you that after the recent open and moment if you have medicare part a party you're eligible for exciting new benefits such as a one hundred and eighty dollar monthly cash back dental hearing vision and prescription coverage as well as a food None
+hi this is far from that health center i'm calling to inform you that after the recent open and moment if you have medicare part a and party you're eligible for exciting new benefits such as a one hundred and eighty dollar monthly cash back dental hearing vision and prescription coverage as well as a food cart None
+all that None
+all at no cost None
+all at no cost to have None
+all at no cost to have medicare part None
+all at no cost to have medicare part a None
+all at no cost to have medicare part a and be None
+Time: 6
+listening 0
+listening 1
+listening 2
+listening 3
+listening 4
+listening 5
+listening 1
+User Spoke:  i am 80 years old.
+            ---- BOT JSON LOADED ----             
+==================================================
+    ____    __           __      ___    _    __    __      __      
+   /  _/___/ /________ _/ /__   /   |  (_)  / /   / /_____/ /      
+   / // __  / ___/ __ `/ //_/  / /| | / /  / /   / __/ __  /       
+ _/ // /_/ / /  / /_/ / ,<    / ___ |/ /  / /___/ /_/ /_/ /_       
+/___/\__,_/_/   \__,_/_/|_|  /_/  |_/_/  /_____/\__/\__,_/(_)      
+                                                                   
+
+Version 3.1
+Dated:  08/08/2024 @ 5:40 PM
+Company Name:  Prime BPO
+==================================================
+==================================================
+Call # 0
+==================================================
+'audio_dict'
+--------------------------------------------------
+State: S_HELLO
+Playing : hello.wav
+ None
+ None
+Time: 6.0
+listening 0
+listening 1
+listening 2
+listening 1
+User Spoke:  hello.
+AI Detect : greetings
+--------------------------------------------------
+State: S_INTRO
+Playing : ./sounds/Harper/intro/intro_pitch_q.wav
+ None
+ None
+ None
+ None
+hi this is None
+hi this is None
+hi this is harper from that None
+hi this is harper from that health center None
+hi this is harper from that health center i'm calling None
+hi this is harper from that health center i'm calling to None
+hi this is harper from that health center i'm calling to inform you that None
+hi this is harper from that health center i'm calling to inform you that after the None
+hi this is harper from that health center i'm calling to inform you that after the recent None
+hi this is harper from that health center i'm calling to inform you that after the recent open and home None
+hi this is harper from that health center i'm calling to inform you that after the recent open and moment if you're None
+hi this is harper from that health center i'm calling to inform you that after the recent open and moment if you have None
+hi this is harper from that health center i'm calling to inform you that after the recent open and moment if you have medicare part a None
+hi this is harper from that health center i'm calling to inform you that after the recent open and moment if you have medicare part a None
+hi this is harper from that health center i'm calling to inform you that after the recent open and moment if you have medicare part a party None
+hi this is harper from that health center i'm calling to inform you that after the recent open and moment if you have medicare part a party you're eligible None
+hi this is harper from that health center i'm calling to inform you that after the recent open and moment if you have medicare part a party you're eligible for None
+hi this is harper from that health center i'm calling to inform you that after the recent open and moment if you have medicare part a party you're eligible for exciting new None
+hi this is harper from that health center i'm calling to inform you that after the recent open and moment if you have medicare part a party you're eligible for exciting new benefit None
+hi this is harper from that health center i'm calling to inform you that after the recent open and moment if you have medicare part a party you're eligible for exciting new benefits such as a None
+hi this is harper from that health center i'm calling to inform you that after the recent open and moment if you have medicare part a party you're eligible for exciting new benefits such as a one hundred None
+hi this is harper from that health center i'm calling to inform you that after the recent open and moment if you have medicare part a party you're eligible for exciting new benefits such as a one hundred and None
+hi this is harper from that health center i'm calling to inform you that after the recent open and moment if you have medicare part a party you're eligible for exciting new benefits such as a one hundred and eighty dollars None
+hi this is harper from that health center i'm calling to inform you that after the recent open and moment if you have medicare part a party you're eligible for exciting new benefits such as a one hundred and eighty dollar monthly            ---- BOT JSON LOADED ----             
+==================================================
+    ____    __           __      ___    _    __    __      __      
+   /  _/___/ /________ _/ /__   /   |  (_)  / /   / /_____/ /      
+   / // __  / ___/ __ `/ //_/  / /| | / /  / /   / __/ __  /       
+ _/ // /_/ / /  / /_/ / ,<    / ___ |/ /  / /___/ /_/ /_/ /_       
+/___/\__,_/_/   \__,_/_/|_|  /_/  |_/_/  /_____/\__/\__,_/(_)      
+                                                                   
+
+Version 3.1
+Dated:  08/08/2024 @ 5:40 PM
+Company Name:  Prime BPO
+==================================================
+==================================================
+Call # 0
+==================================================
+'audio_dict'
+--------------------------------------------------
+State: S_HELLO
+Playing : hello.wav
+ None
+ None
+Time: 6.0
+listening 0
+listening 1
+listening 2
+listening 1
+User Spoke:  hello.
+AI Detect : greetings
+--------------------------------------------------
+State: S_INTRO
+Playing : ./sounds/Harper/intro/intro_pitch_q.wav
+ None
+ None
+ None
+ None
+hi this is None
+hi this is None
+hi this is harper from that None
+hi this is harper from that health center None
+hi this is harper from that health center i'm calling None
+hi this is harper from that health center i'm calling to None
+hi this is harper from that health center i'm calling to inform you that None
+hi this is harper from that health center i'm calling to inform you that after the None
+hi this is harper from that health center i'm calling to inform you that after the recent None
+hi this is harper from that health center i'm calling to inform you that after the recent open and home None
+hi this is harper from that health center i'm calling to inform you that after the recent open and moment if you're None
+hi this is harper from that health center i'm calling to inform you that after the recent open and moment if you have None
+hi this is harper from that health center i'm calling to inform you that after the recent open and moment if you have medicare part a None
+hi this is harper from that health center i'm calling to inform you that after the recent open and moment if you have medicare part a None
+hi this is harper from that health center i'm calling to inform you that after the recent open and moment if you have medicare part a party None
+hi this is harper from that health center i'm calling to inform you that after the recent open and moment if you have medicare part a party you're eligible None
+hi this is harper from that health center i'm calling to inform you that after the recent open and moment if you have medicare part a party you're eligible for None
+hi this is harper from that health center i'm calling to inform you that after the recent open and moment if you have medicare part a party you're eligible for exciting new None
+hi this is harper from that health center i'm calling to inform you that after the recent open and moment if you have medicare part a party you're eligible for exciting new benefit None
+hi this is harper from that health center i'm calling to inform you that after the recent open and moment if you have medicare part a party you're eligible for exciting new benefits such as a None
+hi this is harper from that health center i'm calling to inform you that after the recent open and moment if you have medicare part a party you're eligible for exciting new benefits such as a one hundred None
+hi this is harper from that health center i'm calling to inform you that after the recent open and moment if you have medicare part a party you're eligible for exciting new benefits such as a one hundred and None
+hi this is harper from that health center i'm calling to inform you that after the recent open and moment if you have medicare part a party you're eligible for exciting new benefits such as a one hundred and eighty dollars None
+hi this is harper from that health center i'm calling to inform you that after the recent open and moment if you have medicare part a party you're eligible for exciting new benefits such as a one hundred and eighty dollar monthly None
+hi this is harper from that health center i'm calling to inform you that after the recent open and moment if you have medicare part a party you're eligible for exciting new benefits such as a one hundred and eighty dollar monthly cash back None
+hi this is harper from that health center i'm calling to inform you that after the recent open and moment if you have medicare part a party you're eligible for exciting new benefits such as a one hundred and eighty dollar monthly cash back down None
+hi this is harper from that health center i'm calling to inform you that after the recent open and moment if you have medicare part a party you're eligible for exciting new benefits such as a one hundred and eighty dollar monthly cash back dental None
+hi this is harper from that health center i'm calling to inform you that after the recent open and moment if you have medicare part a party you're eligible for exciting new benefits such as a one hundred and eighty dollar monthly cash back dental hearing None
+hi this is harper from that health center i'm calling to inform you that after the recent open and moment if you have medicare part a party you're eligible for exciting new benefits such as a one hundred and eighty dollar monthly cash back dental hearing vision None
+hi this is harper from that health center i'm calling to inform you that after the recent open and moment if you have medicare part a party you're eligible for exciting new benefits such as a one hundred and eighty dollar monthly cash back dental hearing vision and None
+hi this is harper from that health center i'm calling to inform you that after the recent open and moment if you have medicare part a party you're eligible for exciting new benefits such as a one hundred and eighty dollar monthly cash back dental hearing vision and None
+hi this is harper from that health center i'm calling to inform you that after the recent open and moment if you have medicare part a party you're eligible for exciting new benefits such as a one hundred and eighty dollar monthly cash back dental hearing vision and prescription None
+            ---- BOT JSON LOADED ----             
+==================================================
+    ____    __           __      ___    _    __    __      __      
+   /  _/___/ /________ _/ /__   /   |  (_)  / /   / /_____/ /      
+   / // __  / ___/ __ `/ //_/  / /| | / /  / /   / __/ __  /       
+ _/ // /_/ / /  / /_/ / ,<    / ___ |/ /  / /___/ /_/ /_/ /_       
+/___/\__,_/_/   \__,_/_/|_|  /_/  |_/_/  /_____/\__/\__,_/(_)      
+                                                                   
+
+Version 3.1
+Dated:  08/08/2024 @ 5:40 PM
+Company Name:  Prime BPO
+==================================================
+==================================================
+Call # 0
+==================================================
+'audio_dict'
+--------------------------------------------------
+State: S_HELLO
+Playing : hello.wav
+ None
+Time: 6.0
+listening 0
+listening 1
+listening 2
+listening 3
+listening 1
+User Spoke:  i'm 80 years old.
+AI Detect : affirmation
+--------------------------------------------------
+State: S_INTRO
+Playing : ./sounds/merri/intro/intro_pitch_q.wav
+ None
+ None
+ None
+ None
+ None
+ None
+ None
+i married None
+i marry a None
+i marry a man how None
+i marry a man how enter None
+i marry a man how enter i'm None
+i marry a man how enter i'm calling from None
+i marry a man how enter i'm calling to let you know None
+i marry a man how enter i'm calling to let you know that None
+i marry a man how enter i'm calling to let you know that after that None
+i marry a man how enter i'm calling to let you know that after this refund None
+i marry a man how enter i'm calling to let you know that after this refund open enrollment None
+i marry a man how enter i'm calling to let you know that after this refund open enrollment None
+i marry a man how enter i'm calling to let you know that after this refund open enrollment if you have None
+i marry a man how enter i'm calling to let you know that after this refund open enrollment if you have medicare None
+i marry a man how enter i'm calling to let you know that after this refund open enrollment if you have medicare part a None
+i marry a man how enter i'm calling to let you know that after this refund open enrollment if you have medicare part a and None
+i marry a man how enter i'm calling to let you know that after this refund open enrollment if you have medicare part a and be None
+i marry a man how enter i'm calling to let you know that after this refund open enrollment if you have medicare part a and be you are eligible None
+i marry a man how enter i'm calling to let you know that after this refund open enrollment if you have medicare part a and be you are eligible for None
+i marry a man how enter i'm calling to let you know that after this refund open enrollment if you have medicare part a and be you are eligible for None
+i marry a man how enter i'm calling to let you know that after this refund open enrollment if you have medicare part a and be you are eligible for great None
+i marry a man how enter i'm calling to let you know that after this refund open enrollment if you have medicare part a and be you are eligible for great newly added None
+i marry a man how enter i'm calling to let you know that after this refund open enrollment if you have medicare part a and be you are eligible for great newly added benefit None
+i marry a man how enter i'm calling to let you know that after this refund open enrollment if you have medicare part a and be you are eligible for great newly added benefit like None
+i marry a man how enter i'm calling to let you know that after this refund open enrollment if you have medicare part a and be you are eligible for great newly added benefit like monthly one None
+i marry a man how enter i'm calling to let you know that after this refund open enrollment if you have medicare part a and be you are eligible for great newly added benefit like monthly one hundred None
+i marry a man how enter i'm calling to let you know that after this refund open enrollment if you have medicare part a and be you are eligible for great newly added benefit like monthly one hundred eighty dollars            ---- BOT JSON LOADED ----             
+==================================================
+    ____    __           __      ___    _    __    __      __      
+   /  _/___/ /________ _/ /__   /   |  (_)  / /   / /_____/ /      
+   / // __  / ___/ __ `/ //_/  / /| | / /  / /   / __/ __  /       
+ _/ // /_/ / /  / /_/ / ,<    / ___ |/ /  / /___/ /_/ /_/ /_       
+/___/\__,_/_/   \__,_/_/|_|  /_/  |_/_/  /_____/\__/\__,_/(_)      
+                                                                   
+
+Version 3.1
+Dated:  08/08/2024 @ 5:40 PM
+Company Name:  Prime BPO
+==================================================
+==================================================
+Call # 0
+==================================================
+'audio_dict'
+--------------------------------------------------
+State: S_HELLO
+Playing : hello.wav
+ None
+Time: 6.0
+listening 0
+listening 1
+listening 2
+listening 3
+listening 1
+User Spoke:  i'm 80 years old.
+AI Detect : affirmation
+--------------------------------------------------
+State: S_INTRO
+Playing : ./sounds/merri/intro/intro_pitch_q.wav
+ None
+ None
+ None
+ None
+ None
+ None
+ None
+i married None
+i marry a None
+i marry a man how None
+i marry a man how enter None
+i marry a man how enter i'm None
+i marry a man how enter i'm calling from None
+i marry a man how enter i'm calling to let you know None
+i marry a man how enter i'm calling to let you know that None
+i marry a man how enter i'm calling to let you know that after that None
+i marry a man how enter i'm calling to let you know that after this refund None
+i marry a man how enter i'm calling to let you know that after this refund open enrollment None
+i marry a man how enter i'm calling to let you know that after this refund open enrollment None
+i marry a man how enter i'm calling to let you know that after this refund open enrollment if you have None
+i marry a man how enter i'm calling to let you know that after this refund open enrollment if you have medicare None
+i marry a man how enter i'm calling to let you know that after this refund open enrollment if you have medicare part a None
+i marry a man how enter i'm calling to let you know that after this refund open enrollment if you have medicare part a and None
+i marry a man how enter i'm calling to let you know that after this refund open enrollment if you have medicare part a and be None
+i marry a man how enter i'm calling to let you know that after this refund open enrollment if you have medicare part a and be you are eligible None
+i marry a man how enter i'm calling to let you know that after this refund open enrollment if you have medicare part a and be you are eligible for None
+i marry a man how enter i'm calling to let you know that after this refund open enrollment if you have medicare part a and be you are eligible for None
+i marry a man how enter i'm calling to let you know that after this refund open enrollment if you have medicare part a and be you are eligible for great None
+i marry a man how enter i'm calling to let you know that after this refund open enrollment if you have medicare part a and be you are eligible for great newly added None
+i marry a man how enter i'm calling to let you know that after this refund open enrollment if you have medicare part a and be you are eligible for great newly added benefit None
+i marry a man how enter i'm calling to let you know that after this refund open enrollment if you have medicare part a and be you are eligible for great newly added benefit like None
+i marry a man how enter i'm calling to let you know that after this refund open enrollment if you have medicare part a and be you are eligible for great newly added benefit like monthly one None
+i marry a man how enter i'm calling to let you know that after this refund open enrollment if you have medicare part a and be you are eligible for great newly added benefit like monthly one hundred None
+i marry a man how enter i'm calling to let you know that after this refund open enrollment if you have medicare part a and be you are eligible for great newly added benefit like monthly one hundred eighty dollars None
+i marry a man how enter i'm calling to let you know that after this refund open enrollment if you have medicare part a and be you are eligible for great newly added benefit like monthly one hundred eighty dollars cash None
+i marry a man how enter i'm calling to let you know that after this refund open enrollment if you have medicare part a and be you are eligible for great newly added benefit like monthly one hundred eighty dollars cash back None
+i marry a man how enter i'm calling to let you know that after this refund open enrollment if you have medicare part a and be you are eligible for great newly added benefit like monthly one hundred eighty dollars cash back then None
+i marry a man how enter i'm calling to let you know that after this refund open enrollment if you have medicare part a and be you are eligible for great newly added benefit like monthly one hundred eighty dollars cash back dental None
+i marry a man how enter i'm calling to let you know that after this refund open enrollment if you have medicare part a and be you are eligible for great newly added benefit like monthly one hundred eighty dollars cash back dental earring within None
+i marry a man how enter i'm calling to let you know that after this refund open enrollment if you have medicare part a and be you are eligible for great newly added benefit like monthly one hundred eighty dollars cash back dental earring vision or None
+i marry a med how and her i'm calling from let you know that after this refund open enrollment if you have medicare part a and be you are eligible for great newly added benefit like monthly one hundred eighty dollars cash back dental earring vision or scripting coverage None
+ None
+and and food None
+and and food at None
+and and food at None
+and and food at absolutely None
+and and food at absolutely no car None
+and and food at absolutely no car None
+and and food at absolutely no car no None
+and and food at absolutely no car oh do you have None
+and and food at absolutely no car oh do you have medicare None
+and and food at absolutely no car oh do you have medicare part a None
+and and food at absolutely no car oh do you have medicare part a None
+Time: 6
+listening 0
+listening 1
+listening 2
+listening 3
+listening 1
+listening 1
+listening 1
+User Spoke:  i am 92 years old
+AI Detect : decline
+Data successfully written to ./logs/20240809154924_02726897277.json
+##################################################
+Disposition =  DNQ
+##################################################
+==================================================
+Call # 1
+==================================================
+--------------------------------------------------
+State: S_HELLO
+Playing : hello.wav
+ None
+ None
+ None
+ None
+ None
+ None
+ None
+ None
+ None
+ None
+ None
+ None
+Time: 6.0
+listening 0
+listening 1
+listening 2
+listening 3
+listening 4
+listening 5
+listening 6
+Playing : are_you_there.wav
+ None
+ None
+ None
+ None
+--------------------------------------------------
+State: S_HELLO
+Time: 6.0
+listening 0
+listening 1
+listening 1
+User Spoke:  just something, yo.
+AI Detect : interested
+--------------------------------------------------
+State: S_INTRO
+Playing : ./sounds/merri/intro/intro_pitch_q.wav
+ None
+ None
+ None
+ None
+ None
+hi mary None
+hi mary a madhouse None
+i want to marry a man how and her None
+i want to marry a man how and her i'm None
+i want to marry a man how and her i'm calling from None
+i want to marry a man how and her i'm calling from it you know None
+i want to marry a man how and her i'm calling from it you know that None
+i want to marry a man how and her i'm calling from it you know that after that None
+i want to marry a man how and her i'm calling from it you know that after that refund None
+i want to marry a man how and her i'm calling from it you know that after that refund open enrollment None
+i want to marry a man how and her i'm calling from it you know that after that refund open enrollment None
+i want to marry a man how and her i'm calling from it you know that after that refund open enrollment if None
+i want to marry a man how and her i'm calling from it you know that after that refund open enrollment if you have None
+i marry a man how enter i'm calling to let you know that after this refund open enrollment if you have medicare part a and be you are eligible for great newly added benefit like monthly one hundred eighty dollars cash None
+i marry a man how enter i'm calling to let you know that after this refund open enrollment if you have medicare part a and be you are eligible for great newly added benefit like monthly one hundred eighty dollars cash back None
+i marry a man how enter i'm calling to let you know that after this refund open enrollment if you have medicare part a and be you are eligible for great newly added benefit like monthly one hundred eighty dollars cash back then None
+i marry a man how enter i'm calling to let you know that after this refund open enrollment if you have medicare part a and be you are eligible for great newly added benefit like monthly one hundred eighty dollars cash back dental None
+i marry a man how enter i'm calling to let you know that after this refund open enrollment if you have medicare part a and be you are eligible for great newly added benefit like monthly one hundred eighty dollars cash back dental earring within None
+i marry a man how enter i'm calling to let you know that after this refund open enrollment if you have medicare part a and be you are eligible for great newly added benefit like monthly one hundred eighty dollars cash back dental earring vision or None
+i marry a med how and her i'm calling from let you know that after this refund open enrollment if you have medicare part a and be you are eligible for great newly added benefit like monthly one hundred eighty dollars cash back dental earring vision or scripting coverage None
+ None
+and and food None
+and and food at None
+and and food at None
+and and food at absolutely None
+and and food at absolutely no car None
+and and food at absolutely no car None
+and and food at absolutely no car no None
+and and food at absolutely no car oh do you have None
+and and food at absolutely no car oh do you have medicare None
+and and food at absolutely no car oh do you have medicare part a None
+and and food at absolutely no car oh do you have medicare part a None
+Time: 6
+listening 0
+listening 1
+listening 2
+listening 3
+listening 1
+listening 1
+listening 1
+User Spoke:  i am 92 years old
+AI Detect : decline
+Data successfully written to ./logs/20240809154924_02726897277.json
+##################################################
+Disposition =  DNQ
+##################################################
+==================================================
+Call # 1
+==================================================
+--------------------------------------------------
+State: S_HELLO
+Playing : hello.wav
+ None
+ None
+ None
+ None
+ None
+ None
+ None
+ None
+ None
+ None
+ None
+ None
+Time: 6.0
+listening 0
+listening 1
+listening 2
+listening 3
+listening 4
+listening 5
+listening 6
+Playing : are_you_there.wav
+ None
+ None
+ None
+ None
+--------------------------------------------------
+State: S_HELLO
+Time: 6.0
+listening 0
+listening 1
+listening 1
+User Spoke:  just something, yo.
+AI Detect : interested
+--------------------------------------------------
+State: S_INTRO
+Playing : ./sounds/merri/intro/intro_pitch_q.wav
+ None
+ None
+ None
+ None
+ None
+hi mary None
+hi mary a madhouse None
+i want to marry a man how and her None
+i want to marry a man how and her i'm None
+i want to marry a man how and her i'm calling from None
+i want to marry a man how and her i'm calling from it you know None
+i want to marry a man how and her i'm calling from it you know that None
+i want to marry a man how and her i'm calling from it you know that after that None
+i want to marry a man how and her i'm calling from it you know that after that refund None
+i want to marry a man how and her i'm calling from it you know that after that refund open enrollment None
+i want to marry a man how and her i'm calling from it you know that after that refund open enrollment None
+i want to marry a man how and her i'm calling from it you know that after that refund open enrollment if None
+i want to marry a man how and her i'm calling from it you know that after that refund open enrollment if you have None
+i want to marry a man how and her i'm calling from it you know that after that refund open enrollment if you have medicare part None
+i want to marry a man how and her i'm calling from it you know that after that refund open enrollment if you have medicare part a and None
+i want to marry a man how and her i'm calling from it you know that after that refund open enrollment if you have medicare part a and be None
+i want to marry a man how and her i'm calling from it you know that after that refund open enrollment if you have medicare part a and be you are eligible None
+i want to marry a man how and her i'm calling from it you know that after that refund open enrollment if you have medicare part a and be you are eligible for None
+i want to marry a man how and her i'm calling from it you know that after that refund open enrollment if you have medicare part a and be you are eligible or None
+i want to marry a man how and her i'm calling from it you know that after that refund open enrollment if you have medicare part a and be you are eligible or great None
+i want to marry a man how and her i'm calling from it you know that after that refund open enrollment if you have medicare part a and be you are eligible or great newly added None
+i want to marry a man how and her i'm calling from it you know that after that refund open enrollment if you have medicare part a and be you are eligible or great newly added benefit None
+i want to marry a man how and her i'm calling from it you know that after that refund open enrollment if you have medicare part a and be you are eligible or great newly added benefit like None
+i want to marry a man how and her i'm calling from it you know that after that refund open enrollment if you have medicare part a and be you are eligible or great newly added benefit like monthly None
+i want to marry a man how and her i'm calling from it you know that after that refund open enrollment if you have medicare part a and be you are eligible or great newly added benefit like monthly one hundred None
+i want to marry a man how and her i'm calling from it you know that after that refund open enrollment if you have medicare part a and be you are eligible or great newly added benefit like monthly one hundred eighty None
+i want to marry a man how and her i'm calling from it you know that after that refund open enrollment if you have medicare part a and be you are eligible or great newly added benefit like monthly one hundred eighty dollar None
+i want to marry a man how and her i'm calling from it you know that after that refund open enrollment if you have medicare part a and be you are eligible or great newly added benefit like monthly one hundred eighty dollars cash back None
+i want to marry a man how and her i'm calling from it you know that after that refund open enrollment if you have medicare part a and be you are eligible or great newly added benefit like monthly one hundred eighty dollars cash back then None
+i want to marry a man how and her i'm calling from it you know that after that refund open enrollment if you have medicare part a and be you are eligible or great newly added benefit like monthly one hundred eighty dollars cash back then or None
+i want to marry a man how and her i'm calling from it you know that after that refund open enrollment if you have medicare part a and be you are eligible or great newly added benefit like monthly one hundred eighty dollars cash back then or earring vision None
+i want to marry a man how and her i'm calling from it you know that after that refund open enrollment if you have medicare part a and be you are eligible or great newly added benefit like monthly one hundred eighty dollars cash back then or earring vision or None
+i want to marry a man how and her i'm calling from it you know that after that refund open enrollment if you have medicare part a and be you are eligible or great newly added benefit like monthly one hundred eighty dollars cash back then or earring vision or scripting coverage None
+i want to marry a man how and her i'm calling from it you know that after that refund open enrollment if you have medicare part a and be you are eligible or great newly added benefit like monthly one hundred eighty dollars cash back then or earring vision or scripting coverages None
+i want to marry a man how and her i'm calling from it you know that after that refund open enrollment if you have medicare part None
+i want to marry a man how and her i'm calling from it you know that after that refund open enrollment if you have medicare part a and None
+i want to marry a man how and her i'm calling from it you know that after that refund open enrollment if you have medicare part a and be None
+i want to marry a man how and her i'm calling from it you know that after that refund open enrollment if you have medicare part a and be you are eligible None
+i want to marry a man how and her i'm calling from it you know that after that refund open enrollment if you have medicare part a and be you are eligible for None
+i want to marry a man how and her i'm calling from it you know that after that refund open enrollment if you have medicare part a and be you are eligible or None
+i want to marry a man how and her i'm calling from it you know that after that refund open enrollment if you have medicare part a and be you are eligible or great None
+i want to marry a man how and her i'm calling from it you know that after that refund open enrollment if you have medicare part a and be you are eligible or great newly added None
+i want to marry a man how and her i'm calling from it you know that after that refund open enrollment if you have medicare part a and be you are eligible or great newly added benefit None
+i want to marry a man how and her i'm calling from it you know that after that refund open enrollment if you have medicare part a and be you are eligible or great newly added benefit like None
+i want to marry a man how and her i'm calling from it you know that after that refund open enrollment if you have medicare part a and be you are eligible or great newly added benefit like monthly None
+i want to marry a man how and her i'm calling from it you know that after that refund open enrollment if you have medicare part a and be you are eligible or great newly added benefit like monthly one hundred None
+i want to marry a man how and her i'm calling from it you know that after that refund open enrollment if you have medicare part a and be you are eligible or great newly added benefit like monthly one hundred eighty None
+i want to marry a man how and her i'm calling from it you know that after that refund open enrollment if you have medicare part a and be you are eligible or great newly added benefit like monthly one hundred eighty dollar None
+i want to marry a man how and her i'm calling from it you know that after that refund open enrollment if you have medicare part a and be you are eligible or great newly added benefit like monthly one hundred eighty dollars cash back None
+i want to marry a man how and her i'm calling from it you know that after that refund open enrollment if you have medicare part a and be you are eligible or great newly added benefit like monthly one hundred eighty dollars cash back then None
+i want to marry a man how and her i'm calling from it you know that after that refund open enrollment if you have medicare part a and be you are eligible or great newly added benefit like monthly one hundred eighty dollars cash back then or None
+i want to marry a man how and her i'm calling from it you know that after that refund open enrollment if you have medicare part a and be you are eligible or great newly added benefit like monthly one hundred eighty dollars cash back then or earring vision None
+i want to marry a man how and her i'm calling from it you know that after that refund open enrollment if you have medicare part a and be you are eligible or great newly added benefit like monthly one hundred eighty dollars cash back then or earring vision or None
+i want to marry a man how and her i'm calling from it you know that after that refund open enrollment if you have medicare part a and be you are eligible or great newly added benefit like monthly one hundred eighty dollars cash back then or earring vision or scripting coverage None
+i want to marry a man how and her i'm calling from it you know that after that refund open enrollment if you have medicare part a and be you are eligible or great newly added benefit like monthly one hundred eighty dollars cash back then or earring vision or scripting coverages None
+i want to marry a man how and her i'm calling from it you know that after that refund open enrollment if you have medicare part a and be you are eligible or great newly added benefit like monthly one hundred eighty dollars cash back then or earring vision or scripting coverages and food None
+i to marry a man health and her i'm calling from it you know that after that refund open enrollment if you have medicare part a and be you are eligible or great newly added benefit like monthly one hundred eighty dollars cash back then dental earring vision or scripting coverages and food card None
+ None
+ None
+absolutely no car None
+absolutely no cause for None
+absolutely no car oh None
+absolutely no car oh do you have None
+absolutely no car oh do you have medical None
+absolutely no car oh do you have medicare part a None
+absolutely no car oh do you have medicare part a None
+absolutely no car oh do you have medicare part a and be None
+Time: 6
+listening 0
+listening 1
+listening 2
+listening 3
+listening 4
+listening 5
+listening 1
+listening 1
+User Spoke:  i am already covered.
+AI Detect : already
+--------------------------------------------------
+State: S_Already
+Playing : Already_Rebuttal.wav
+ None
+ None
+ None
+ None
+ None
+i understand None
+i understand None
+i understand and it's None
+i understand and it's great that you None
+i understand and it's great that you are thinking None
+i understand and it's great that you are thinking ahead None
+i understand and it's great that you are thinking ahead None
+i understand and it's great that you are thinking ahead but we will like to None
+i understand and it's great that you are thinking ahead but we will like to show you some None
+i understand and it's great that you are thinking ahead but we will like to show you some comparable None
+i understand and it's great that you are thinking ahead but we will like to show you some comparable None
+i understand and it's great that you are thinking ahead but we will like to show you some comparable options to answering_machine
+User Spoke:  i understand and it's great that you are thinking ahead but we will like to show you some comparable options to
+==================================================
+AM Detected at S_Already
+==================================================
+Data successfully written to ./logs/20240809155016_01565653949.json
+##################################################
+Disposition =  A
+##################################################
+==================================================
+Call # 2
+==================================================
+--------------------------------------------------
+State: S_HELLO
+Playing : hello.wav
+ None
+            ---- BOT JSON LOADED ----             
+==================================================
+    ____    __           __      ___    _    __    __      __      
+   /  _/___/ /________ _/ /__   /   |  (_)  / /   / /_____/ /      
+   / // __  / ___/ __ `/ //_/  / /| | / /  / /   / __/ __  /       
+ _/ // /_/ / /  / /_/ / ,<    / ___ |/ /  / /___/ /_/ /_/ /_       
+/___/\__,_/_/   \__,_/_/|_|  /_/  |_/_/  /_____/\__/\__,_/(_)      
+                                                                   
+
+Version 3.1
+Dated:  08/08/2024 @ 5:40 PM
+Company Name:  Prime BPO
+==================================================
+==================================================
+Call # 0
+==================================================
+'audio_dict'
+--------------------------------------------------
+State: S_HELLO
+Playing : hello.wav
+ None
+ None
+Time: 6.0
+listening 0
+listening 1
+listening 2
+listening 3
+listening 4
+User Spoke:  play.
+AI Detect : other
+--------------------------------------------------
+State: S_INTRO
+Playing : ./sounds/Harper/intro/intro_pitch_q.wav
+ None
+ None
+ None
+ None
+ None
+hi this is None
+hi this is hyper None
+hi this is hyper from that how funny None
+hi this is hyper from that health center None
+hi this is hyper from that health center i'm calling None
+hi this is hyper from that health center i'm calling to None
+hi this is hyper from that health center i'm calling to inform you that None
+hi this is hyper from that health center i'm calling to inform you that after the None
+hi this is hyper from that health center i'm calling to inform you that after the recent None
+hi this is hyper from that health center i'm calling to inform you that after the recent open enrollment None
+hi this is hyper from that health center i'm calling to inform you that after the recent open enrollment a lot more None
+hi this is hyper from that health center i'm calling to inform you that after the recent open enrollment it's like medicare None
+hi this is hyper from that health center i'm calling to inform you that after the recent open enrollment it's like medicare part a None
+hi this is hyper from that health center i'm calling to inform you that after the recent open enrollment it's like medicare part a and None
+hi this is hyper from that health center i'm calling to inform you that after the recent open enrollment it's like medicare part a and part be your None
+hi this is hyper from that health center i'm calling to inform you that after the recent open enrollment it's like medicare part a and party you're eligible for None
+hi this is hyper from that health center i'm calling to inform you that after the recent open enrollment it's like medicare part a and party you're eligible for None
+hi this is hyper from that health center i'm calling to inform you that after the recent open enrollment it's like medicare part a and party you're eligible for exciting new None
+hi this is hyper from that health center i'm calling to inform you that after the recent open enrollment it's like medicare part a and party you're eligible for exciting new benefit None
+hi this is hyper from that health center i'm calling to inform you that after the recent open enrollment it's like medicare part a and party you're eligible for exciting new benefits such as a None
+hi this is hyper from that health center i'm calling to inform you that after the recent open enrollment it's like medicare part a and party you're eligible for exciting new benefits such as a one hundred None
+hi this is hyper from that health center i'm calling to inform you that after the recent open enrollment it's like medicare part a and party you're eligible for exciting new benefits such as a one hundred and eighty None
+hi this is hyper from that health center i'm calling to inform you that after the recent open enrollment it's like medicare part a and party you're eligible for exciting new benefits such as a one hundred and eighty dollar None
+hi this is hyper from that health center i'm calling to inform you that after the recent open enrollment it's like medicare part a and party you're eligible for exciting new benefits such as a one hundred and eighty dollar monthly            ---- BOT JSON LOADED ----             
+==================================================
+    ____    __           __      ___    _    __    __      __      
+   /  _/___/ /________ _/ /__   /   |  (_)  / /   / /_____/ /      
+   / // __  / ___/ __ `/ //_/  / /| | / /  / /   / __/ __  /       
+ _/ // /_/ / /  / /_/ / ,<    / ___ |/ /  / /___/ /_/ /_/ /_       
+/___/\__,_/_/   \__,_/_/|_|  /_/  |_/_/  /_____/\__/\__,_/(_)      
+                                                                   
+
+Version 3.1
+Dated:  08/08/2024 @ 5:40 PM
+Company Name:  Prime BPO
+==================================================
+==================================================
+Call # 0
+==================================================
+'audio_dict'
+--------------------------------------------------
+State: S_HELLO
+Playing : hello.wav
+ None
+ None
+Time: 6.0
+listening 0
+listening 1
+listening 2
+listening 3
+listening 4
+User Spoke:  play.
+AI Detect : other
+--------------------------------------------------
+State: S_INTRO
+Playing : ./sounds/Harper/intro/intro_pitch_q.wav
+ None
+ None
+ None
+ None
+ None
+hi this is None
+hi this is hyper None
+hi this is hyper from that how funny None
+hi this is hyper from that health center None
+hi this is hyper from that health center i'm calling None
+hi this is hyper from that health center i'm calling to None
+hi this is hyper from that health center i'm calling to inform you that None
+hi this is hyper from that health center i'm calling to inform you that after the None
+hi this is hyper from that health center i'm calling to inform you that after the recent None
+hi this is hyper from that health center i'm calling to inform you that after the recent open enrollment None
+hi this is hyper from that health center i'm calling to inform you that after the recent open enrollment a lot more None
+hi this is hyper from that health center i'm calling to inform you that after the recent open enrollment it's like medicare None
+hi this is hyper from that health center i'm calling to inform you that after the recent open enrollment it's like medicare part a None
+hi this is hyper from that health center i'm calling to inform you that after the recent open enrollment it's like medicare part a and None
+hi this is hyper from that health center i'm calling to inform you that after the recent open enrollment it's like medicare part a and part be your None
+hi this is hyper from that health center i'm calling to inform you that after the recent open enrollment it's like medicare part a and party you're eligible for None
+hi this is hyper from that health center i'm calling to inform you that after the recent open enrollment it's like medicare part a and party you're eligible for None
+hi this is hyper from that health center i'm calling to inform you that after the recent open enrollment it's like medicare part a and party you're eligible for exciting new None
+hi this is hyper from that health center i'm calling to inform you that after the recent open enrollment it's like medicare part a and party you're eligible for exciting new benefit None
+hi this is hyper from that health center i'm calling to inform you that after the recent open enrollment it's like medicare part a and party you're eligible for exciting new benefits such as a None
+hi this is hyper from that health center i'm calling to inform you that after the recent open enrollment it's like medicare part a and party you're eligible for exciting new benefits such as a one hundred None
+hi this is hyper from that health center i'm calling to inform you that after the recent open enrollment it's like medicare part a and party you're eligible for exciting new benefits such as a one hundred and eighty None
+hi this is hyper from that health center i'm calling to inform you that after the recent open enrollment it's like medicare part a and party you're eligible for exciting new benefits such as a one hundred and eighty dollar None
+hi this is hyper from that health center i'm calling to inform you that after the recent open enrollment it's like medicare part a and party you're eligible for exciting new benefits such as a one hundred and eighty dollar monthly None
+hi this is hyper from that health center i'm calling to inform you that after the recent open enrollment it's like medicare part a and party you're eligible for exciting new benefits such as a one hundred and eighty dollar monthly cash back None
+hi this is hyper from that health center i'm calling to inform you that after the recent open enrollment it's like medicare part a and party you're eligible for exciting new benefits such as a one hundred and eighty dollar monthly cash back down to None
+hi this is hyper from that health center i'm calling to inform you that after the recent open enrollment it's like medicare part a and party you're eligible for exciting new benefits such as a one hundred and eighty dollar monthly cash back dental None
+hi this is hyper from that health center i'm calling to inform you that after the recent open enrollment it's like medicare part a and party you're eligible for exciting new benefits such as a one hundred and eighty dollar monthly cash back dental during None
+hi this is hyper from that health center i'm calling to inform you that after the recent open enrollment it's like medicare part a and party you're eligible for exciting new benefits such as a one hundred and eighty dollar monthly cash back dental and vision None
+hi this is hyper from that health center i'm calling to inform you that after the recent open enrollment it's like medicare part a and party you're eligible for exciting new benefits such as a one hundred and eighty dollar monthly cash back dental and vision and None
+hi this is hyper from that health center i'm calling to inform you that after the recent open enrollment it's like medicare part a and party you're eligible for exciting new benefits such as a one hundred and eighty dollar monthly cash back dental and vision and prescription None
+hi this is hyper from that health center i'm calling to inform you that after the recent open enrollment it's like medicare part a and party you're eligible for exciting new benefits such as a one hundred and eighty dollar monthly cash back dental and vision and prescription coverage None
+hi this is hyper from that health center i'm calling to inform you that after the recent open enrollment it's like medicare part a and party you're eligible for exciting new benefits such as a one hundred and eighty dollar monthly cash back dental and vision and prescription coverage as None
+hi this is hyper from that health center i'm calling to inform you that after the recent open enrollment it's like medicare part a and party you're eligible for exciting new benefits such as a one hundred and eighty dollar monthly cash back dental and vision and prescription coverage as well as None
+hi this is hyper from that health center i'm calling to inform you that after the recent open enrollment it's like medicare part a and party you're eligible for exciting new benefits such as a one hundred and eighty dollar monthly cash back dental and vision and prescription coverage as well as a food None
+hi this is hyper from that health center i'm calling to inform you that after the recent open moment it's like medicare part a and part be you're eligible for exciting new benefits such as a one hundred and eighty dollar monthly cash back dental and vision and prescription coverage as well as a food cart None
+ None
+at no cost None
+at no cost to have medical None
+at no cost to have medicare part a None
+at no cost to have medicare part a and None
+Time: 6
+listening 0
+listening 1
+listening 2
+listening 3
+listening 4
+listening 5
+listening 6
+listening 1
+listening 1
+listening 1
+User Spoke:  i have everything that my needs.
+AI Detect : already
+--------------------------------------------------
+State: S_Already
+Playing : Already_Rebuttal.wav
+ None
+ None
+ None
+ None
+i understand None
+i understand None
+i understand and None
+i understand and it's great that None
+i understand and it's great that you i None
+i understand and it's great that you're thinking ahead None
+i understand and it's great that you're thinking ahead None
+i understand and it's great that you're thinking ahead we will None
+hi this is hyper from that health center i'm calling to inform you that after the recent open enrollment it's like medicare part a and party you're eligible for exciting new benefits such as a one hundred and eighty dollar monthly cash back None
+hi this is hyper from that health center i'm calling to inform you that after the recent open enrollment it's like medicare part a and party you're eligible for exciting new benefits such as a one hundred and eighty dollar monthly cash back down to None
+hi this is hyper from that health center i'm calling to inform you that after the recent open enrollment it's like medicare part a and party you're eligible for exciting new benefits such as a one hundred and eighty dollar monthly cash back dental None
+hi this is hyper from that health center i'm calling to inform you that after the recent open enrollment it's like medicare part a and party you're eligible for exciting new benefits such as a one hundred and eighty dollar monthly cash back dental during None
+hi this is hyper from that health center i'm calling to inform you that after the recent open enrollment it's like medicare part a and party you're eligible for exciting new benefits such as a one hundred and eighty dollar monthly cash back dental and vision None
+hi this is hyper from that health center i'm calling to inform you that after the recent open enrollment it's like medicare part a and party you're eligible for exciting new benefits such as a one hundred and eighty dollar monthly cash back dental and vision and None
+hi this is hyper from that health center i'm calling to inform you that after the recent open enrollment it's like medicare part a and party you're eligible for exciting new benefits such as a one hundred and eighty dollar monthly cash back dental and vision and prescription None
+hi this is hyper from that health center i'm calling to inform you that after the recent open enrollment it's like medicare part a and party you're eligible for exciting new benefits such as a one hundred and eighty dollar monthly cash back dental and vision and prescription coverage None
+hi this is hyper from that health center i'm calling to inform you that after the recent open enrollment it's like medicare part a and party you're eligible for exciting new benefits such as a one hundred and eighty dollar monthly cash back dental and vision and prescription coverage as None
+hi this is hyper from that health center i'm calling to inform you that after the recent open enrollment it's like medicare part a and party you're eligible for exciting new benefits such as a one hundred and eighty dollar monthly cash back dental and vision and prescription coverage as well as None
+hi this is hyper from that health center i'm calling to inform you that after the recent open enrollment it's like medicare part a and party you're eligible for exciting new benefits such as a one hundred and eighty dollar monthly cash back dental and vision and prescription coverage as well as a food None
+hi this is hyper from that health center i'm calling to inform you that after the recent open moment it's like medicare part a and part be you're eligible for exciting new benefits such as a one hundred and eighty dollar monthly cash back dental and vision and prescription coverage as well as a food cart None
+ None
+at no cost None
+at no cost to have medical None
+at no cost to have medicare part a None
+at no cost to have medicare part a and None
+Time: 6
+listening 0
+listening 1
+listening 2
+listening 3
+listening 4
+listening 5
+listening 6
+listening 1
+listening 1
+listening 1
+User Spoke:  i have everything that my needs.
+AI Detect : already
+--------------------------------------------------
+State: S_Already
+Playing : Already_Rebuttal.wav
+ None
+ None
+ None
+ None
+i understand None
+i understand None
+i understand and None
+i understand and it's great that None
+i understand and it's great that you i None
+i understand and it's great that you're thinking ahead None
+i understand and it's great that you're thinking ahead None
+i understand and it's great that you're thinking ahead we will None
+i understand and it's great that you're thinking ahead we were like to show None
+i understand and it's great that you're thinking ahead we were like to show you some None
+i understand and it's great that you're thinking ahead we were like to show you some comparable None
+i understand and it's great that you're thinking ahead we were like to show you some comparable options to None
+i understand and it's great that you're thinking ahead we were like to show you some comparable options to assure you DNC
+User Spoke:  i understand and it's great that you're thinking ahead we were like to show you some comparable options to assure you
+==================================================
+DNC Detected at S_Already
+==================================================
+Data successfully written to ./logs/20240809155414_01726594837.json
+##################################################
+Disposition =  DNC
+##################################################
+==================================================
+Call # 1
+==================================================
+--------------------------------------------------
+State: S_HELLO
+Playing : hello.wav
+            ---- BOT JSON LOADED ----             
+==================================================
+    ____    __           __      ___    _    __    __      __      
+   /  _/___/ /________ _/ /__   /   |  (_)  / /   / /_____/ /      
+   / // __  / ___/ __ `/ //_/  / /| | / /  / /   / __/ __  /       
+ _/ // /_/ / /  / /_/ / ,<    / ___ |/ /  / /___/ /_/ /_/ /_       
+/___/\__,_/_/   \__,_/_/|_|  /_/  |_/_/  /_____/\__/\__,_/(_)      
+                                                                   
+
+Version 3.1
+Dated:  08/08/2024 @ 5:40 PM
+Company Name:  Prime BPO
+==================================================
+==================================================
+Call # 0
+==================================================
+'audio_dict'
+--------------------------------------------------
+State: S_HELLO
+Playing : hello.wav
+ None
+ None
+Time: 6.0
+listening 0
+listening 1
+listening 2
+listening 3
+User Spoke:  hello
+AI Detect : greetings
+--------------------------------------------------
+State: S_INTRO
+Playing : ./sounds/Aria/intro/intro_pitch_q.wav
+ None
+ None
+ None
+ None
+ None
+hi this is our None
+hi this is are you from None
+hi this is are you from medical None
+hi this is are you from medical center i None
+hi this is are you from medical center i wanted to None
+hi this is are you from medical center i wanted to inform you that None
+hi this is are you from medical center i wanted to inform you that after the None
+hi this is are you from medical center i wanted to inform you that after the recent None
+hi this is are you from medical center i wanted to inform you that after the recent open and None
+hi this is are you from medical center i wanted to inform you that after the recent open and moment you None
+hi this is are you from medical center i wanted to inform you that after the recent open and moment you qualify None
+hi this is are you from medical center i wanted to inform you that after the recent open and moment you qualify for something None
+hi this is are you from medical center i wanted to inform you that after the recent open and moment you qualify for some fantastic None
+hi this is are you from medical center i wanted to inform you that after the recent open and moment you qualify for some fantastic new None
+hi this is are you from medical center i wanted to inform you that after the recent open and moment you qualify for some fantastic new benefits if you have None
+hi this is are you from medical center i wanted to inform you that after the recent open and moment you qualify for some fantastic new benefits if you have medicare None
+hi this is are you from medical center i wanted to inform you that after the recent open and moment you qualify for some fantastic new benefits if you have medicare part a None
+hi this is are you from medical center i wanted to inform you that after the recent open and moment you qualify for some fantastic new benefits if you have medicare part a None
+hi this is are you from medical center i wanted to inform you that after the recent open and moment you qualify for some fantastic new benefits if you have medicare part a and be None
+hi this is are you from medical center i wanted to inform you that after the recent open and moment you qualify for some fantastic new benefits if you have medicare part a and be these None
+hi this is are you from medical center i wanted to inform you that after the recent open and moment you qualify for some fantastic new benefits if you have medicare part a and be these benefits None
+hi this is are you from medical center i wanted to inform you that after the recent open and moment you qualify for some fantastic new benefits if you have medicare part a and be these benefits include a None
+hi this is are you from medical center i wanted to inform you that after the recent open and moment you qualify for some fantastic new benefits if you have medicare part a and be these benefits include a one hundred None
+hi this is are you from medical center i wanted to inform you that after the recent open and moment you qualify for some fantastic new benefits if you have medicare part a and be these benefits include a one hundred and            ---- BOT JSON LOADED ----             
+==================================================
+    ____    __           __      ___    _    __    __      __      
+   /  _/___/ /________ _/ /__   /   |  (_)  / /   / /_____/ /      
+   / // __  / ___/ __ `/ //_/  / /| | / /  / /   / __/ __  /       
+ _/ // /_/ / /  / /_/ / ,<    / ___ |/ /  / /___/ /_/ /_/ /_       
+/___/\__,_/_/   \__,_/_/|_|  /_/  |_/_/  /_____/\__/\__,_/(_)      
+                                                                   
+
+Version 3.1
+Dated:  08/08/2024 @ 5:40 PM
+Company Name:  Prime BPO
+==================================================
+==================================================
+Call # 0
+==================================================
+'audio_dict'
+--------------------------------------------------
+State: S_HELLO
+Playing : hello.wav
+ None
+ None
+Time: 6.0
+listening 0
+listening 1
+listening 2
+listening 3
+User Spoke:  hello
+AI Detect : greetings
+--------------------------------------------------
+State: S_INTRO
+Playing : ./sounds/Aria/intro/intro_pitch_q.wav
+ None
+ None
+ None
+ None
+ None
+hi this is our None
+hi this is are you from None
+hi this is are you from medical None
+hi this is are you from medical center i None
+hi this is are you from medical center i wanted to None
+hi this is are you from medical center i wanted to inform you that None
+hi this is are you from medical center i wanted to inform you that after the None
+hi this is are you from medical center i wanted to inform you that after the recent None
+hi this is are you from medical center i wanted to inform you that after the recent open and None
+hi this is are you from medical center i wanted to inform you that after the recent open and moment you None
+hi this is are you from medical center i wanted to inform you that after the recent open and moment you qualify None
+hi this is are you from medical center i wanted to inform you that after the recent open and moment you qualify for something None
+hi this is are you from medical center i wanted to inform you that after the recent open and moment you qualify for some fantastic None
+hi this is are you from medical center i wanted to inform you that after the recent open and moment you qualify for some fantastic new None
+hi this is are you from medical center i wanted to inform you that after the recent open and moment you qualify for some fantastic new benefits if you have None
+hi this is are you from medical center i wanted to inform you that after the recent open and moment you qualify for some fantastic new benefits if you have medicare None
+hi this is are you from medical center i wanted to inform you that after the recent open and moment you qualify for some fantastic new benefits if you have medicare part a None
+hi this is are you from medical center i wanted to inform you that after the recent open and moment you qualify for some fantastic new benefits if you have medicare part a None
+hi this is are you from medical center i wanted to inform you that after the recent open and moment you qualify for some fantastic new benefits if you have medicare part a and be None
+hi this is are you from medical center i wanted to inform you that after the recent open and moment you qualify for some fantastic new benefits if you have medicare part a and be these None
+hi this is are you from medical center i wanted to inform you that after the recent open and moment you qualify for some fantastic new benefits if you have medicare part a and be these benefits None
+hi this is are you from medical center i wanted to inform you that after the recent open and moment you qualify for some fantastic new benefits if you have medicare part a and be these benefits include a None
+hi this is are you from medical center i wanted to inform you that after the recent open and moment you qualify for some fantastic new benefits if you have medicare part a and be these benefits include a one hundred None
+hi this is are you from medical center i wanted to inform you that after the recent open and moment you qualify for some fantastic new benefits if you have medicare part a and be these benefits include a one hundred and None
+hi this is are you from medical center i wanted to inform you that after the recent open and moment you qualify for some fantastic new benefits if you have medicare part a and be these benefits include a one hundred and eighty dollars None
+hi this is are you from medical center i wanted to inform you that after the recent open and moment you qualify for some fantastic new benefits if you have medicare part a and be these benefits include a one hundred and eighty dollar monthly None
+hi this is are you from medical center i wanted to inform you that after the recent open and moment you qualify for some fantastic new benefits if you have medicare part a and be these benefits include a one hundred and eighty dollar monthly cash back None
+hi this is are you from medical center i wanted to inform you that after the recent open and moment you qualify for some fantastic new benefits if you have medicare part a and be these benefits include a one hundred and eighty dollar monthly cash back as well None
+hi this is are you from medical center i wanted to inform you that after the recent open and moment you qualify for some fantastic new benefits if you have medicare part a and be these benefits include a one hundred and eighty dollar monthly cash back as well as None
+hi this is are you from medical center i wanted to inform you that after the recent open and moment you qualify for some fantastic new benefits if you have medicare part a and be these benefits include a one hundred and eighty dollar monthly cash back as well as dental None
+hi this is are you from medical center i wanted to inform you that after the recent open and moment you qualify for some fantastic new benefits if you have medicare part a and be these benefits include a one hundred and eighty dollar monthly cash back as well as dental hearing None
+hi this is are you from medical center i wanted to inform you that after the recent open and moment you qualify for some fantastic new benefits if you have medicare part a and be these benefits include a one hundred and eighty dollar monthly cash back as well as dental and vision None
+hi this is are you from medical center i wanted to inform you that after the recent open and moment you qualify for some fantastic new benefits if you have medicare part a and be these benefits include a one hundred and eighty dollar monthly cash back as well as dental and vision and None
+hi this is are you from medical center i wanted to inform you that after the recent open and moment you qualify for some fantastic new benefits if you have medicare part a and be these benefits include a one hundred and eighty dollar monthly cash back as well as dental and vision and prescription None
+hi this is are you from medical center i wanted to inform you that after the recent open and moment you qualify for some fantastic new benefits if you have medicare part a and be these benefits include a one hundred and eighty dollar monthly cash back as well as dental and vision and prescription coverage None
+hi this is aria from medical center i wanted to inform you that after the recent open and moment you qualify for some fantastic new benefits if you have medicare part a and be these benefits include a one hundred and eighty dollar monthly cash back as well as dental and vision and prescription coverage of None
+ None
+food card None
+food card all i know None
+food card all at no cost to None
+food card all at no cost to of medicare None
+food card all at no cost to of medicare part a None
+food card all at no cost to of medicare part a and None
+Time: 6
+listening 0
+listening 1
+listening 2
+listening 3
+listening 4
+listening 1
+listening 1
+listening 1
+listening 1
+User Spoke:  i have everything that i have required.
+AI Detect : already
+--------------------------------------------------
+State: S_Already
+Playing : Already_Rebuttal.wav
+ None
+ None
+ None
+ None
+i understand None
+i understand None
+i understand and None
+i understand and it's great that you None
+i understand and it's great that you are thinking None
+i understand and it's great that you are thinking ahead None
+hi this is are you from medical center i wanted to inform you that after the recent open and moment you qualify for some fantastic new benefits if you have medicare part a and be these benefits include a one hundred and eighty dollars None
+hi this is are you from medical center i wanted to inform you that after the recent open and moment you qualify for some fantastic new benefits if you have medicare part a and be these benefits include a one hundred and eighty dollar monthly None
+hi this is are you from medical center i wanted to inform you that after the recent open and moment you qualify for some fantastic new benefits if you have medicare part a and be these benefits include a one hundred and eighty dollar monthly cash back None
+hi this is are you from medical center i wanted to inform you that after the recent open and moment you qualify for some fantastic new benefits if you have medicare part a and be these benefits include a one hundred and eighty dollar monthly cash back as well None
+hi this is are you from medical center i wanted to inform you that after the recent open and moment you qualify for some fantastic new benefits if you have medicare part a and be these benefits include a one hundred and eighty dollar monthly cash back as well as None
+hi this is are you from medical center i wanted to inform you that after the recent open and moment you qualify for some fantastic new benefits if you have medicare part a and be these benefits include a one hundred and eighty dollar monthly cash back as well as dental None
+hi this is are you from medical center i wanted to inform you that after the recent open and moment you qualify for some fantastic new benefits if you have medicare part a and be these benefits include a one hundred and eighty dollar monthly cash back as well as dental hearing None
+hi this is are you from medical center i wanted to inform you that after the recent open and moment you qualify for some fantastic new benefits if you have medicare part a and be these benefits include a one hundred and eighty dollar monthly cash back as well as dental and vision None
+hi this is are you from medical center i wanted to inform you that after the recent open and moment you qualify for some fantastic new benefits if you have medicare part a and be these benefits include a one hundred and eighty dollar monthly cash back as well as dental and vision and None
+hi this is are you from medical center i wanted to inform you that after the recent open and moment you qualify for some fantastic new benefits if you have medicare part a and be these benefits include a one hundred and eighty dollar monthly cash back as well as dental and vision and prescription None
+hi this is are you from medical center i wanted to inform you that after the recent open and moment you qualify for some fantastic new benefits if you have medicare part a and be these benefits include a one hundred and eighty dollar monthly cash back as well as dental and vision and prescription coverage None
+hi this is aria from medical center i wanted to inform you that after the recent open and moment you qualify for some fantastic new benefits if you have medicare part a and be these benefits include a one hundred and eighty dollar monthly cash back as well as dental and vision and prescription coverage of None
+ None
+food card None
+food card all i know None
+food card all at no cost to None
+food card all at no cost to of medicare None
+food card all at no cost to of medicare part a None
+food card all at no cost to of medicare part a and None
+Time: 6
+listening 0
+listening 1
+listening 2
+listening 3
+listening 4
+listening 1
+listening 1
+listening 1
+listening 1
+User Spoke:  i have everything that i have required.
+AI Detect : already
+--------------------------------------------------
+State: S_Already
+Playing : Already_Rebuttal.wav
+ None
+ None
+ None
+ None
+i understand None
+i understand None
+i understand and None
+i understand and it's great that you None
+i understand and it's great that you are thinking None
+i understand and it's great that you are thinking ahead None
+i understand and it's great that you are thinking ahead None
+we will like to None
+we will like to show you None
+we will like to show you some None
+we will like to show you some comparable None
+we will like to show you some comparable options to None
+Matched keyword: ass
+we will like to show you some comparable options to assure you DNC
+User Spoke:  we will like to show you some comparable options to assure you
+==================================================
+DNC Detected at S_Already
+==================================================
+Data successfully written to ./logs/20240809155742_01377275896.json
+##################################################
+Disposition =  DNC
+##################################################
+            ---- BOT JSON LOADED ----             
+==================================================
+    ____    __           __      ___    _    __    __      __      
+   /  _/___/ /________ _/ /__   /   |  (_)  / /   / /_____/ /      
+   / // __  / ___/ __ `/ //_/  / /| | / /  / /   / __/ __  /       
+ _/ // /_/ / /  / /_/ / ,<    / ___ |/ /  / /___/ /_/ /_/ /_       
+/___/\__,_/_/   \__,_/_/|_|  /_/  |_/_/  /_____/\__/\__,_/(_)      
+                                                                   
+
+Version 3.1
+Dated:  08/08/2024 @ 5:40 PM
+Company Name:  Prime BPO
+==================================================
+==================================================
+Call # 0
+==================================================
+'audio_dict'
+--------------------------------------------------
+State: S_HELLO
+Playing : hello.wav
+ None
+Time: 6.0
+listening 0
+listening 1
+listening 2
+listening 1
+User Spoke:  hello
+AI Detect : greetings
+--------------------------------------------------
+State: S_INTRO
+Playing : ./sounds/merri/intro/intro_pitch_q.wav
+ None
+ None
+ None
+ None
+ None
+i marry a None
+i marry a madhouse None
+i marry a med how enter None
+i marry a med how enter i'm None
+i marry a med how enter i'm calling from None
+i marry a med how enter i'm calling to let you know None
+i marry a med how enter i'm calling to let you know that None
+i marry a med how enter i'm calling to let you know that after that None
+i marry a med how enter i'm calling to let you know that after this refund None
+i marry a med how enter i'm calling to let you know that after this refund open enrollment None
+i marry a med how enter i'm calling to let you know that after this refund open enrollment None
+i marry a med how enter i'm calling to let you know that after this refund open enrollment if None
+i marry a med how enter i'm calling to let you know that after this refund open enrollment if you have met None
+i marry a med how enter i'm calling to let you know that after this refund open enrollment if you have medicare part None
+i marry a med how enter i'm calling to let you know that after this refund open enrollment if you have medicare part a and None
+i marry a med how enter i'm calling to let you know that after this refund open enrollment if you have medicare part a and be None
+i marry a med how enter i'm calling to let you know that after this refund open enrollment if you have medicare part a and be you are eligible None
+i marry a med how enter i'm calling to let you know that after this refund open enrollment if you have medicare part a and be you are eligible for None
+i marry a med how enter i'm calling to let you know that after this refund open enrollment if you have medicare part a and be you are eligible for None
+i marry a med how enter i'm calling to let you know that after this refund open enrollment if you have medicare part a and be you are eligible for great None
+i marry a med how enter i'm calling to let you know that after this refund open enrollment if you have medicare part a and be you are eligible for great newly added None
+i marry a med how enter i'm calling to let you know that after this refund open enrollment if you have medicare part a and be you are eligible for great newly added benefit None
+i marry a med how enter i'm calling to let you know that after this refund open enrollment if you have medicare part a and be you are eligible for great newly added benefit like None
+i marry a med how enter i'm calling to let you know that after this refund open enrollment if you have medicare part a and be you are eligible for great newly added benefit like monthly None
+i marry a med how enter i'm calling to let you know that after this refund open enrollment if you have medicare part a and be you are eligible for great newly added benefit like monthly one hundred None
+i marry a med how enter i'm calling to let you know that after this refund open enrollment if you have medicare part a and be you are eligible for great newly added benefit like monthly one hundred eighty None
+i marry a med how enter i'm calling to let you know that after this refund open enrollment if you have medicare part a and be you are eligible for great newly added benefit like monthly one hundred eighty dollars cash            ---- BOT JSON LOADED ----             
+==================================================
+    ____    __           __      ___    _    __    __      __      
+   /  _/___/ /________ _/ /__   /   |  (_)  / /   / /_____/ /      
+   / // __  / ___/ __ `/ //_/  / /| | / /  / /   / __/ __  /       
+ _/ // /_/ / /  / /_/ / ,<    / ___ |/ /  / /___/ /_/ /_/ /_       
+/___/\__,_/_/   \__,_/_/|_|  /_/  |_/_/  /_____/\__/\__,_/(_)      
+                                                                   
+
+Version 3.1
+Dated:  08/08/2024 @ 5:40 PM
+Company Name:  Prime BPO
+==================================================
+==================================================
+Call # 0
+==================================================
+'audio_dict'
+--------------------------------------------------
+State: S_HELLO
+Playing : hello.wav
+ None
+Time: 6.0
+listening 0
+listening 1
+listening 2
+listening 1
+User Spoke:  hello
+AI Detect : greetings
+--------------------------------------------------
+State: S_INTRO
+Playing : ./sounds/merri/intro/intro_pitch_q.wav
+ None
+ None
+ None
+ None
+ None
+i marry a None
+i marry a madhouse None
+i marry a med how enter None
+i marry a med how enter i'm None
+i marry a med how enter i'm calling from None
+i marry a med how enter i'm calling to let you know None
+i marry a med how enter i'm calling to let you know that None
+i marry a med how enter i'm calling to let you know that after that None
+i marry a med how enter i'm calling to let you know that after this refund None
+i marry a med how enter i'm calling to let you know that after this refund open enrollment None
+i marry a med how enter i'm calling to let you know that after this refund open enrollment None
+i marry a med how enter i'm calling to let you know that after this refund open enrollment if None
+i marry a med how enter i'm calling to let you know that after this refund open enrollment if you have met None
+i marry a med how enter i'm calling to let you know that after this refund open enrollment if you have medicare part None
+i marry a med how enter i'm calling to let you know that after this refund open enrollment if you have medicare part a and None
+i marry a med how enter i'm calling to let you know that after this refund open enrollment if you have medicare part a and be None
+i marry a med how enter i'm calling to let you know that after this refund open enrollment if you have medicare part a and be you are eligible None
+i marry a med how enter i'm calling to let you know that after this refund open enrollment if you have medicare part a and be you are eligible for None
+i marry a med how enter i'm calling to let you know that after this refund open enrollment if you have medicare part a and be you are eligible for None
+i marry a med how enter i'm calling to let you know that after this refund open enrollment if you have medicare part a and be you are eligible for great None
+i marry a med how enter i'm calling to let you know that after this refund open enrollment if you have medicare part a and be you are eligible for great newly added None
+i marry a med how enter i'm calling to let you know that after this refund open enrollment if you have medicare part a and be you are eligible for great newly added benefit None
+i marry a med how enter i'm calling to let you know that after this refund open enrollment if you have medicare part a and be you are eligible for great newly added benefit like None
+i marry a med how enter i'm calling to let you know that after this refund open enrollment if you have medicare part a and be you are eligible for great newly added benefit like monthly None
+i marry a med how enter i'm calling to let you know that after this refund open enrollment if you have medicare part a and be you are eligible for great newly added benefit like monthly one hundred None
+i marry a med how enter i'm calling to let you know that after this refund open enrollment if you have medicare part a and be you are eligible for great newly added benefit like monthly one hundred eighty None
+i marry a med how enter i'm calling to let you know that after this refund open enrollment if you have medicare part a and be you are eligible for great newly added benefit like monthly one hundred eighty dollars cash None
+i marry a med how enter i'm calling to let you know that after this refund open enrollment if you have medicare part a and be you are eligible for great newly added benefit like monthly one hundred eighty dollars cash back None
+i marry a med how enter i'm calling to let you know that after this refund open enrollment if you have medicare part a and be you are eligible for great newly added benefit like monthly one hundred eighty dollars cash back None
+i marry a med how enter i'm calling to let you know that after this refund open enrollment if you have medicare part a and be you are eligible for great newly added benefit like monthly one hundred eighty dollars cash back dental None
+i marry a med how enter i'm calling to let you know that after this refund open enrollment if you have medicare part a and be you are eligible for great newly added benefit like monthly one hundred eighty dollars cash back dental hearing None
+i marry a med how enter i'm calling to let you know that after this refund open enrollment if you have medicare part a and be you are eligible for great newly added benefit like monthly one hundred eighty dollars cash back dental hearing vision or None
+i marry a med how enter i'm calling to let you know that after this refund open enrollment if you have medicare part a and be you are eligible for great newly added benefit like monthly one hundred eighty dollars cash back dental hearing vision or not None
+i marry a med how enter i'm calling to let you know that after this refund open enrollment if you have medicare part a and be you are eligible for great newly added benefit like monthly one hundred eighty dollars cash back dental hearing vision or every little None
+i marry a med how enter i'm calling to let you know that after this refund open enrollment if you have medicare part a and be you are eligible for great newly added benefit like monthly one hundred eighty dollars cash back dental hearing vision or every little and food None
+i marry a med how and enter i'm calling to let you know that after this refund open enrollment if you have medicare part a and be you are eligible for great newly added benefit like monthly one hundred eighty dollars cash back dental hearing vision or was a robbery little and food cart None
+ None
+ None
+absolutely no None
+absolutely no conflict you None
+absolutely no conflict you None
+absolutely no conflict your oh do you have None
+absolutely no conflict your oh do you have None
+absolutely no conflict your oh do you have medicare part a None
+absolutely no conflict your oh do you have medicare part a None
+absolutely no conflict your oh do you have medicare part a and be None
+Time: 6
+listening 0
+listening 1
+listening 2
+listening 3
+listening 1
+listening 1
+listening 1
+listening 1
+listening 1
+User Spoke:  yes, but i am covered of everything.
+AI Detect : already
+--------------------------------------------------
+State: S_Already
+Playing : Already_Rebuttal.wav
+ None
+ None
+ None
+ None
+i understand None
+i understand None
+i understand and None
+i understand and it's great that None
+i understand and it's great that you're thinking None
+i understand and it's great that you're thinking ahead None
+i understand and it's great that you're thinking ahead None
+i understand and it's great that you're thinking ahead but we will None
+i understand and it's great that you're thinking ahead but we will like to show you None
+i understand and it's great that you're thinking ahead but we will like to show you some None
+i understand and it's great that you're thinking ahead but we will like to show you some comparable None
+i understand and it's great that you're thinking ahead but we will like to show you some comparable options to None
+i understand and it's great that you're thinking ahead but we will like to show you some comparable options to assure you None
+i understand and it's great that you're thinking ahead but we will like to show you some comparable options to assure you that you are None
+i understand and it's great that you're thinking ahead but we will like to show you some comparable options to assure you that you are getting the best None
+i marry a med how enter i'm calling to let you know that after this refund open enrollment if you have medicare part a and be you are eligible for great newly added benefit like monthly one hundred eighty dollars cash back None
+i marry a med how enter i'm calling to let you know that after this refund open enrollment if you have medicare part a and be you are eligible for great newly added benefit like monthly one hundred eighty dollars cash back None
+i marry a med how enter i'm calling to let you know that after this refund open enrollment if you have medicare part a and be you are eligible for great newly added benefit like monthly one hundred eighty dollars cash back dental None
+i marry a med how enter i'm calling to let you know that after this refund open enrollment if you have medicare part a and be you are eligible for great newly added benefit like monthly one hundred eighty dollars cash back dental hearing None
+i marry a med how enter i'm calling to let you know that after this refund open enrollment if you have medicare part a and be you are eligible for great newly added benefit like monthly one hundred eighty dollars cash back dental hearing vision or None
+i marry a med how enter i'm calling to let you know that after this refund open enrollment if you have medicare part a and be you are eligible for great newly added benefit like monthly one hundred eighty dollars cash back dental hearing vision or not None
+i marry a med how enter i'm calling to let you know that after this refund open enrollment if you have medicare part a and be you are eligible for great newly added benefit like monthly one hundred eighty dollars cash back dental hearing vision or every little None
+i marry a med how enter i'm calling to let you know that after this refund open enrollment if you have medicare part a and be you are eligible for great newly added benefit like monthly one hundred eighty dollars cash back dental hearing vision or every little and food None
+i marry a med how and enter i'm calling to let you know that after this refund open enrollment if you have medicare part a and be you are eligible for great newly added benefit like monthly one hundred eighty dollars cash back dental hearing vision or was a robbery little and food cart None
+ None
+ None
+absolutely no None
+absolutely no conflict you None
+absolutely no conflict you None
+absolutely no conflict your oh do you have None
+absolutely no conflict your oh do you have None
+absolutely no conflict your oh do you have medicare part a None
+absolutely no conflict your oh do you have medicare part a None
+absolutely no conflict your oh do you have medicare part a and be None
+Time: 6
+listening 0
+listening 1
+listening 2
+listening 3
+listening 1
+listening 1
+listening 1
+listening 1
+listening 1
+User Spoke:  yes, but i am covered of everything.
+AI Detect : already
+--------------------------------------------------
+State: S_Already
+Playing : Already_Rebuttal.wav
+ None
+ None
+ None
+ None
+i understand None
+i understand None
+i understand and None
+i understand and it's great that None
+i understand and it's great that you're thinking None
+i understand and it's great that you're thinking ahead None
+i understand and it's great that you're thinking ahead None
+i understand and it's great that you're thinking ahead but we will None
+i understand and it's great that you're thinking ahead but we will like to show you None
+i understand and it's great that you're thinking ahead but we will like to show you some None
+i understand and it's great that you're thinking ahead but we will like to show you some comparable None
+i understand and it's great that you're thinking ahead but we will like to show you some comparable options to None
+i understand and it's great that you're thinking ahead but we will like to show you some comparable options to assure you None
+i understand and it's great that you're thinking ahead but we will like to show you some comparable options to assure you that you are None
+i understand and it's great that you're thinking ahead but we will like to show you some comparable options to assure you that you are getting the best None
+i understand and it's great that you're thinking ahead but we will like to show you some comparable options to assure you that you are getting the best value None
+i understand and it's great that you're thinking ahead but we will like to show you some comparable options to assure you that you are getting the best value just None
+i understand and it's great that you're thinking ahead but we will like to show you some comparable options to assure you that you are getting the best value just see the None
+i understand and it's great that you're thinking ahead but we will like to show you some comparable options to assure you that you are getting the best value just see the information None
+Time: 5
+listening 0
+listening 1
+listening 2
+listening 3
+listening 4
+User Spoke: okay
+AI Detect : interested
+--------------------------------------------------
+State: S_TRANSFER
+Playing : transfer.wav
+ None
+ None
+ None
+ None
+ None
+oh great None
+oh right about it None
+Time: 3
+listening 0
+listening 1
+listening 2
+listening 3
+listening 4
+Data successfully written to ./logs/20240809160145_02831751304.json
+##################################################
+Disposition =  XFER
+##################################################
+==================================================
+Call # 1
+==================================================
+--------------------------------------------------
+State: S_HELLO
+Playing : hello.wav
+ None
+ None
+ None
+ None
+ None
+ None
+ None
+ None
+ None
+ None
+Time: 6.0
+listening 0
+listening 1
+User Spoke:  below.
+AI Detect : answering_machine
+Data successfully written to ./logs/20240809160153_01188817664.json
+##################################################
+Disposition =  A
+##################################################
+==================================================
+Call # 2
+==================================================
+--------------------------------------------------
+State: S_HELLO
+Playing : hello.wav
+ None
+ None
+ None
+ None
+ None
+ None
+ None
+ None
+ None
+ None
+Time: 6.0
+listening 0
+listening 1
+listening 2
+listening 1
+User Spoke:  hello.
+AI Detect : greetings
+--------------------------------------------------
+State: S_INTRO
+Playing : ./sounds/Sofia/intro/intro_pitch_q.wav
+ None
+ None
+ None
+ None
+hi this is so None
+hi this is sophia from None
+hi this is sophia from that helps None
+hi this is sophia from medical center None
+hi this is sophia from medical center i'm calling None
+hi this is sophia from medical center i'm calling to let you know None
+hi this is sophia from medical center i'm calling to let you know that after None
+hi this is sophia from medical center i'm calling to let you know that after this recent None
+hi this is sophia from medical center i'm calling to let you know that after this recent open and None
+hi this is sophia from medical center i'm calling to let you know that after this recent open enrollment None
+hi this is sophia from medical center i'm calling to let you know that after this recent open enrollment in None
+hi this is sophia from medical center i'm calling to let you know that after this recent open enrollment in medicare None
+hi this is sophia from medical center i'm calling to let you know that after this recent open enrollment in medicare part a None
+hi this is sophia from medical center i'm calling to let you know that after this recent open enrollment in medicare part a and None
+hi this is sophia from medical center i'm calling to let you know that after this recent open enrollment in medicare part a and be None
+hi this is sophia from medical center i'm calling to let you know that after this recent open enrollment in medicare part a and be you're eligible for None
+hi this is sophia from medical center i'm calling to let you know that after this recent open enrollment in medicare part a and be you're eligible for None
+hi this is sophia from medical center i'm calling to let you know that after this recent open enrollment in medicare part a and be you're eligible for great newly None
+hi this is sophia from medical center i'm calling to let you know that after this recent open enrollment in medicare part a and be you're eligible for great newly added None
+i understand and it's great that you're thinking ahead but we will like to show you some comparable options to assure you that you are getting the best value None
+i understand and it's great that you're thinking ahead but we will like to show you some comparable options to assure you that you are getting the best value just None
+i understand and it's great that you're thinking ahead but we will like to show you some comparable options to assure you that you are getting the best value just see the None
+i understand and it's great that you're thinking ahead but we will like to show you some comparable options to assure you that you are getting the best value just see the information None
+Time: 5
+listening 0
+listening 1
+listening 2
+listening 3
+listening 4
+User Spoke: okay
+AI Detect : interested
+--------------------------------------------------
+State: S_TRANSFER
+Playing : transfer.wav
+ None
+ None
+ None
+ None
+ None
+oh great None
+oh right about it None
+Time: 3
+listening 0
+listening 1
+listening 2
+listening 3
+listening 4
+Data successfully written to ./logs/20240809160145_02831751304.json
+##################################################
+Disposition =  XFER
+##################################################
+==================================================
+Call # 1
+==================================================
+--------------------------------------------------
+State: S_HELLO
+Playing : hello.wav
+ None
+ None
+ None
+ None
+ None
+ None
+ None
+ None
+ None
+ None
+Time: 6.0
+listening 0
+listening 1
+User Spoke:  below.
+AI Detect : answering_machine
+Data successfully written to ./logs/20240809160153_01188817664.json
+##################################################
+Disposition =  A
+##################################################
+==================================================
+Call # 2
+==================================================
+--------------------------------------------------
+State: S_HELLO
+Playing : hello.wav
+ None
+ None
+ None
+ None
+ None
+ None
+ None
+ None
+ None
+ None
+Time: 6.0
+listening 0
+listening 1
+listening 2
+listening 1
+User Spoke:  hello.
+AI Detect : greetings
+--------------------------------------------------
+State: S_INTRO
+Playing : ./sounds/Sofia/intro/intro_pitch_q.wav
+ None
+ None
+ None
+ None
+hi this is so None
+hi this is sophia from None
+hi this is sophia from that helps None
+hi this is sophia from medical center None
+hi this is sophia from medical center i'm calling None
+hi this is sophia from medical center i'm calling to let you know None
+hi this is sophia from medical center i'm calling to let you know that after None
+hi this is sophia from medical center i'm calling to let you know that after this recent None
+hi this is sophia from medical center i'm calling to let you know that after this recent open and None
+hi this is sophia from medical center i'm calling to let you know that after this recent open enrollment None
+hi this is sophia from medical center i'm calling to let you know that after this recent open enrollment in None
+hi this is sophia from medical center i'm calling to let you know that after this recent open enrollment in medicare None
+hi this is sophia from medical center i'm calling to let you know that after this recent open enrollment in medicare part a None
+hi this is sophia from medical center i'm calling to let you know that after this recent open enrollment in medicare part a and None
+hi this is sophia from medical center i'm calling to let you know that after this recent open enrollment in medicare part a and be None
+hi this is sophia from medical center i'm calling to let you know that after this recent open enrollment in medicare part a and be you're eligible for None
+hi this is sophia from medical center i'm calling to let you know that after this recent open enrollment in medicare part a and be you're eligible for None
+hi this is sophia from medical center i'm calling to let you know that after this recent open enrollment in medicare part a and be you're eligible for great newly None
+hi this is sophia from medical center i'm calling to let you know that after this recent open enrollment in medicare part a and be you're eligible for great newly added None
+hi this is sophia from medical center i'm calling to let you know that after this recent open enrollment in medicare part a and be you're eligible for great newly added benefit None
+hi this is sophia from medical center i'm calling to let you know that after this recent open enrollment in medicare part a and be you're eligible for great newly added benefit like monthly None
+hi this is sophia from medical center i'm calling to let you know that after this recent open enrollment in medicare part a and be you're eligible for great newly added benefit like monthly one None
+hi this is sophia from medical center i'm calling to let you know that after this recent open enrollment in medicare part a and be you're eligible for great newly added benefit like monthly one hundred and None
+hi this is sophia from medical center i'm calling to let you know that after this recent open enrollment in medicare part a and be you're eligible for great newly added benefit like monthly one hundred and eighty dollars None
+hi this is sophia from medical center i'm calling to let you know that after this recent open enrollment in medicare part a and be you're eligible for great newly added benefit like monthly one hundred and eighty dollars cash None
+hi this is sophia from medical center i'm calling to let you know that after this recent open enrollment in medicare part a and be you're eligible for great newly added benefit like monthly one hundred and eighty dollars cash None
+hi this is sophia from medical center i'm calling to let you know that after this recent open enrollment in medicare part a and be you're eligible for great newly added benefit like monthly one hundred and eighty dollars cash dental None
+hi this is sophia from medical center i'm calling to let you know that after this recent open enrollment in medicare part a and be you're eligible for great newly added benefit like monthly one hundred and eighty dollars cash dental fearing None
+hi this is sophia from medical center i'm calling to let you know that after this recent open enrollment in medicare part a and be you're eligible for great newly added benefit like monthly one hundred and eighty dollars cash dental fearing None
+hi this is sophia from medical center i'm calling to let you know that after this recent open enrollment in medicare part a and be you're eligible for great newly added benefit like monthly one hundred and eighty dollars cash dental fearing vision None
+hi this is sophia from medical center i'm calling to let you know that after this recent open enrollment in medicare part a and be you're eligible for great newly added benefit like monthly one hundred and eighty dollars cash dental fearing vision prescription None
+hi this is sophia from medical center i'm calling to let you know that after this recent open enrollment in medicare part a and be you're eligible for great newly added benefit like monthly one hundred and eighty dollars cash dental fearing vision prescription coverages None
+hi this is sophia from medical center i'm calling to let you know that after this recent open enrollment in medicare part a and be you're eligible for great newly added benefit like monthly one hundred and eighty dollars cash dental fearing vision prescription coverages and None
+hi this is sophia from medical center i'm calling to let you know that after this recent open enrollment in medicare part a and be you're eligible for great newly added benefit like monthly one hundred and eighty dollars cash dental fearing vision prescription coverages and food cart None
+hi this is sophia from medical center i'm calling to let you know that after this recent open enrollment in medicare part a and be you're eligible for great newly added benefit like monthly one hundred and eighty dollars cash dental fearing vision prescription coverages and food card i absolutely None
+hi this is sophia from medical center i'm calling to let you know that after this recent open enrollment in medicare part a and be you're eligible for great newly added benefit like monthly one hundred and eighty dollars cash dental fearing vision prescription coverages and food car that absolutely None
+hi this is sophia from medical center i'm calling to let you know that after this recent open enrollment in medicare part a and be you're eligible for great newly added benefit None
+hi this is sophia from medical center i'm calling to let you know that after this recent open enrollment in medicare part a and be you're eligible for great newly added benefit like monthly None
+hi this is sophia from medical center i'm calling to let you know that after this recent open enrollment in medicare part a and be you're eligible for great newly added benefit like monthly one None
+hi this is sophia from medical center i'm calling to let you know that after this recent open enrollment in medicare part a and be you're eligible for great newly added benefit like monthly one hundred and None
+hi this is sophia from medical center i'm calling to let you know that after this recent open enrollment in medicare part a and be you're eligible for great newly added benefit like monthly one hundred and eighty dollars None
+hi this is sophia from medical center i'm calling to let you know that after this recent open enrollment in medicare part a and be you're eligible for great newly added benefit like monthly one hundred and eighty dollars cash None
+hi this is sophia from medical center i'm calling to let you know that after this recent open enrollment in medicare part a and be you're eligible for great newly added benefit like monthly one hundred and eighty dollars cash None
+hi this is sophia from medical center i'm calling to let you know that after this recent open enrollment in medicare part a and be you're eligible for great newly added benefit like monthly one hundred and eighty dollars cash dental None
+hi this is sophia from medical center i'm calling to let you know that after this recent open enrollment in medicare part a and be you're eligible for great newly added benefit like monthly one hundred and eighty dollars cash dental fearing None
+hi this is sophia from medical center i'm calling to let you know that after this recent open enrollment in medicare part a and be you're eligible for great newly added benefit like monthly one hundred and eighty dollars cash dental fearing None
+hi this is sophia from medical center i'm calling to let you know that after this recent open enrollment in medicare part a and be you're eligible for great newly added benefit like monthly one hundred and eighty dollars cash dental fearing vision None
+hi this is sophia from medical center i'm calling to let you know that after this recent open enrollment in medicare part a and be you're eligible for great newly added benefit like monthly one hundred and eighty dollars cash dental fearing vision prescription None
+hi this is sophia from medical center i'm calling to let you know that after this recent open enrollment in medicare part a and be you're eligible for great newly added benefit like monthly one hundred and eighty dollars cash dental fearing vision prescription coverages None
+hi this is sophia from medical center i'm calling to let you know that after this recent open enrollment in medicare part a and be you're eligible for great newly added benefit like monthly one hundred and eighty dollars cash dental fearing vision prescription coverages and None
+hi this is sophia from medical center i'm calling to let you know that after this recent open enrollment in medicare part a and be you're eligible for great newly added benefit like monthly one hundred and eighty dollars cash dental fearing vision prescription coverages and food cart None
+hi this is sophia from medical center i'm calling to let you know that after this recent open enrollment in medicare part a and be you're eligible for great newly added benefit like monthly one hundred and eighty dollars cash dental fearing vision prescription coverages and food card i absolutely None
+hi this is sophia from medical center i'm calling to let you know that after this recent open enrollment in medicare part a and be you're eligible for great newly added benefit like monthly one hundred and eighty dollars cash dental fearing vision prescription coverages and food car that absolutely None
+hi this is sophia from that health center i'm calling to let you know that after this recent open enrollment in club medicare part a and be you're eligible for great newly added benefit like monthly one hundred and eighty dollars cash dental fearing vision prescription coverages and food card i absolutely no cost None
+ None
+ None
+so do you have medicare None
+so do you have medicare part a None
+so do you have medicare part a and be None
+Time: 6
+listening 0
+listening 1
+listening 2
+listening 3
+listening 1
+listening 1
+listening 1
+User Spoke:  i am not interested in your check.
+AI Detect : Not_Interested
+--------------------------------------------------
+State: S_NI
+Playing : ni_rebuttal.wav
+ None
+ None
+ None
+ None
+ None
+ None
+i gotta None
+i got it is not None
+i got it is nearly adequate None
+i got it is really added benefit None
+i got it is really added benefit have just None
+i got it is really added benefit have just been None
+i got it is really added benefit have just been approved in your None
+i got it is really added benefit have just been approved in your state None
+i got it is really added benefit have just been approved in your state it will only None
+i got it is really added benefit have just been approved in your state it will only take a None
+i got it is really added benefit have just been approved in your state it will only take a minute to check None
+i got it is really added benefit have just been approved in your state it will only take a minute to check if you are None
+i got it is really added benefit have just been approved in your state it will only take a minute to check if you are eligible None
+i got it is really added benefit have just been approved in your state it will only take a minute to check if you are eligible for one hundred None
+i got it is really added benefit have just been approved in your state it will only take a minute to check if you are eligible for one hundred and None
+i got it is really added benefit have just been approved in your state it will only take a minute to check if you are eligible for one hundred and eighty dollars None
+i got it is really added benefit have just been approved in your state it will only take a minute to check if you are eligible for one hundred and eighty dollars cash None
+i got it is really added benefit have just been approved in your state it will only take a minute to check if you are eligible for one hundred and eighty dollars cash back so None
+i got it is really added benefit have just been approved in your state it will only take a minute to check if you are eligible for one hundred and eighty dollars cash back so None
+i got it is really added benefit have just been approved in your state it will only take a minute to check if you are eligible for one hundred and eighty dollars cash back so do have None
+i got it is really added benefit have just been approved in your state it will only take a minute to check if you are eligible for one hundred and eighty dollars cash back so do have medicare part None
+i got it is really added benefit have just been approved in your state it will only take a minute to check if you are eligible for one hundred and eighty dollars cash back so do have medicare part a None
+i got it is really added benefit have just been approved in your state it will only take a minute to check if you are eligible for one hundred and eighty dollars cash back so do have medicare part a and None
+Time: 5
+listening 0
+listening 1
+listening 2
+listening 3
+listening 4
+listening 5
+listening 6
+User Spoke:  that's what you do.
+AI Detect : other
+--------------------------------------------------
+State: S_TRANSFER
+Playing : transfer.wav
+ None
+ None
+ None
+ None
+okay great None
+okay great None
+okay great just hold on a None
+Time: 3
+listening 0
+listening 1
+listening 2
+listening 3
+listening 4
+Data successfully written to ./logs/20240809160253_02361395803.json
+##################################################
+Disposition =  XFER
+##################################################
+==================================================
+Call # 3
+================================================== None
+hi this is sophia from that health center i'm calling to let you know that after this recent open enrollment in club medicare part a and be you're eligible for great newly added benefit like monthly one hundred and eighty dollars cash dental fearing vision prescription coverages and food card i absolutely no cost None
+ None
+ None
+so do you have medicare None
+so do you have medicare part a None
+so do you have medicare part a and be None
+Time: 6
+listening 0
+listening 1
+listening 2
+listening 3
+listening 1
+listening 1
+listening 1
+User Spoke:  i am not interested in your check.
+AI Detect : Not_Interested
+--------------------------------------------------
+State: S_NI
+Playing : ni_rebuttal.wav
+ None
+ None
+ None
+ None
+ None
+ None
+i gotta None
+i got it is not None
+i got it is nearly adequate None
+i got it is really added benefit None
+i got it is really added benefit have just None
+i got it is really added benefit have just been None
+i got it is really added benefit have just been approved in your None
+i got it is really added benefit have just been approved in your state None
+i got it is really added benefit have just been approved in your state it will only None
+i got it is really added benefit have just been approved in your state it will only take a None
+i got it is really added benefit have just been approved in your state it will only take a minute to check None
+i got it is really added benefit have just been approved in your state it will only take a minute to check if you are None
+i got it is really added benefit have just been approved in your state it will only take a minute to check if you are eligible None
+i got it is really added benefit have just been approved in your state it will only take a minute to check if you are eligible for one hundred None
+i got it is really added benefit have just been approved in your state it will only take a minute to check if you are eligible for one hundred and None
+i got it is really added benefit have just been approved in your state it will only take a minute to check if you are eligible for one hundred and eighty dollars None
+i got it is really added benefit have just been approved in your state it will only take a minute to check if you are eligible for one hundred and eighty dollars cash None
+i got it is really added benefit have just been approved in your state it will only take a minute to check if you are eligible for one hundred and eighty dollars cash back so None
+i got it is really added benefit have just been approved in your state it will only take a minute to check if you are eligible for one hundred and eighty dollars cash back so None
+i got it is really added benefit have just been approved in your state it will only take a minute to check if you are eligible for one hundred and eighty dollars cash back so do have None
+i got it is really added benefit have just been approved in your state it will only take a minute to check if you are eligible for one hundred and eighty dollars cash back so do have medicare part None
+i got it is really added benefit have just been approved in your state it will only take a minute to check if you are eligible for one hundred and eighty dollars cash back so do have medicare part a None
+i got it is really added benefit have just been approved in your state it will only take a minute to check if you are eligible for one hundred and eighty dollars cash back so do have medicare part a and None
+Time: 5
+listening 0
+listening 1
+listening 2
+listening 3
+listening 4
+listening 5
+listening 6
+User Spoke:  that's what you do.
+AI Detect : other
+--------------------------------------------------
+State: S_TRANSFER
+Playing : transfer.wav
+ None
+ None
+ None
+ None
+okay great None
+okay great None
+okay great just hold on a None
+Time: 3
+listening 0
+listening 1
+listening 2
+listening 3
+listening 4
+Data successfully written to ./logs/20240809160253_02361395803.json
+##################################################
+Disposition =  XFER
+##################################################
+==================================================
+Call # 3
+==================================================
+--------------------------------------------------
+State: S_HELLO
+Playing : hello.wav
+ None
+ None
+ None
+ None
+ None
+ None
+ None
+ None
+ None
+ None
+Time: 6.0
+            ---- BOT JSON LOADED ----             
+==================================================
+    ____    __           __      ___    _    __    __      __      
+   /  _/___/ /________ _/ /__   /   |  (_)  / /   / /_____/ /      
+   / // __  / ___/ __ `/ //_/  / /| | / /  / /   / __/ __  /       
+ _/ // /_/ / /  / /_/ / ,<    / ___ |/ /  / /___/ /_/ /_/ /_       
+/___/\__,_/_/   \__,_/_/|_|  /_/  |_/_/  /_____/\__/\__,_/(_)      
+                                                                   
+
+Version 3.1
+Dated:  08/08/2024 @ 5:40 PM
+Company Name:  Prime BPO
+==================================================
+==================================================
+Call # 0
+==================================================
+'audio_dict'
+--------------------------------------------------
+State: S_HELLO
+Playing : hello.wav
+ None
+ None
+Time: 6.0
+listening 0
+listening 1
+listening 1
+User Spoke:  hello
+AI Detect : greetings
+--------------------------------------------------
+State: S_INTRO
+Playing : ./sounds/Harper/intro/intro_pitch_q.wav
+ None
+ None
+ None
+ None
+ None
+hi this is None
+hi this is how None
+hi this is harper from that None
+hi this is harper from medical center None
+hi this is harper from medical center i'm calling None
+hi this is harper from medical center i'm calling to None
+hi this is harper from medical center i'm calling to inform you that None
+hi this is harper from medical center i'm calling to inform you that after the None
+hi this is harper from medical center i'm calling to inform you that after the recent None
+hi this is harper from medical center i'm calling to inform you that after the recent open enrollment None
+hi this is harper from medical center i'm calling to inform you that after the recent open enrollment if you None
+hi this is harper from medical center i'm calling to inform you that after the recent open enrollment if you have None
+hi this is harper from medical center i'm calling to inform you that after the recent open enrollment if you have medicare part a None
+hi this is harper from medical center i'm calling to inform you that after the recent open enrollment if you have medicare part a and None
+hi this is harper from medical center i'm calling to inform you that after the recent open enrollment if you have medicare part a and party None
+hi this is harper from medical center i'm calling to inform you that after the recent open enrollment if you have medicare part a and party you're eligible None
+hi this is harper from medical center i'm calling to inform you that after the recent open enrollment if you have medicare part a and party you're eligible for None
+hi this is harper from medical center i'm calling to inform you that after the recent open enrollment if you have medicare part a and party you're eligible for exciting new None
+hi this is harper from medical center i'm calling to inform you that after the recent open enrollment if you have medicare part a and party you're eligible for exciting new benefit None
+hi this is harper from medical center i'm calling to inform you that after the recent open enrollment if you have medicare part a and party you're eligible for exciting new benefits such as a None
+hi this is harper from medical center i'm calling to inform you that after the recent open enrollment if you have medicare part a and party you're eligible for exciting new benefits such as a one hundred None
+hi this is harper from medical center i'm calling to inform you that after the recent open enrollment if you have medicare part a and party you're eligible for exciting new benefits such as a one hundred and None
+hi this is harper from medical center i'm calling to inform you that after the recent open enrollment if you have medicare part a and party you're eligible for exciting new benefits such as a one hundred and eighty dollars None
+hi this is harper from medical center i'm calling to inform you that after the recent open enrollment if you have medicare part a and party you're eligible for exciting new benefits such as a one hundred and eighty dollar monthly None
+hi this is harper from medical center i'm calling to inform you that after the recent open enrollment if you have medicare part a and party you're eligible for exciting new benefits such as a one hundred and eighty dollar monthly cash back            ---- BOT JSON LOADED ----             
+==================================================
+    ____    __           __      ___    _    __    __      __      
+   /  _/___/ /________ _/ /__   /   |  (_)  / /   / /_____/ /      
+   / // __  / ___/ __ `/ //_/  / /| | / /  / /   / __/ __  /       
+ _/ // /_/ / /  / /_/ / ,<    / ___ |/ /  / /___/ /_/ /_/ /_       
+/___/\__,_/_/   \__,_/_/|_|  /_/  |_/_/  /_____/\__/\__,_/(_)      
+                                                                   
+
+Version 3.1
+Dated:  08/08/2024 @ 5:40 PM
+Company Name:  Prime BPO
+==================================================
+==================================================
+Call # 0
+==================================================
+'audio_dict'
+--------------------------------------------------
+State: S_HELLO
+Playing : hello.wav
+ None
+ None
+Time: 6.0
+listening 0
+listening 1
+listening 1
+User Spoke:  hello
+AI Detect : greetings
+--------------------------------------------------
+State: S_INTRO
+Playing : ./sounds/Harper/intro/intro_pitch_q.wav
+ None
+ None
+ None
+ None
+ None
+hi this is None
+hi this is how None
+hi this is harper from that None
+hi this is harper from medical center None
+hi this is harper from medical center i'm calling None
+hi this is harper from medical center i'm calling to None
+hi this is harper from medical center i'm calling to inform you that None
+hi this is harper from medical center i'm calling to inform you that after the None
+hi this is harper from medical center i'm calling to inform you that after the recent None
+hi this is harper from medical center i'm calling to inform you that after the recent open enrollment None
+hi this is harper from medical center i'm calling to inform you that after the recent open enrollment if you None
+hi this is harper from medical center i'm calling to inform you that after the recent open enrollment if you have None
+hi this is harper from medical center i'm calling to inform you that after the recent open enrollment if you have medicare part a None
+hi this is harper from medical center i'm calling to inform you that after the recent open enrollment if you have medicare part a and None
+hi this is harper from medical center i'm calling to inform you that after the recent open enrollment if you have medicare part a and party None
+hi this is harper from medical center i'm calling to inform you that after the recent open enrollment if you have medicare part a and party you're eligible None
+hi this is harper from medical center i'm calling to inform you that after the recent open enrollment if you have medicare part a and party you're eligible for None
+hi this is harper from medical center i'm calling to inform you that after the recent open enrollment if you have medicare part a and party you're eligible for exciting new None
+hi this is harper from medical center i'm calling to inform you that after the recent open enrollment if you have medicare part a and party you're eligible for exciting new benefit None
+hi this is harper from medical center i'm calling to inform you that after the recent open enrollment if you have medicare part a and party you're eligible for exciting new benefits such as a None
+hi this is harper from medical center i'm calling to inform you that after the recent open enrollment if you have medicare part a and party you're eligible for exciting new benefits such as a one hundred None
+hi this is harper from medical center i'm calling to inform you that after the recent open enrollment if you have medicare part a and party you're eligible for exciting new benefits such as a one hundred and None
+hi this is harper from medical center i'm calling to inform you that after the recent open enrollment if you have medicare part a and party you're eligible for exciting new benefits such as a one hundred and eighty dollars None
+hi this is harper from medical center i'm calling to inform you that after the recent open enrollment if you have medicare part a and party you're eligible for exciting new benefits such as a one hundred and eighty dollar monthly None
+hi this is harper from medical center i'm calling to inform you that after the recent open enrollment if you have medicare part a and party you're eligible for exciting new benefits such as a one hundred and eighty dollar monthly cash back None
+hi this is harper from medical center i'm calling to inform you that after the recent open enrollment if you have medicare part a and party you're eligible for exciting new benefits such as a one hundred and eighty dollar monthly cash back down None
+hi this is harper from medical center i'm calling to inform you that after the recent open enrollment if you have medicare part a and party you're eligible for exciting new benefits such as a one hundred and eighty dollar monthly cash back dental None
+hi this is harper from medical center i'm calling to inform you that after the recent open enrollment if you have medicare part a and party you're eligible for exciting new benefits such as a one hundred and eighty dollar monthly cash back dental hearing None
+hi this is harper from medical center i'm calling to inform you that after the recent open enrollment if you have medicare part a and party you're eligible for exciting new benefits such as a one hundred and eighty dollar monthly cash back dental and vision None
+hi this is harper from medical center i'm calling to inform you that after the recent open enrollment if you have medicare part a and party you're eligible for exciting new benefits such as a one hundred and eighty dollar monthly cash back dental and vision and None
+hi this is harper from medical center i'm calling to inform you that after the recent open enrollment if you have medicare part a and party you're eligible for exciting new benefits such as a one hundred and eighty dollar monthly cash back dental and vision and None
+hi this is harper from medical center i'm calling to inform you that after the recent open enrollment if you have medicare part a and party you're eligible for exciting new benefits such as a one hundred and eighty dollar monthly cash back dental and vision and prescription None
+hi this is harper from medical center i'm calling to inform you that after the recent open enrollment if you have medicare part a and party you're eligible for exciting new benefits such as a one hundred and eighty dollar monthly cash back dental and vision and prescription coverage None
+hi this is harper from medical center i'm calling to inform you that after the recent open enrollment if you have medicare part a and party you're eligible for exciting new benefits such as a one hundred and eighty dollar monthly cash back dental and vision and prescription coverage as well None
+hi this is harper from medical center i'm calling to inform you that after the recent open enrollment if you have medicare part a and party you're eligible for exciting new benefits such as a one hundred and eighty dollar monthly cash back dental and vision and prescription coverage as well as a food None
+hi this is harper from that health center i'm calling to inform you that after the recent open enrollment if you have medicare part a and party you're eligible for exciting new benefits such as a one hundred and eighty dollar monthly cash back dental hearing vision and prescription coverage as well as a food cart None
+a lot None
+at no cost None
+at no cost to have medical None
+at no cost to have medicare part None
+at no cost to have medicare part a None
+at no cost to have medicare part a and be None
+Time: 6
+listening 0
+listening 1
+listening 1
+listening 1
+listening 1
+listening 1
+listening 1
+User Spoke:  i am 89 years old, i don't think
+AI Detect : decline
+Data successfully written to ./logs/20240809160337_01106289113.json
+##################################################
+Disposition =  DNQ
+##################################################
+==================================================
+Call # 1
+==================================================
+--------------------------------------------------
+State: S_HELLO
+Playing : hello.wav
+ None
+stop gun None
+stop gun and None
+stop gun and None
+stop gun None
+ None
+ None
+ None
+ None
+ None
+ None
+ None
+Time: 6.0

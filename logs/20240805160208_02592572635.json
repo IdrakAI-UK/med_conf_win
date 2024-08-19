@@ -1,0 +1,1 @@
+{"call_started": "16:02:02.803257", "called_end": "16:02:08.768117", "phone_number": "02592572635", "disposition": "LBR", "states": [{"state_name": "S_HELLO", "playing": ["hello.wav"], "transcript": {"helping_trans": "i only speak or the", "transcript": " i only speak urdu"}, "predicted_class": {"res": "language_barrier", "method": "b"}}]}

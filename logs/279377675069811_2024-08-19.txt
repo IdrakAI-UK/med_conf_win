@@ -1,0 +1,896 @@
+            ---- BOT JSON LOADED ----             
+==================================================
+    ____    __           __      ___    _    __    __      __      
+   /  _/___/ /________ _/ /__   /   |  (_)  / /   / /_____/ /      
+   / // __  / ___/ __ `/ //_/  / /| | / /  / /   / __/ __  /       
+ _/ // /_/ / /  / /_/ / ,<    / ___ |/ /  / /___/ /_/ /_/ /_       
+/___/\__,_/_/   \__,_/_/|_|  /_/  |_/_/  /_____/\__/\__,_/(_)      
+                                                                   
+
+Version 1.0.0.L_A
+Dated:  08/08/2024 @ 5:40 PM
+Company Name:  Ali Test
+==================================================
+==================================================
+Call # 0
+==================================================
+'audio_dict'
+--------------------------------------------------
+State: S_PITCH
+Playing : ./sounds/saira/pitch/pitch_1.wav
+Time: 3
+listening 0
+            ---- BOT JSON LOADED ----             
+==================================================
+    ____    __           __      ___    _    __    __      __      
+   /  _/___/ /________ _/ /__   /   |  (_)  / /   / /_____/ /      
+   / // __  / ___/ __ `/ //_/  / /| | / /  / /   / __/ __  /       
+ _/ // /_/ / /  / /_/ / ,<    / ___ |/ /  / /___/ /_/ /_/ /_       
+/___/\__,_/_/   \__,_/_/|_|  /_/  |_/_/  /_____/\__/\__,_/(_)      
+                                                                   
+
+Version 1.0.0.L_A
+Dated:  08/08/2024 @ 5:40 PM
+Company Name:  Ali Test
+==================================================
+==================================================
+Call # 0
+==================================================
+'audio_dict'
+--------------------------------------------------
+State: S_PITCH
+Playing : ./sounds/saira/pitch/pitch_2.wav
+Time: 3
+listening 0
+listening 1
+listening 2
+listening 1
+User Spoke:  yes, i do
+AI Detect : affirmation
+--------------------------------------------------
+State: S_TRANSFER
+Playing : transfer.wav
+            ---- BOT JSON LOADED ----             
+==================================================
+    ____    __           __      ___    _    __    __      __      
+   /  _/___/ /________ _/ /__   /   |  (_)  / /   / /_____/ /      
+   / // __  / ___/ __ `/ //_/  / /| | / /  / /   / __/ __  /       
+ _/ // /_/ / /  / /_/ / ,<    / ___ |/ /  / /___/ /_/ /_/ /_       
+/___/\__,_/_/   \__,_/_/|_|  /_/  |_/_/  /_____/\__/\__,_/(_)      
+                                                                   
+
+Version 1.0.0.L_A
+Dated:  08/08/2024 @ 5:40 PM
+Company Name:  Ali Test
+==================================================
+==================================================
+Call # 0
+==================================================
+'audio_dict'
+--------------------------------------------------
+State: S_HELLO
+Playing : Hello.wav
+Time: 6.0
+listening 0
+listening 1
+listening 2
+listening 3
+listening 1
+User Spoke:  hello.
+AI Detect : greetings
+--------------------------------------------------
+State: S_INTRO
+Playing : ./sounds/saira/intro/Intro_morning.wav
+Time: 6
+listening 0
+listening 1
+listening 2
+listening 1
+listening 1
+User Spoke:  just please.
+AI Detect : interested
+--------------------------------------------------
+State: S_PITCH
+Playing : ./sounds/saira/pitch/pitch_2.wav
+Time: 3
+listening 0
+listening 1
+listening 2
+listening 3
+listening 1
+User Spoke:  no, i don't.
+AI Detect : decline
+--------------------------------------------------
+State: S_AGE_QUESTION
+Playing : ./sounds/saira/age/1.wav
+Time: 6
+listening 0
+listening 1
+listening 2
+listening 3
+listening 4
+listening 5
+listening 6
+listening 1
+listening 1
+User Spoke:  just 6 or 7
+AI Detect : decline
+Playing : DNQ_cux_rebuttal.wav
+Data successfully written to ./logs/20240819125927_01357705481.json
+##################################################
+Disposition =  DNQ
+##################################################
+            ---- BOT JSON LOADED ----             
+==================================================
+    ____    __           __      ___    _    __    __      __      
+   /  _/___/ /________ _/ /__   /   |  (_)  / /   / /_____/ /      
+   / // __  / ___/ __ `/ //_/  / /| | / /  / /   / __/ __  /       
+ _/ // /_/ / /  / /_/ / ,<    / ___ |/ /  / /___/ /_/ /_/ /_       
+/___/\__,_/_/   \__,_/_/|_|  /_/  |_/_/  /_____/\__/\__,_/(_)      
+                                                                   
+
+Version 1.0.0.L_A
+Dated:  08/08/2024 @ 5:40 PM
+Company Name:  Ali Test
+==================================================
+==================================================
+Call # 0
+==================================================
+'audio_dict'
+--------------------------------------------------
+State: S_HELLO
+Playing : Hello.wav
+Time: 6.0
+listening 0
+listening 1
+listening 2
+listening 3
+listening 4
+listening 5
+listening 1
+User Spoke:  your church.
+AI Detect : answering_machine
+Data successfully written to ./logs/20240819130039_01137849521.json
+##################################################
+Disposition =  A
+##################################################
+==================================================
+Call # 1
+==================================================
+--------------------------------------------------
+State: S_HELLO
+Playing : Hello.wav
+Time: 6.0
+listening 0
+listening 1
+listening 1
+listening 1
+User Spoke:  as-salamu alaykum
+AI Detect : greetings
+--------------------------------------------------
+State: S_INTRO
+Playing : ./sounds/brin/intro/Intro.wav
+Time: 6
+listening 0
+listening 1
+listening 1
+User Spoke:  i think that's fine.
+AI Detect : affirmation
+--------------------------------------------------
+State: S_PITCH
+Playing : ./sounds/brin/pitch/pitch_3.wav
+Time: 3
+listening 0
+listening 1
+listening 2
+listening 1
+User Spoke:  hope
+AI Detect : interested
+--------------------------------------------------
+State: S_PITCH_AGAIN
+Playing : say that again AB.wav
+Time: 3
+listening 0
+listening 1
+listening 2
+listening 3
+listening 1
+listening 1
+User Spoke:  no, i don't have.
+AI Detect : decline
+--------------------------------------------------
+State: S_AGE_QUESTION
+Playing : ./sounds/brin/age/1.wav
+Time: 6
+listening 0
+listening 1
+listening 2
+listening 3
+listening 1
+listening 1
+listening 1
+User Spoke: i'm sixty seven
+            ---- BOT JSON LOADED ----             
+==================================================
+    ____    __           __      ___    _    __    __      __      
+   /  _/___/ /________ _/ /__   /   |  (_)  / /   / /_____/ /      
+   / // __  / ___/ __ `/ //_/  / /| | / /  / /   / __/ __  /       
+ _/ // /_/ / /  / /_/ / ,<    / ___ |/ /  / /___/ /_/ /_/ /_       
+/___/\__,_/_/   \__,_/_/|_|  /_/  |_/_/  /_____/\__/\__,_/(_)      
+                                                                   
+
+Version 1.0.0.L_A
+Dated:  08/08/2024 @ 5:40 PM
+Company Name:  Ali Test
+==================================================
+==================================================
+Call # 0
+==================================================
+'audio_dict'
+--------------------------------------------------
+State: S_HELLO
+Playing : Hello.wav
+Time: 6.0
+listening 0
+listening 1
+listening 1
+listening 1
+listening 2
+User Spoke:  hello.
+AI Detect : greetings
+--------------------------------------------------
+State: S_INTRO
+Playing : ./sounds/saira/intro/Intro_evening.wav
+Time: 6
+listening 0
+listening 1
+listening 2
+listening 1
+User Spoke:  okay, please go ahead.
+AI Detect : interested
+--------------------------------------------------
+State: S_PITCH
+Playing : ./sounds/saira/pitch/pitch_3.wav
+Matched keyword: no cal
+User Spoke:  i'd what we do here and help you get additional medicare benefits like dental hearing vision great corruption coverage and and good card from leading twenty seven insurance company that absolutely no call
+==================================================
+DNC Detected at S_PITCH
+==================================================
+Data successfully written to ./logs/20240819130655_02322807966.json
+##################################################
+Disposition =  DNC
+##################################################
+            ---- BOT JSON LOADED ----             
+==================================================
+    ____    __           __      ___    _    __    __      __      
+   /  _/___/ /________ _/ /__   /   |  (_)  / /   / /_____/ /      
+   / // __  / ___/ __ `/ //_/  / /| | / /  / /   / __/ __  /       
+ _/ // /_/ / /  / /_/ / ,<    / ___ |/ /  / /___/ /_/ /_/ /_       
+/___/\__,_/_/   \__,_/_/|_|  /_/  |_/_/  /_____/\__/\__,_/(_)      
+                                                                   
+
+Version 1.0.0.L_A
+Dated:  08/08/2024 @ 5:40 PM
+Company Name:  Ali Test
+==================================================
+==================================================
+Call # 0
+==================================================
+'audio_dict'
+--------------------------------------------------
+State: S_HELLO
+Playing : Hello.wav
+Time: 6.0
+listening 0
+listening 1
+listening 1
+listening 1
+User Spoke:  hello.
+AI Detect : greetings
+--------------------------------------------------
+State: S_INTRO
+Playing : ./sounds/saira/intro/Intro.wav
+Time: 6
+listening 0
+listening 1
+listening 2
+listening 3
+listening 4
+listening 1
+User Spoke:  just go ahead.
+AI Detect : interested
+--------------------------------------------------
+State: S_PITCH
+Playing : ./sounds/saira/pitch/pitch_3.wav
+Matched keyword: no cal
+User Spoke:  i know what we do here and help you get additional medicare benefits like dental hearing vision green corruption coverages and food card from leading twenty seven insurance company at absolutely no call
+==================================================
+DNC Detected at S_PITCH
+==================================================
+Data successfully written to ./logs/20240819131007_01312211139.json
+##################################################
+Disposition =  DNC
+##################################################
+            ---- BOT JSON LOADED ----             
+==================================================
+    ____    __           __      ___    _    __    __      __      
+   /  _/___/ /________ _/ /__   /   |  (_)  / /   / /_____/ /      
+   / // __  / ___/ __ `/ //_/  / /| | / /  / /   / __/ __  /       
+ _/ // /_/ / /  / /_/ / ,<    / ___ |/ /  / /___/ /_/ /_/ /_       
+/___/\__,_/_/   \__,_/_/|_|  /_/  |_/_/  /_____/\__/\__,_/(_)      
+                                                                   
+
+Version 1.0.0.L_A
+Dated:  08/08/2024 @ 5:40 PM
+Company Name:  Ali Test
+==================================================
+==================================================
+Call # 0
+==================================================
+'audio_dict'
+--------------------------------------------------
+State: S_HELLO
+Playing : Hello.wav
+Time: 6.0
+listening 0
+listening 1
+listening 2
+User Spoke:  hello.
+AI Detect : greetings
+--------------------------------------------------
+State: S_INTRO
+Playing : ./sounds/saira/intro/Intro_evening.wav
+Time: 6
+listening 0
+listening 1
+listening 2
+listening 3
+listening 1
+listening 1
+User Spoke:  just go.
+AI Detect : interested
+--------------------------------------------------
+State: S_PITCH
+Playing : ./sounds/saira/pitch/pitch_3.wav
+Matched keyword: no cal
+User Spoke:  i know what we do here and help you get additional medicare benefits like dental hearing vision pre emption coverages and food card from leading twenty seven insurance company that absolutely no call
+==================================================
+DNC Detected at S_PITCH
+==================================================
+Data successfully written to ./logs/20240819131242_02289893187.json
+##################################################
+Disposition =  DNC
+##################################################
+==================================================
+Call # 1
+==================================================
+--------------------------------------------------
+State: S_HELLO
+Playing : Hello.wav
+            ---- BOT JSON LOADED ----             
+==================================================
+    ____    __           __      ___    _    __    __      __      
+   /  _/___/ /________ _/ /__   /   |  (_)  / /   / /_____/ /      
+   / // __  / ___/ __ `/ //_/  / /| | / /  / /   / __/ __  /       
+ _/ // /_/ / /  / /_/ / ,<    / ___ |/ /  / /___/ /_/ /_/ /_       
+/___/\__,_/_/   \__,_/_/|_|  /_/  |_/_/  /_____/\__/\__,_/(_)      
+                                                                   
+
+Version 1.0.0.L_A
+Dated:  08/08/2024 @ 5:40 PM
+Company Name:  Ali Test
+==================================================
+==================================================
+Call # 0
+==================================================
+'audio_dict'
+--------------------------------------------------
+State: S_HELLO
+Playing : Hello.wav
+Time: 6.0
+listening 0
+listening 1
+listening 2
+listening 3
+listening 1
+User Spoke:  hello.
+AI Detect : greetings
+--------------------------------------------------
+State: S_INTRO
+Playing : ./sounds/brin/intro/Intro.wav
+Time: 6
+listening 0
+listening 1
+listening 2
+listening 1
+listening 1
+User Spoke:  just please go ahead.
+AI Detect : interested
+--------------------------------------------------
+State: S_PITCH
+Playing : ./sounds/brin/pitch/pitch_1.wav
+Time: 3
+listening 0
+listening 1
+listening 2
+listening 1
+listening 1
+listening 1
+listening 1
+User Spoke:  yes, but no, i don't have
+AI Detect : decline
+--------------------------------------------------
+State: S_AGE_QUESTION
+Playing : ./sounds/brin/age/1.wav
+Time: 6
+listening 0
+listening 1
+listening 2
+listening 3
+listening 4
+listening 1
+listening 1
+listening 1
+listening 1
+listening 2
+listening 1
+User Spoke:  i am above 65, i'm just 67.
+AI Detect : affirmation
+--------------------------------------------------
+State: S_TRANSFER
+Playing : transfer.wav
+Time: 3
+listening 0
+listening 1
+listening 2
+listening 1
+User Spoke:  i'm busy.
+AI Detect : BUSY
+Data successfully written to ./logs/20240819131600_02488457996.json
+##################################################
+Disposition =  XFER
+##################################################
+            ---- BOT JSON LOADED ----             
+==================================================
+    ____    __           __      ___    _    __    __      __      
+   /  _/___/ /________ _/ /__   /   |  (_)  / /   / /_____/ /      
+   / // __  / ___/ __ `/ //_/  / /| | / /  / /   / __/ __  /       
+ _/ // /_/ / /  / /_/ / ,<    / ___ |/ /  / /___/ /_/ /_/ /_       
+/___/\__,_/_/   \__,_/_/|_|  /_/  |_/_/  /_____/\__/\__,_/(_)      
+                                                                   
+
+Version 1.0.0.L_A
+Dated:  08/08/2024 @ 5:40 PM
+Company Name:  Ali Test
+==================================================
+==================================================
+Call # 0
+==================================================
+'audio_dict'
+--------------------------------------------------
+State: S_HELLO
+Playing : Hello.wav
+Time: 6.0
+listening 0
+listening 1
+listening 2
+listening 1
+User Spoke:  hi.
+AI Detect : greetings
+--------------------------------------------------
+State: S_INTRO
+Playing : ./sounds/saira/intro/Intro.wav
+Time: 6
+listening 0
+listening 1
+listening 1
+listening 1
+User Spoke:  really have time now.
+AI Detect : BUSY
+--------------------------------------------------
+State: S_BUSY
+Playing : Call_back_rebuttal.wav
+Time: 0.0
+listening 0
+Data successfully written to ./logs/20240819182753_02668199962.json
+##################################################
+Disposition =  B
+##################################################
+==================================================
+Call # 1
+==================================================
+--------------------------------------------------
+State: S_HELLO
+Playing : Hello.wav
+Time: 6.0
+listening 0
+listening 1
+listening 2
+listening 3
+Playing : are_you_there.wav
+            ---- BOT JSON LOADED ----             
+==================================================
+    ____    __           __      ___    _    __    __      __      
+   /  _/___/ /________ _/ /__   /   |  (_)  / /   / /_____/ /      
+   / // __  / ___/ __ `/ //_/  / /| | / /  / /   / __/ __  /       
+ _/ // /_/ / /  / /_/ / ,<    / ___ |/ /  / /___/ /_/ /_/ /_       
+/___/\__,_/_/   \__,_/_/|_|  /_/  |_/_/  /_____/\__/\__,_/(_)      
+                                                                   
+
+Version 1.0.0.L_A
+Dated:  08/08/2024 @ 5:40 PM
+Company Name:  Ali Test
+==================================================
+==================================================
+Call # 0
+==================================================
+'audio_dict'
+--------------------------------------------------
+State: S_HELLO
+Playing : Hello.wav
+Time: 6.0
+listening 0
+listening 1
+listening 2
+Playing : are_you_there.wav
+            ---- BOT JSON LOADED ----             
+==================================================
+    ____    __           __      ___    _    __    __      __      
+   /  _/___/ /________ _/ /__   /   |  (_)  / /   / /_____/ /      
+   / // __  / ___/ __ `/ //_/  / /| | / /  / /   / __/ __  /       
+ _/ // /_/ / /  / /_/ / ,<    / ___ |/ /  / /___/ /_/ /_/ /_       
+/___/\__,_/_/   \__,_/_/|_|  /_/  |_/_/  /_____/\__/\__,_/(_)      
+                                                                   
+
+Version 1.0.0.L_A
+Dated:  08/08/2024 @ 5:40 PM
+Company Name:  Ali Test
+==================================================
+==================================================
+Call # 0
+==================================================
+'audio_dict'
+--------------------------------------------------
+State: S_HELLO
+Playing : Hello.wav
+Time: 6.0
+listening 0
+listening 1
+User Spoke:  hi there.
+AI Detect : greetings
+--------------------------------------------------
+State: S_INTRO
+Playing : ./sounds/brin/intro/Intro.wav
+Time: 6
+listening 0
+listening 1
+listening 2
+User Spoke: okay
+AI Detect : interested
+--------------------------------------------------
+State: S_PITCH
+Playing : ./sounds/brin/pitch/pitch_1.wav
+Time: 3
+listening 0
+listening 1
+listening 1
+listening 1
+listening 1
+User Spoke:  yes, i do have part nb.
+AI Detect : affirmation
+--------------------------------------------------
+State: S_TRANSFER
+Playing : transfer.wav
+Time: 3
+listening 0
+listening 1
+listening 2
+listening 3
+listening 1
+User Spoke:  okay, sure.
+AI Detect : interested
+Data successfully written to ./logs/20240819183019_01736368637.json
+##################################################
+Disposition =  XFER
+##################################################
+==================================================
+Call # 1
+==================================================
+--------------------------------------------------
+State: S_HELLO
+Playing : Hello.wav
+Time: 6.0
+listening 0
+listening 1
+listening 2
+listening 1
+User Spoke:  hi there.
+AI Detect : greetings
+--------------------------------------------------
+State: S_INTRO
+Playing : ./sounds/saira/intro/Intro.wav
+Time: 6
+listening 0
+listening 1
+listening 1
+User Spoke:  no.
+AI Detect : decline
+--------------------------------------------------
+State: S_PITCH
+Playing : ./sounds/saira/pitch/pitch_1.wav
+Time: 3
+listening 0
+listening 1
+listening 1
+listening 1
+User Spoke:  uh, no, i don't have.
+AI Detect : decline
+--------------------------------------------------
+State: S_AGE_QUESTION
+Playing : ./sounds/saira/age/1.wav
+Time: 6
+listening 0
+listening 1
+listening 2
+listening 1
+listening 1
+listening 1
+listening 1
+User Spoke:  i'm 78 years old.
+AI Detect : affirmation
+--------------------------------------------------
+State: S_TRANSFER
+Playing : transfer.wav
+Time: 3
+listening 0
+listening 1
+listening 2
+listening 3
+listening 4
+Data successfully written to ./logs/20240819183139_01362330439.json
+##################################################
+Disposition =  XFER
+##################################################
+==================================================
+Call # 2
+==================================================
+--------------------------------------------------
+State: S_HELLO
+Playing : Hello.wav
+Time: 6.0
+listening 0
+listening 1
+User Spoke:  hi there.
+AI Detect : greetings
+--------------------------------------------------
+State: S_INTRO
+Playing : ./sounds/brin/intro/Intro.wav
+Time: 6
+listening 0
+listening 1
+User Spoke: okay
+AI Detect : interested
+--------------------------------------------------
+State: S_PITCH
+Playing : ./sounds/brin/pitch/pitch_2.wav
+Time: 3
+listening 0
+listening 1
+listening 2
+listening 1
+listening 1
+User Spoke:  no, i don't have that.
+AI Detect : decline
+--------------------------------------------------
+State: S_AGE_QUESTION
+Playing : ./sounds/brin/age/1.wav
+Time: 6
+listening 0
+listening 1
+listening 1
+listening 1
+listening 1
+User Spoke:  i am 67 years old.
+AI Detect : affirmation
+--------------------------------------------------
+State: S_TRANSFER
+Playing : transfer.wav
+Time: 3
+listening 0
+listening            ---- BOT JSON LOADED ----             
+==================================================
+    ____    __           __      ___    _    __    __      __      
+   /  _/___/ /________ _/ /__   /   |  (_)  / /   / /_____/ /      
+   / // __  / ___/ __ `/ //_/  / /| | / /  / /   / __/ __  /       
+ _/ // /_/ / /  / /_/ / ,<    / ___ |/ /  / /___/ /_/ /_/ /_       
+/___/\__,_/_/   \__,_/_/|_|  /_/  |_/_/  /_____/\__/\__,_/(_)      
+                                                                   
+
+Version 1.0.0.L_A
+Dated:  08/08/2024 @ 5:40 PM
+Company Name:  Ali Test
+==================================================
+==================================================
+Call # 0
+==================================================
+'audio_dict'
+--------------------------------------------------
+State: S_HELLO
+Playing : Hello.wav
+Time: 6.0
+listening 0
+listening 1
+User Spoke:  hi there.
+AI Detect : greetings
+--------------------------------------------------
+State: S_INTRO
+Playing : ./sounds/brin/intro/Intro.wav
+Time: 6
+listening 0
+listening 1
+listening 2
+User Spoke: okay
+AI Detect : interested
+--------------------------------------------------
+State: S_PITCH
+Playing : ./sounds/brin/pitch/pitch_1.wav
+Time: 3
+listening 0
+listening 1
+listening 1
+listening 1
+listening 1
+User Spoke:  yes, i do have part nb.
+AI Detect : affirmation
+--------------------------------------------------
+State: S_TRANSFER
+Playing : transfer.wav
+Time: 3
+listening 0
+listening 1
+listening 2
+listening 3
+listening 1
+User Spoke:  okay, sure.
+AI Detect : interested
+Data successfully written to ./logs/20240819183019_01736368637.json
+##################################################
+Disposition =  XFER
+##################################################
+==================================================
+Call # 1
+==================================================
+--------------------------------------------------
+State: S_HELLO
+Playing : Hello.wav
+Time: 6.0
+listening 0
+listening 1
+listening 2
+listening 1
+User Spoke:  hi there.
+AI Detect : greetings
+--------------------------------------------------
+State: S_INTRO
+Playing : ./sounds/saira/intro/Intro.wav
+Time: 6
+listening 0
+listening 1
+listening 1
+User Spoke:  no.
+AI Detect : decline
+--------------------------------------------------
+State: S_PITCH
+Playing : ./sounds/saira/pitch/pitch_1.wav
+Time: 3
+listening 0
+listening 1
+listening 1
+listening 1
+User Spoke:  uh, no, i don't have.
+AI Detect : decline
+--------------------------------------------------
+State: S_AGE_QUESTION
+Playing : ./sounds/saira/age/1.wav
+Time: 6
+listening 0
+listening 1
+listening 2
+listening 1
+listening 1
+listening 1
+listening 1
+User Spoke:  i'm 78 years old.
+AI Detect : affirmation
+--------------------------------------------------
+State: S_TRANSFER
+Playing : transfer.wav
+Time: 3
+listening 0
+listening 1
+listening 2
+listening 3
+listening 4
+Data successfully written to ./logs/20240819183139_01362330439.json
+##################################################
+Disposition =  XFER
+##################################################
+==================================================
+Call # 2
+==================================================
+--------------------------------------------------
+State: S_HELLO
+Playing : Hello.wav
+Time: 6.0
+listening 0
+listening 1
+User Spoke:  hi there.
+AI Detect : greetings
+--------------------------------------------------
+State: S_INTRO
+Playing : ./sounds/brin/intro/Intro.wav
+Time: 6
+listening 0
+listening 1
+User Spoke: okay
+AI Detect : interested
+--------------------------------------------------
+State: S_PITCH
+Playing : ./sounds/brin/pitch/pitch_2.wav
+Time: 3
+listening 0
+listening 1
+listening 2
+listening 1
+listening 1
+User Spoke:  no, i don't have that.
+AI Detect : decline
+--------------------------------------------------
+State: S_AGE_QUESTION
+Playing : ./sounds/brin/age/1.wav
+Time: 6
+listening 0
+listening 1
+listening 1
+listening 1
+listening 1
+User Spoke:  i am 67 years old.
+AI Detect : affirmation
+--------------------------------------------------
+State: S_TRANSFER
+Playing : transfer.wav
+Time: 3
+listening 0
+listening 1
+listening 2
+listening 3
+listening 1
+            ---- BOT JSON LOADED ----             
+==================================================
+    ____    __           __      ___    _    __    __      __      
+   /  _/___/ /________ _/ /__   /   |  (_)  / /   / /_____/ /      
+   / // __  / ___/ __ `/ //_/  / /| | / /  / /   / __/ __  /       
+ _/ // /_/ / /  / /_/ / ,<    / ___ |/ /  / /___/ /_/ /_/ /_       
+/___/\__,_/_/   \__,_/_/|_|  /_/  |_/_/  /_____/\__/\__,_/(_)      
+                                                                   
+
+Version 1.0.0.L_A
+Dated:  08/08/2024 @ 5:40 PM
+Company Name:  Ali Test
+==================================================
+==================================================
+Call # 0
+==================================================
+'audio_dict'
+--------------------------------------------------
+State: S_HELLO
+Playing : Hello.wav
+Time: 6.0
+listening 0
+listening 1
+listening 2
+listening 3
+listening 4
+listening 5
+listening 6
+Playing : are_you_there.wav

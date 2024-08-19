@@ -1,0 +1,1 @@
+{"call_started": "16:01:41.463617", "called_end": "16:01:47.973810", "phone_number": "01884214688", "disposition": "DNC", "states": [{"state_name": "S_HELLO", "playing": ["hello.wav"], "transcript": {"helping_trans": "suck my dick", "transcript": " suck my dick."}, "predicted_class": {"res": "DNC", "method": "kw"}}]}

@@ -1,0 +1,1 @@
+{"call_started": "16:02:11.776561", "called_end": "16:02:18.830648", "phone_number": "01870565026", "disposition": "LBR", "states": [{"state_name": "S_HELLO", "playing": ["hello.wav"], "transcript": {"helping_trans": "i'm as been", "transcript": " i'm espanol."}, "predicted_class": {"res": "language_barrier", "method": "b"}}]}

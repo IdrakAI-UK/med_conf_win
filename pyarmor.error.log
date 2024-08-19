@@ -1,0 +1,22 @@
+6852 MainProcess 2024-08-19 12:51:28,325
+Traceback (most recent call last):
+  File "/Users/ali/anaconda3/envs/llm_langchain/lib/python3.10/site-packages/pyarmor/cli/bootstrap.py", line 79, in check_prebuilt_runtime_library
+    check_call(instcmd + pkgvers)
+  File "/Users/ali/anaconda3/envs/llm_langchain/lib/python3.10/subprocess.py", line 369, in check_call
+    raise CalledProcessError(retcode, cmd)
+subprocess.CalledProcessError: Command '['/Users/ali/anaconda3/envs/llm_langchain/bin/python', '-m', 'pip', 'install', '--disable-pip-version-check', 'pyarmor.cli.core.linux_x86_64==6.5.3']' returned non-zero exit status 1.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/ali/anaconda3/envs/llm_langchain/lib/python3.10/site-packages/pyarmor/cli/__main__.py", line 764, in main
+    main_entry(sys.argv[1:])
+  File "/Users/ali/anaconda3/envs/llm_langchain/lib/python3.10/site-packages/pyarmor/cli/__main__.py", line 752, in main_entry
+    return args.func(ctx, args)
+  File "/Users/ali/anaconda3/envs/llm_langchain/lib/python3.10/site-packages/pyarmor/cli/__main__.py", line 226, in cmd_gen
+    check_gen_context(ctx, args)
+  File "/Users/ali/anaconda3/envs/llm_langchain/lib/python3.10/site-packages/pyarmor/cli/__main__.py", line 179, in check_gen_context
+    check_prebuilt_runtime_library(platforms, ctx.enable_themida, rtver)
+  File "/Users/ali/anaconda3/envs/llm_langchain/lib/python3.10/site-packages/pyarmor/cli/bootstrap.py", line 82, in check_prebuilt_runtime_library
+    raise RuntimeError('failed to install runtime packages')
+RuntimeError: failed to install runtime packages

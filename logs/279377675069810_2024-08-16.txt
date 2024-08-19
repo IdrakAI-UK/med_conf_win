@@ -1,0 +1,169 @@
+            ---- BOT JSON LOADED ----             
+==================================================
+    ____    __           __      ___    _    __    __      __      
+   /  _/___/ /________ _/ /__   /   |  (_)  / /   / /_____/ /      
+   / // __  / ___/ __ `/ //_/  / /| | / /  / /   / __/ __  /       
+ _/ // /_/ / /  / /_/ / ,<    / ___ |/ /  / /___/ /_/ /_/ /_       
+/___/\__,_/_/   \__,_/_/|_|  /_/  |_/_/  /_____/\__/\__,_/(_)      
+                                                                   
+
+Version 1.0.0.L_A
+Dated:  08/08/2024 @ 5:40 PM
+Company Name:  Ali Test
+==================================================
+==================================================
+Call # 0
+==================================================
+'audio_dict'
+--------------------------------------------------
+State: S_HELLO
+Playing : hello.wav
+ None
+Time: 6.0
+listening 0
+listening 1
+listening 2
+listening 3
+listening 1
+listening 1
+listening 1
+User Spoke:  hello, can you hear me?
+AI Detect : greetings
+--------------------------------------------------
+State: S_INTRO
+Playing : ./sounds/humna_sound/intro/intro_pitch_q_4.wav
+ None
+ None
+ None
+ None
+ None
+ None
+hi this is emily None
+hi this is emily from climate None
+hi this is emily from climb bad None
+hi this is emily from climb bad services None
+hi this is emily from climb bad services on None
+hi this is emily from climb bad services on reaching out None
+hi this is emily from climb bad services on reaching out because we None
+hi this is emily from climb bad services on reaching out because we open in None
+hi this is emily from climb bad services on reaching out because we open enrollment has None
+hi this is emily from climb bad services on reaching out because we open enrollment coming up None
+hi this is emily from climb bad services on reaching out because we open enrollment coming up for a None
+hi this is emily from climb bad services on reaching out because we open enrollment coming up for letting our None
+hi this is emily from climb bad services on reaching out because we open enrollment coming up for letting our customers None
+hi this is emily from climb bad services on reaching out because we open enrollment coming up for letting our customers know about new None
+hi this is emily from climb bad services on reaching out because we open enrollment coming up for letting our customers know about new medicare None
+hi this is emily from climb bad services on reaching out because we open enrollment coming up for letting our customers know about new medical plans and None
+hi this is emily from climb bad services on reaching out because we open enrollment coming up for letting our customers know about new medical plans and None
+hi this is emily from climb bad services on reaching out because we open enrollment coming up for letting our customers know about new medical plans and benefits that None
+hi this is emily from climb bad services on reaching out because we open enrollment coming up for letting our customers know about new medical plans and benefits that have just been None
+hi this is emily from climb bad services on reaching out because we open enrollment coming up for letting our customers know about new medical plans and benefits that have just been approved in None
+hi this is emily from climb bad services on reaching out because we open enrollment coming up for letting our customers know about new medical plans and benefits that have just been approved in your area None
+hi this is emily from climb bad services on reaching out because we open enrollment coming up for letting our customers know about new medical plans and benefits that have just been approved in your area for None
+hi this is emily from climb bad services on reaching out because we open enrollment coming up for letting our customers know about new medical plans and benefits that have just been approved in your area first None
+hi this is emily from climb bad services on reaching out because we open enrollment coming up for letting our customers know about new medical plans and benefits that have just been approved in your area first there's a chance            ---- BOT JSON LOADED ----             
+==================================================
+    ____    __           __      ___    _    __    __      __      
+   /  _/___/ /________ _/ /__   /   |  (_)  / /   / /_____/ /      
+   / // __  / ___/ __ `/ //_/  / /| | / /  / /   / __/ __  /       
+ _/ // /_/ / /  / /_/ / ,<    / ___ |/ /  / /___/ /_/ /_/ /_       
+/___/\__,_/_/   \__,_/_/|_|  /_/  |_/_/  /_____/\__/\__,_/(_)      
+                                                                   
+
+Version 1.0.0.L_A
+Dated:  08/08/2024 @ 5:40 PM
+Company Name:  Ali Test
+==================================================
+==================================================
+Call # 0
+==================================================
+'audio_dict'
+--------------------------------------------------
+State: S_HELLO
+Playing : hello.wav
+ None
+Time: 6.0
+listening 0
+listening 1
+listening 2
+listening 3
+listening 1
+listening 1
+listening 1
+User Spoke:  hello, can you hear me?
+AI Detect : greetings
+--------------------------------------------------
+State: S_INTRO
+Playing : ./sounds/humna_sound/intro/intro_pitch_q_4.wav
+ None
+ None
+ None
+ None
+ None
+ None
+hi this is emily None
+hi this is emily from climate None
+hi this is emily from climb bad None
+hi this is emily from climb bad services None
+hi this is emily from climb bad services on None
+hi this is emily from climb bad services on reaching out None
+hi this is emily from climb bad services on reaching out because we None
+hi this is emily from climb bad services on reaching out because we open in None
+hi this is emily from climb bad services on reaching out because we open enrollment has None
+hi this is emily from climb bad services on reaching out because we open enrollment coming up None
+hi this is emily from climb bad services on reaching out because we open enrollment coming up for a None
+hi this is emily from climb bad services on reaching out because we open enrollment coming up for letting our None
+hi this is emily from climb bad services on reaching out because we open enrollment coming up for letting our customers None
+hi this is emily from climb bad services on reaching out because we open enrollment coming up for letting our customers know about new None
+hi this is emily from climb bad services on reaching out because we open enrollment coming up for letting our customers know about new medicare None
+hi this is emily from climb bad services on reaching out because we open enrollment coming up for letting our customers know about new medical plans and None
+hi this is emily from climb bad services on reaching out because we open enrollment coming up for letting our customers know about new medical plans and None
+hi this is emily from climb bad services on reaching out because we open enrollment coming up for letting our customers know about new medical plans and benefits that None
+hi this is emily from climb bad services on reaching out because we open enrollment coming up for letting our customers know about new medical plans and benefits that have just been None
+hi this is emily from climb bad services on reaching out because we open enrollment coming up for letting our customers know about new medical plans and benefits that have just been approved in None
+hi this is emily from climb bad services on reaching out because we open enrollment coming up for letting our customers know about new medical plans and benefits that have just been approved in your area None
+hi this is emily from climb bad services on reaching out because we open enrollment coming up for letting our customers know about new medical plans and benefits that have just been approved in your area for None
+hi this is emily from climb bad services on reaching out because we open enrollment coming up for letting our customers know about new medical plans and benefits that have just been approved in your area first None
+hi this is emily from climb bad services on reaching out because we open enrollment coming up for letting our customers know about new medical plans and benefits that have just been approved in your area first there's a chance None
+hi this is emily from climb bad services on reaching out because we open enrollment coming up for letting our customers know about new medical plans and benefits that have just been approved in your area first there's a chance to win a None
+hi this is emily from climb bad services on reaching out because we open enrollment coming up for letting our customers know about new medical plans and benefits that have just been approved in your area first there's a chance to win a to one hundred None
+hi this is emily from climb bad services on reaching out because we open enrollment coming up for letting our customers know about new medical plans and benefits that have just been approved in your area first there's a chance to win a to one hundred dollars cash None
+hi this is emily from climb bad services on reaching out because we open enrollment coming up for letting our customers know about new medical plans and benefits that have just been approved in your area first there's a chance to win a to one hundred dollars cash back None
+hi this is emily from climb bad services on reaching out because we open enrollment coming up for letting our customers know about new medical plans and benefits that have just been approved in your area first there's a chance to win a to one hundred dollars cash back are you in None
+hi this is emily from climb bad services on reaching out because we open enrollment coming up for letting our customers know about new medical plans and benefits that have just been approved in your area first there's a chance to win a to one hundred dollars cash back or you enroll them both None
+hi this is emily from climb bad services on reaching out because we open enrollment coming up for letting our customers know about new medical plans and benefits that have just been approved in your area first there's a chance to win a to one hundred dollars cash back or you enroll them both medicare None
+hi this is emily from climb bad services on reaching out because we open enrollment coming up for letting our customers know about new medical plans and benefits that have just been approved in your area first there's a chance to win a to one hundred dollars cash back or you enroll them both medicare part a None
+hi this is emily from climb bad services on reaching out because we open enrollment coming up for letting our customers know about new medical plans and benefits that have just been approved in your area first there's a chance to win a to one hundred dollars cash back or you enroll them both medicare part a and None
+Time: 6
+listening 0
+listening 1
+listening 2
+listening 3
+listening 4
+listening 5
+listening 1
+listening 1
+listening 1
+listening 1
+User Spoke:  i am from pakistan and i don't know.
+AI Detect : where_are_you_calling_from
+Data successfully written to ./logs/20240816053253_01941305602.json
+##################################################
+Disposition =  N
+##################################################
+==================================================
+Call # 1
+==================================================
+--------------------------------------------------
+State: S_HELLO
+Playing : hello.wav
+ None
+ None
+ None
+ None
+ None
+ None
+ None
+ None
+ None
+ None

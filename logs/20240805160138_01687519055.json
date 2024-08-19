@@ -1,0 +1,1 @@
+{"call_started": "16:01:31.243177", "called_end": "16:01:38.459551", "phone_number": "01687519055", "disposition": "A", "states": [{"state_name": "S_HELLO", "playing": ["hello.wav"], "transcript": {"helping_trans": "one two three four", "transcript": " 1 2 3 4"}, "predicted_class": {"res": "answering_machine", "method": "b"}}]}

@@ -1,0 +1,347 @@
+            ---- BOT JSON LOADED ----             
+==================================================
+Version 3.0
+Dated:  05/08/2024 @ 4:10 PM
+Developed by Mohammad Ali Abbas Sr. ML Engr. @ IdrakAi Ltd.
+==================================================
+==================================================
+Call # 0
+==================================================
+'audio_dict'
+--------------------------------------------------
+State: S_HELLO
+Playing : hello.wav
+Time: 6.0
+listening 0
+listening 1
+listening 2
+User Spoke:  hello.
+AI Detect : greetings
+--------------------------------------------------
+State: S_INTRO
+Playing : ./sounds/merri/intro/intro_pitch_q.wav
+Time: 6
+listening 0
+listening 1
+listening 2
+listening 1
+listening 1
+listening 1
+User Spoke:  i have everything.
+AI Detect : already
+--------------------------------------------------
+State: S_NI
+Playing : ni_rebuttal.wav
+Time: 5
+listening 0
+listening 1
+listening 2
+listening 3
+listening 4
+listening 5
+listening 6
+Data successfully written to ./logs/20240806183722_02650824738.json
+##################################################
+Disposition =  NI
+##################################################
+            ---- BOT JSON LOADED ----             
+==================================================
+Version 3.0
+Dated:  05/08/2024 @ 4:10 PM
+Developed by Mohammad Ali Abbas Sr. ML Engr. @ IdrakAi Ltd.
+==================================================
+==================================================
+Call # 0
+==================================================
+'audio_dict'
+--------------------------------------------------
+State: S_HELLO
+Playing : hello.wav
+            ---- BOT JSON LOADED ----             
+==================================================
+Version 3.0
+Dated:  05/08/2024 @ 4:10 PM
+Developed by Mohammad Ali Abbas Sr. ML Engr. @ IdrakAi Ltd.
+==================================================
+==================================================
+Call # 0
+==================================================
+'audio_dict'
+--------------------------------------------------
+State: S_HELLO
+Playing : hello.wav
+Time: 6.0
+listening 0
+listening 1
+listening 2
+listening 1
+User Spoke:  hello.
+AI Detect : greetings
+--------------------------------------------------
+State: S_INTRO
+Playing : ./sounds/merri/intro/intro_pitch_q.wav
+            ---- BOT JSON LOADED ----             
+==================================================
+Version 3.0
+Dated:  05/08/2024 @ 4:10 PM
+Developed by Mohammad Ali Abbas Sr. ML Engr. @ IdrakAi Ltd.
+==================================================
+==================================================
+Call # 0
+==================================================
+'audio_dict'
+--------------------------------------------------
+State: S_HELLO
+Playing : hello.wav
+Time: 6.0
+listening 0
+listening 1
+listening 2
+listening 3
+listening 4
+listening 5
+listening 6
+Playing : are_you_there.wav
+--------------------------------------------------
+State: S_HELLO
+Time: 6.0
+listening 0
+listening 1
+listening 1
+User Spoke:  no.
+AI Detect : decline
+--------------------------------------------------
+State: S_INTRO
+Playing : ./sounds/merri/intro/intro_pitch_q.wav
+            ---- BOT JSON LOADED ----             
+==================================================
+Version 3.0
+Dated:  05/08/2024 @ 4:10 PM
+Developed by Mohammad Ali Abbas Sr. ML Engr. @ IdrakAi Ltd.
+==================================================
+==================================================
+Call # 0
+==================================================
+'audio_dict'
+--------------------------------------------------
+State: S_HELLO
+Playing : hello.wav
+Time: 6.0
+listening 0
+listening 1
+listening 2
+listening 3
+listening 1
+listening 1
+listening 2
+listening 3
+listening 4
+listening 5
+User Spoke: hello hi there
+AI Detect : greetings
+--------------------------------------------------
+State: S_INTRO
+Playing : ./sounds/merri/intro/intro_pitch_q.wav
+Time: 6
+listening 0
+listening 1
+listening 2
+listening 3
+listening 4
+listening 1
+listening 1
+listening 1
+listening 2
+User Spoke:  i have medicare part a and part b.
+AI Detect : affirmation
+--------------------------------------------------
+State: S_TRANSFER
+Playing : transfer.wav
+Time: 3
+listening 0
+listening 1
+listening 2
+listening 3
+listening 1
+User Spoke:  okay, sure.
+AI Detect : interested
+Data successfully written to ./logs/20240806185945_02711988710.json
+##################################################
+Disposition =  XFER
+##################################################
+==================================================
+Call # 1
+==================================================
+--------------------------------------------------
+State: S_HELLO
+Playing : hello.wav
+Time: 6.0
+listening 0
+listening 1
+listening 2
+listening 3
+Playing : are_you_there.wav
+--------------------------------------------------
+State: S_HELLO
+Time: 6.0
+listening 0
+listening 1
+listening 1
+User Spoke:  yes, i'm here.
+AI Detect : affirmation
+--------------------------------------------------
+State: S_INTRO
+Playing : ./sounds/merri/intro/intro_pitch_q.wav
+Time: 6
+listening 0
+listening 1
+listening 2
+listening 3
+User Spoke:  i do.
+AI Detect : affirmation
+--------------------------------------------------
+State: S_TRANSFER
+Playing : transfer.wav
+Time: 3
+listening 0
+listening 1
+listening 2
+listening 1
+User Spoke: fuck you
+AI Detect : DNC
+Data successfully written to ./logs/20240806190032_02567488506.json
+##################################################
+Disposition =  DNC
+##################################################
+==================================================
+Call # 2
+==================================================
+--------------------------------------------------
+State: S_HELLO
+Playing : hello.wav
+Time: 6.0
+listening 0
+listening 1
+listening 1
+User Spoke:  thank you.
+AI Detect : greetings
+--------------------------------------------------
+State: S_INTRO
+Playing : ./sounds/merri/intro/intro_pitch_q.wav
+            ---- BOT JSON LOADED ----             
+==================================================
+Version 3.0
+Dated:  05/08/2024 @ 4:10 PM
+Developed by Mohammad Ali Abbas Sr. ML Engr. @ IdrakAi Ltd.
+==================================================
+==================================================
+Call # 0
+==================================================
+'audio_dict'
+--------------------------------------------------
+State: S_HELLO
+Playing : hello.wav
+Time: 6.0
+listening 0
+listening 1
+listening 2
+listening 3
+listening 4
+listening 5
+listening 6
+Playing : are_you_there.wav
+--------------------------------------------------
+State: S_HELLO
+Time: 6.0
+listening 0
+listening 1
+listening 2
+listening 3
+listening 4
+listening 5
+listening 6
+           ---- User Did Not Speak ----           
+==================================================
+USER DIDNOT RESPONED at S_HELLO
+==================================================
+Data successfully written to ./logs/20240806190349_01626558291.json
+##################################################
+Disposition =  N
+##################################################
+==================================================
+Call # 1
+==================================================
+--------------------------------------------------
+State: S_HELLO
+Playing : hello.wav
+            ---- BOT JSON LOADED ----             
+==================================================
+Version 3.0
+Dated:  05/08/2024 @ 4:10 PM
+Developed by Mohammad Ali Abbas Sr. ML Engr. @ IdrakAi Ltd.
+==================================================
+==================================================
+Call # 0
+==================================================
+'audio_dict'
+--------------------------------------------------
+State: S_HELLO
+Playing : hello.wav
+Time: 6.0
+listening 0
+listening 1
+listening 2
+listening 3
+listening 4
+listening 5
+listening 6
+Playing : are_you_there.wav
+--------------------------------------------------
+State: S_HELLO
+Time: 6.0
+listening 0
+listening 1
+listening 2
+listening 3
+listening 4
+listening 5
+listening 6
+           ---- User Did Not Speak ----           
+==================================================
+USER DIDNOT RESPONED at S_HELLO
+==================================================
+Data successfully written to ./logs/20240806190446_02960513079.json
+##################################################
+Disposition =  N
+##################################################
+==================================================
+Call # 1
+==================================================
+--------------------------------------------------
+State: S_HELLO
+Playing : hello.wav
+Time: 6.0
+listening 0
+listening 1
+listening 2
+listening 3
+User Spoke: hello
+AI Detect : greetings
+--------------------------------------------------
+State: S_INTRO
+Playing : ./sounds/merri/intro/intro_pitch_q.wav
+Time: 6
+listening 0
+listening 1
+listening 2
+listening 3
+listening 4
+listening 1
+User Spoke:  yes, i do.
+AI Detect : affirmation
+--------------------------------------------------
+State: S_TRANSFER
+Playing : transfer.wav
+Time: 3
+listening 0
+listening 1

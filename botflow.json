@@ -1,0 +1,567 @@
+{
+    "initial_state": "S_HELLO",
+    "S_JUST_LISTEN": {
+        "sec": "3.0",
+        "fileName": "",
+        "reb_state": false,
+        "qq_state": false,
+        "answering_machine ": {
+            "fileName": "",
+            "next_state": "disp_A "
+        },
+        "DNC ": {
+            "fileName": "",
+            "next_state": "disp_DNC "
+        },
+        "NotSpoke ": {
+            "fileName": "",
+            "next_state": "S_HELLO "
+        },
+        "None ": {
+            "fileName": "",
+            "next_state": "S_INTRO "
+        },
+        "say_again": {
+            "fileName": "",
+            "next_state": "S_INTRO "
+        },
+        "language_barrier": {
+            "fileName": "",
+            "next_state": "disp_LBR "
+        }
+    },
+    "S_HELLO": {
+        "sec": "6.0",
+        "fileName": "Hello.wav",
+        "reb_state": false,
+        "qq_state": false,
+        "answering_machine ": {
+            "fileName": "",
+            "next_state": "disp_A "
+        },
+        "DNC ": {
+            "fileName": "",
+            "next_state": "disp_DNC "
+        },
+        "NotSpoke ": {
+            "fileName": "are_you_there.wav",
+            "next_state": "S_HELLO "
+        },
+        "None ": {
+            "fileName": "",
+            "next_state": "S_INTRO "
+        },
+        "say_again": {
+            "fileName": "",
+            "next_state": "S_HELLO "
+        },
+        "language_barrier": {
+            "fileName": "",
+            "next_state": "disp_LBR "
+        }
+    },
+    "S_INTRO": {
+        "sec": "6",
+        "fileName": "intro",
+        "reb_state": false,
+        "qq_state": false,
+        "answering_machine ": {
+            "fileName": "",
+            "next_state": "disp_A "
+        },
+        "DNC ": {
+            "fileName": "",
+            "next_state": "disp_DNC "
+        },
+        "abusive ": {
+            "fileName": "",
+            "next_state": "disp_DNC "
+        },
+        "scam ": {
+            "fileName": "",
+            "next_state": "disp_DNC "
+        },
+        "NotSpoke ": {
+            "fileName": "NA_on_intro.wav",
+            "next_state": "S_INTRO "
+        },
+        "BUSY ": {
+            "fileName": "",
+            "next_state": "S_BUSY "
+        },
+        "whom_calling ": {
+            "fileName": "",
+            "next_state": "S_PITCH "
+        },
+        "greetings ": {
+            "fileName": "",
+            "next_state": "S_PITCH "
+        },
+        "where_are_you_calling_from ": {
+            "fileName": "",
+            "next_state": "S_PITCH "
+        },
+        "None ": {
+            "fileName": "",
+            "next_state": "S_PITCH "
+        },
+        "GreetBack ": {
+            "fileName": "",
+            "next_state": "S_PITCH "
+        },
+        "calling_about ": {
+            "fileName": "",
+            "next_state": "S_PITCH "
+        },
+        "sorry_greeting": {
+            "fileName": "",
+            "next_state": "S_PITCH "
+        },
+        "say_again": {
+            "fileName": "",
+            "next_state": "S_INTRO "
+        },
+        "language_barrier": {
+            "fileName": "",
+            "next_state": "disp_LBR "
+        },
+        "already ": {
+            "fileName": "",
+            "next_state": "S_ALREADY "
+        }
+
+    },
+    "S_PITCH": {
+        "sec": "3",
+        "fileName": "pitch",
+        "reb_state": false,
+        "qq_state": false,
+        "answering_machine ": {
+            "fileName": "",
+            "next_state": "disp_A "
+        },
+        "not_decision_maker ": {
+            "fileName": "",
+            "next_state": "disp_DNQ "
+        },
+        "DNC ": {
+            "fileName": "",
+            "next_state": "disp_DNC "
+        },
+        "scam ": {
+            "fileName": "",
+            "next_state": "disp_DNC "
+        },
+        "abusive ": {
+            "fileName": "",
+            "next_state": "disp_DNC "
+        },
+        "BUSY ": {
+            "fileName": "",
+            "next_state": "S_BUSY "
+        },
+        "already ": {
+            "fileName": "",
+            "next_state": "S_ALREADY "
+        },
+        "NotSpoke ": {
+            "fileName": "",
+            "next_state": "S_PITCH_AGAIN "
+        },
+        "decline ": {
+            "fileName": "",
+            "next_state": "S_AGE_QUESTION "
+        },
+        "affirmation ": {
+            "fileName": "",
+            "next_state": "S_TRANSFER "
+        },
+        "greetings ": {
+            "fileName": "",
+            "next_state": "S_TRANSFER "
+        }, 
+        "Not_Interested ": {
+            "fileName": "",
+            "next_state": "S_NI "
+        },
+        "say_again": {
+            "fileName": "",
+            "next_state": "S_PITCH_AGAIN "
+        },
+        "None ": {
+            "fileName": "",
+            "next_state": "S_PITCH_AGAIN "
+        }
+    },
+    "S_PITCH_AGAIN": {
+        "sec": "3",
+        "fileName": "say that again AB.wav",
+        "reb_state": false,
+        "qq_state": false,
+        "do_play_again":false,
+        "answering_machine ": {
+            "fileName": "",
+            "next_state": "disp_A "
+        },
+        "not_decision_maker ": {
+            "fileName": "",
+            "next_state": "disp_DNQ "
+        },
+        "DNC ": {
+            "fileName": "",
+            "next_state": "disp_DNC "
+        },
+        "scam ": {
+            "fileName": "",
+            "next_state": "disp_DNC "
+        },
+        "abusive ": {
+            "fileName": "",
+            "next_state": "disp_DNC "
+        },
+        "BUSY ": {
+            "fileName": "",
+            "next_state": "S_BUSY "
+        },
+        "already ": {
+            "fileName": "",
+            "next_state": "S_ALREADY "
+        },
+        "NotSpoke ": {
+            "fileName": "",
+            "next_state": "disp_NI "
+        },
+        "decline ": {
+            "fileName": "",
+            "next_state": "S_AGE_QUESTION "
+        },
+        "affirmation ": {
+            "fileName": "",
+            "next_state": "S_TRANSFER "
+        },
+        "Not_Interested ": {
+            "fileName": "",
+            "next_state": "S_NI "
+        },
+        "say_again": {
+            "fileName": "",
+            "next_state": "S_PITCH_AGAIN "
+        },
+        "None ": {
+            "fileName": "",
+            "next_state": "S_PITCH_AGAIN "
+        }
+    },
+    "S_TRANSFER": {
+        "sec": "3",
+        "fileName": "transfer.wav",
+        "reb_state": false,
+        "qq_state": false,
+        "answering_machine ": {
+            "fileName": "",
+            "next_state": "disp_A "
+        },
+        "abusive ": {
+            "fileName": "",
+            "next_state": "disp_DNC "
+        },
+        "scam ": {
+            "fileName": "",
+            "next_state": "disp_DNC "
+        },
+        "DNC ": {
+            "fileName": "",
+            "next_state": "disp_DNC "
+        },
+        "affirmation ": {
+            "fileName": "",
+            "next_state": "disp_XFER "
+        },
+        "None ": {
+            "fileName": "",
+            "next_state": "disp_XFER "
+        },
+        "NotSpoke ": {
+            "fileName": "",
+            "next_state": "disp_XFER "
+        },
+        "DNQ ": {
+            "fileName": "",
+            "next_state": "disp_DNQ "
+        }
+    },
+    "S_BUSY": {
+        "sec": "0.0",
+        "fileName": "Call_back_rebuttal.wav",
+        "reb_state": true,
+        "qq_state": false,
+        "None ": {
+            "fileName": "",
+            "next_state": "disp_B "
+        },
+       "NotSpoke": {
+            "fileName": "",
+            "next_state": "disp_B "
+        }
+    },
+    "S_PREV_STATE": {
+        "sec": "5",
+        "fileName": "",
+        "reb_state": true,
+        "qq_state": false
+    },
+    "S_ARE_YOU_THERE": {
+        "sec": "3",
+        "fileName": "are_you_there.wav",
+        "reb_state": false,
+        "qq_state": false,
+        "answering_machine ": {
+            "fileName": "",
+            "next_state": "disp_A "
+        },
+        "NotSpoke ": {
+            "fileName": "are_you_there.wav",
+            "next_state": "disp_N "
+        },
+        "BUSY ": {
+            "fileName": "",
+            "next_state": "disp_DNC "
+        },
+        "abusive ": {
+            "fileName": "",
+            "next_state": "disp_DNC "
+        },
+        "DNC ": {
+            "fileName": "",
+            "next_state": "disp_DNC "
+        },
+        "None ": {
+            "fileName": "",
+            "next_state": "S_PREV_STATE "
+        },
+        "language_barrier": {
+            "fileName": "",
+            "next_state": "disp_LBR "
+        }
+    },
+    "S_NI": {
+        "sec": "5",
+        "fileName": "NI_rebuttal.wav",
+        "reb_state": true,
+        "qq_state": false,
+        "Not_Interested ": {
+            "fileName": "NI_rebuttal.wav",
+            "next_state": "disp_NI "
+        },
+        "DNC ": {
+            "fileName": "",
+            "next_state": "disp_DNC "
+        },
+        "scam ": {
+            "fileName": "",
+            "next_state": "disp_DNC "
+        },
+        "abusive ": {
+            "fileName": "",
+            "next_state": "disp_DNC "
+        },
+        "BUSY ": {
+            "fileName": "",
+            "next_state": "disp_B "
+        },
+        "decline ": {
+            "fileName": "",
+            "next_state": "disp_NI "
+        },
+        "answering_machine ": {
+            "fileName": "",
+            "next_state": "disp_A "
+        },
+        "already ": {
+            "fileName": "",
+            "next_state": "S_ALREADY "
+        },
+        "NotSpoke ": {
+            "fileName": "",
+            "next_state": "S_PREV_STATE "
+        },
+        "affirmation ": {
+            "fileName": "",
+            "next_state": "S_PREV_STATE "
+        },
+        "None ": {
+            "fileName": "",
+            "next_state": "S_PREV_STATE "
+        },
+        "language_barrier": {
+            "fileName": "",
+            "next_state": "disp_LBR "
+        }
+    },
+    "S_ALREADY": {
+        "sec": "5",
+        "fileName": "already have rebuttal.wav",
+        "reb_state": true,
+        "qq_state": false,
+        "DNC ": {
+            "fileName": "",
+            "next_state": "disp_DNC "
+        },
+        "scam ": {
+            "fileName": "",
+            "next_state": "disp_DNC "
+        },
+        "abusive ": {
+            "fileName": "",
+            "next_state": "disp_DNC "
+        },
+        "BUSY ": {
+            "fileName": "",
+            "next_state": "disp_B "
+        },
+        "decline ": {
+            "fileName": "",
+            "next_state": "disp_B "
+        },
+        "answering_machine ": {
+            "fileName": "",
+            "next_state": "disp_A "
+        },
+        "Not_Interested ": {
+            "fileName": "",
+            "next_state": "S_NI "
+        },
+        "NotSpoke ": {
+            "fileName": "",
+            "next_state": "S_PREV_STATE "
+        },
+        "affirmation ": {
+            "fileName": "",
+            "next_state": "S_PREV_STATE "
+        },
+        "None ": {
+            "fileName": "",
+            "next_state": "S_PREV_STATE "
+        },
+        "language_barrier": {
+            "fileName": "",
+            "next_state": "disp_LBR "
+        }
+    },
+    "S_AGE_QUESTION": {
+        "sec": "6",
+        "fileName": "age",
+        "reb_state": false,
+        "qq_state": false,
+        "answering_machine ": {
+            "fileName": "",
+            "next_state": "disp_A "
+        },
+        "scam ": {
+            "fileName": "",
+            "next_state": "disp_DNC "
+        },
+        "abusive ": {
+            "fileName": "",
+            "next_state": "disp_DNC "
+        },
+        "DNC ": {
+            "fileName": "",
+            "next_state": "disp_DNC "
+        },
+        "DNQ ": {
+            "fileName": "DNQ_cux_rebuttal.wav",
+            "next_state": "disp_DNQ "
+        },
+        "decline ": {
+            "fileName": "DNQ_cux_rebuttal.wav",
+            "next_state": "disp_DNQ "
+        },
+        "NotSpoke ": {
+            "fileName": "",
+            "next_state": "S_AGE_QUESTION_AGAIN "
+        },
+        "None ": {
+            "fileName": "",
+            "next_state": "S_AGE_QUESTION_AGAIN "
+        },
+        "Not_Interested ": {
+            "fileName": "",
+            "next_state": "S_NI "
+        },
+        "affirmation ": {
+            "fileName": "",
+            "next_state": "S_TRANSFER "
+        },
+        "BUSY ": {
+            "fileName": "",
+            "next_state": "S_BUSY "
+        },
+        "say_again": {
+            "fileName": "",
+            "next_state": "S_AGE_QUESTION_AGAIN "
+        },
+        "language_barrier": {
+            "fileName": "",
+            "next_state": "disp_LBR "
+        }
+    },
+    "S_AGE_QUESTION_AGAIN": {
+        "sec": "6",
+        "fileName": "say that again age.wav",
+        "reb_state": false,
+        "qq_state": false,
+        "answering_machine ": {
+            "fileName": "",
+            "next_state": "disp_A "
+        },
+        "scam ": {
+            "fileName": "",
+            "next_state": "disp_DNC "
+        },
+        "abusive ": {
+            "fileName": "",
+            "next_state": "disp_DNC "
+        },
+        "DNC ": {
+            "fileName": "",
+            "next_state": "disp_DNC "
+        },
+        "DNQ ": {
+            "fileName": "DNQ_cux_rebuttal.wav",
+            "next_state": "disp_DNQ "
+        },
+        "decline ": {
+            "fileName": "DNQ_cux_rebuttal.wav",
+            "next_state": "disp_DNQ "
+        },
+        "NotSpoke ": {
+            "fileName": "",
+            "next_state": "disp_NI "
+        },
+        "None ": {
+            "fileName": "",
+            "next_state": "disp_NI "
+        },
+        "Not_Interested ": {
+            "fileName": "",
+            "next_state": "S_NI "
+        },
+        "affirmation ": {
+            "fileName": "",
+            "next_state": "S_TRANSFER "
+        },
+        "BUSY ": {
+            "fileName": "",
+            "next_state": "S_BUSY "
+        },
+        "say_again": {
+            "fileName": "",
+            "next_state": "S_AGE_QUESTION "
+        },
+        "language_barrier": {
+            "fileName": "",
+            "next_state": "disp_LBR "
+        }
+    }
+}

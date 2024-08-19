@@ -1,0 +1,1 @@
+{"call_started": "13:00:32.161935", "called_end": "13:00:39.274737", "phone_number": "01137849521", "disposition": "A", "states": [{"state_name": "S_HELLO", "playing": ["Hello.wav"], "transcript": {"helping_trans": "can you get hurt", "transcript": " your church."}, "predicted_class": {"res": "answering_machine", "method": "b"}}]}

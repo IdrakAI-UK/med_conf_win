@@ -1,0 +1,1897 @@
+            ---- BOT JSON LOADED ----             
+==================================================
+    ____    __           __      ___    _    __    __      __      
+   /  _/___/ /________ _/ /__   /   |  (_)  / /   / /_____/ /      
+   / // __  / ___/ __ `/ //_/  / /| | / /  / /   / __/ __  /       
+ _/ // /_/ / /  / /_/ / ,<    / ___ |/ /  / /___/ /_/ /_/ /_       
+/___/\__,_/_/   \__,_/_/|_|  /_/  |_/_/  /_____/\__/\__,_/(_)      
+                                                                   
+
+Version 3.0
+Dated:  05/08/2024 @ 4:10 PM
+==================================================
+==================================================
+Call # 0
+==================================================
+'audio_dict'
+--------------------------------------------------
+State: S_HELLO
+Playing : hello.wav
+
+Time: 6.0
+listening 0
+listening 1
+listening 2
+listening 3
+listening 1
+User Spoke:  hello
+AI Detect : greetings
+--------------------------------------------------
+State: S_INTRO
+Playing : ./sounds/merri/intro/intro_pitch_q.wav
+
+
+
+
+i know
+i didn't
+i married a man
+i married a man how and
+i married a man how and her
+i married a man how and her i'm
+i married a man how and her i'm calling to let
+i married a man how and her i'm calling to let you know
+i married a man how and her i'm calling to let you know that after
+i married a man how and her i'm calling to let you know that after that
+i married a man how and her i'm calling to let you know that after that read and
+i married a man how and her i'm calling to let you know that after that read and open enrollment
+i married a man how and her i'm calling to let you know that after that read and open enrollment in
+i married a man how and her i'm calling to let you know that after that read and open enrollment if you
+i married a man how and her i'm calling to let you know that after that read and open enrollment if you have
+i married a man how and her i'm calling to let you know that after that read and open enrollment if you have medicare part a
+i married a man how and her i'm calling to let you know that after that read and open enrollment if you have medicare part a and
+i married a man how and her i'm calling to let you know that after that read and open enrollment if you have medicare part a and be
+i married a man how and her i'm calling to let you know that after that read and open enrollment if you have medicare part a and be you're eligible
+i married a man how and her i'm calling to let you know that after that read and open enrollment if you have medicare part a and be you're eligible or
+i married a man how and her i'm calling to let you know that after that read and open enrollment if you have medicare part a and be you're eligible or great
+i married a man how and her i'm calling to let you know that after that read and open enrollment if you have medicare part a and be you're eligible or great newly
+i married a man how and her i'm calling to let you know that after that read and open enrollment if you have medicare part a and be you're eligible or great newly added
+i married a man how and her i'm calling to let you know that after that read and open enrollment if you have medicare part a and be you're eligible or great newly added benefit like
+i married a man how and her i'm calling to let you know that after that read and open enrollment if you have medicare part a and be you're eligible or great newly added benefit like monthly
+i married a man how and her i'm calling to let you know that after that read and open enrollment if you have medicare part a and be you're eligible or great newly added benefit like monthly one
+i married a man how and her i'm calling to let you know that after that read and open enrollment if you have medicare part a and be you're eligible or great newly added benefit like monthly one hundred
+i married a man how and her i'm calling to let you know that after that read and open enrollment if you have medicare part a and be you're eligible or great newly added benefit like monthly one hundred eighty dollars
+i married a man how and her i'm calling to let you know that after that read and open enrollment if you have medicare part a and be you're eligible or great newly added benefit like monthly one hundred eighty dollars cash            ---- BOT JSON LOADED ----             
+==================================================
+    ____    __           __      ___    _    __    __      __      
+   /  _/___/ /________ _/ /__   /   |  (_)  / /   / /_____/ /      
+   / // __  / ___/ __ `/ //_/  / /| | / /  / /   / __/ __  /       
+ _/ // /_/ / /  / /_/ / ,<    / ___ |/ /  / /___/ /_/ /_/ /_       
+/___/\__,_/_/   \__,_/_/|_|  /_/  |_/_/  /_____/\__/\__,_/(_)      
+                                                                   
+
+Version 3.0
+Dated:  05/08/2024 @ 4:10 PM
+==================================================
+==================================================
+Call # 0
+==================================================
+'audio_dict'
+--------------------------------------------------
+State: S_HELLO
+Playing : hello.wav
+
+Time: 6.0
+listening 0
+listening 1
+listening 2
+listening 3
+listening 1
+User Spoke:  hello
+AI Detect : greetings
+--------------------------------------------------
+State: S_INTRO
+Playing : ./sounds/merri/intro/intro_pitch_q.wav
+
+
+
+
+i know
+i didn't
+i married a man
+i married a man how and
+i married a man how and her
+i married a man how and her i'm
+i married a man how and her i'm calling to let
+i married a man how and her i'm calling to let you know
+i married a man how and her i'm calling to let you know that after
+i married a man how and her i'm calling to let you know that after that
+i married a man how and her i'm calling to let you know that after that read and
+i married a man how and her i'm calling to let you know that after that read and open enrollment
+i married a man how and her i'm calling to let you know that after that read and open enrollment in
+i married a man how and her i'm calling to let you know that after that read and open enrollment if you
+i married a man how and her i'm calling to let you know that after that read and open enrollment if you have
+i married a man how and her i'm calling to let you know that after that read and open enrollment if you have medicare part a
+i married a man how and her i'm calling to let you know that after that read and open enrollment if you have medicare part a and
+i married a man how and her i'm calling to let you know that after that read and open enrollment if you have medicare part a and be
+i married a man how and her i'm calling to let you know that after that read and open enrollment if you have medicare part a and be you're eligible
+i married a man how and her i'm calling to let you know that after that read and open enrollment if you have medicare part a and be you're eligible or
+i married a man how and her i'm calling to let you know that after that read and open enrollment if you have medicare part a and be you're eligible or great
+i married a man how and her i'm calling to let you know that after that read and open enrollment if you have medicare part a and be you're eligible or great newly
+i married a man how and her i'm calling to let you know that after that read and open enrollment if you have medicare part a and be you're eligible or great newly added
+i married a man how and her i'm calling to let you know that after that read and open enrollment if you have medicare part a and be you're eligible or great newly added benefit like
+i married a man how and her i'm calling to let you know that after that read and open enrollment if you have medicare part a and be you're eligible or great newly added benefit like monthly
+i married a man how and her i'm calling to let you know that after that read and open enrollment if you have medicare part a and be you're eligible or great newly added benefit like monthly one
+i married a man how and her i'm calling to let you know that after that read and open enrollment if you have medicare part a and be you're eligible or great newly added benefit like monthly one hundred
+i married a man how and her i'm calling to let you know that after that read and open enrollment if you have medicare part a and be you're eligible or great newly added benefit like monthly one hundred eighty dollars
+i married a man how and her i'm calling to let you know that after that read and open enrollment if you have medicare part a and be you're eligible or great newly added benefit like monthly one hundred eighty dollars cash
+i married a man how and her i'm calling to let you know that after that read and open enrollment if you have medicare part a and be you're eligible or great newly added benefit like monthly one hundred eighty dollars cash back
+i married a man how and her i'm calling to let you know that after that read and open enrollment if you have medicare part a and be you're eligible or great newly added benefit like monthly one hundred eighty dollars cash back dental
+i married a man how and her i'm calling to let you know that after that read and open enrollment if you have medicare part a and be you're eligible or great newly added benefit like monthly one hundred eighty dollars cash back dental hearing
+i married a man how and her i'm calling to let you know that after that read and open enrollment if you have medicare part a and be you're eligible or great newly added benefit like monthly one hundred eighty dollars cash back dental hearing vision
+i married a man how and her i'm calling to let you know that after that read and open enrollment if you have medicare part a and be you're eligible or great newly added benefit like monthly one hundred eighty dollars cash back dental hearing vision prescription
+i married a man how and her i'm calling to let you know that after that read and open enrollment if you have medicare part a and be you're eligible or great newly added benefit like monthly one hundred eighty dollars cash back dental hearing vision prescription coverages
+i married a man how and her i'm calling to let you know that after that read and open enrollment if you have medicare part a and be you're eligible or great newly added benefit like monthly one hundred eighty dollars cash back dental hearing vision prescription coverages and
+i didn't marry a man how and her i'm calling to let you know that after that read and open enrollment if you have medicare part a and be you're eligible or great newly added benefit like monthly one hundred eighty dollars cash back dental hearing vision prescription coverages and food car
+the at
+the at an alarming
+the at absolutely no
+the at absolutely no car
+the at absolutely no car
+the at absolutely no car oh do
+the at absolutely no car oh do you have met
+the at absolutely no car oh do you have medicare part
+the at absolutely no car oh do you have medicare part a
+the at absolutely no car oh do you have medicare part a and
+Time: 6
+listening 0
+listening 1
+listening 2
+listening 3
+listening 4
+listening 5
+listening 1
+User Spoke:  no, i don't
+AI Detect : decline
+Data successfully written to ./logs/20240808170040_02571885755.json
+##################################################
+Disposition =  DNQ
+##################################################
+            ---- BOT JSON LOADED ----             
+==================================================
+    ____    __           __      ___    _    __    __      __      
+   /  _/___/ /________ _/ /__   /   |  (_)  / /   / /_____/ /      
+   / // __  / ___/ __ `/ //_/  / /| | / /  / /   / __/ __  /       
+ _/ // /_/ / /  / /_/ / ,<    / ___ |/ /  / /___/ /_/ /_/ /_       
+/___/\__,_/_/   \__,_/_/|_|  /_/  |_/_/  /_____/\__/\__,_/(_)      
+                                                                   
+
+Version 3.0
+Dated:  05/08/2024 @ 4:10 PM
+==================================================
+==================================================
+Call # 0
+==================================================
+'audio_dict'
+--------------------------------------------------
+State: S_HELLO
+Playing : hello.wav
+Time: 6.0
+listening 0
+listening 1
+listening 2
+listening 3
+listening 4
+User Spoke:  hello.
+AI Detect : greetings
+--------------------------------------------------
+State: S_INTRO
+Playing : ./sounds/merri/intro/intro_pitch_q.wav
+None
+None
+affirmation
+greetings
+greetings
+greetings
+greetings
+greetings
+greetings
+greetings
+None
+affirmation
+affirmation
+Time: 6
+listening 0
+listening 1
+            ---- BOT JSON LOADED ----             
+==================================================
+    ____    __           __      ___    _    __    __      __      
+   /  _/___/ /________ _/ /__   /   |  (_)  / /   / /_____/ /      
+   / // __  / ___/ __ `/ //_/  / /| | / /  / /   / __/ __  /       
+ _/ // /_/ / /  / /_/ / ,<    / ___ |/ /  / /___/ /_/ /_/ /_       
+/___/\__,_/_/   \__,_/_/|_|  /_/  |_/_/  /_____/\__/\__,_/(_)      
+                                                                   
+
+Version 3.0
+Dated:  05/08/2024 @ 4:10 PM
+==================================================
+==================================================
+Call # 0
+==================================================
+'audio_dict'
+--------------------------------------------------
+State: S_HELLO
+Playing : hello.wav
+Time: 6.0
+listening 0
+listening 1
+listening 2
+listening 3
+listening 4
+User Spoke:  hello.
+AI Detect : greetings
+--------------------------------------------------
+State: S_INTRO
+Playing : ./sounds/merri/intro/intro_pitch_q.wav
+None
+None
+greetings
+greetings
+greetings
+greetings
+greetings
+answering_machine
+answering_machine
+answering_machine
+affirmation
+            ---- BOT JSON LOADED ----             
+==================================================
+    ____    __           __      ___    _    __    __      __      
+   /  _/___/ /________ _/ /__   /   |  (_)  / /   / /_____/ /      
+   / // __  / ___/ __ `/ //_/  / /| | / /  / /   / __/ __  /       
+ _/ // /_/ / /  / /_/ / ,<    / ___ |/ /  / /___/ /_/ /_/ /_       
+/___/\__,_/_/   \__,_/_/|_|  /_/  |_/_/  /_____/\__/\__,_/(_)      
+                                                                   
+
+Version 3.0
+Dated:  05/08/2024 @ 4:10 PM
+==================================================
+==================================================
+Call # 0
+==================================================
+'audio_dict'
+--------------------------------------------------
+State: S_HELLO
+Playing : hello.wav
+Time: 6.0
+listening 0
+listening 1
+listening 2
+listening 3
+User Spoke:  hello?
+AI Detect : greetings
+--------------------------------------------------
+State: S_INTRO
+Playing : ./sounds/merri/intro/intro_pitch_q.wav
+None
+None
+None
+None
+None
+None
+None
+None
+None
+            ---- BOT JSON LOADED ----             
+==================================================
+    ____    __           __      ___    _    __    __      __      
+   /  _/___/ /________ _/ /__   /   |  (_)  / /   / /_____/ /      
+   / // __  / ___/ __ `/ //_/  / /| | / /  / /   / __/ __  /       
+ _/ // /_/ / /  / /_/ / ,<    / ___ |/ /  / /___/ /_/ /_/ /_       
+/___/\__,_/_/   \__,_/_/|_|  /_/  |_/_/  /_____/\__/\__,_/(_)      
+                                                                   
+
+Version 3.0
+Dated:  05/08/2024 @ 4:10 PM
+==================================================
+==================================================
+Call # 0
+==================================================
+'audio_dict'
+--------------------------------------------------
+State: S_HELLO
+Playing : hello.wav
+Time: 6.0
+listening 0
+listening 1
+listening 2
+listening 3
+User Spoke:  hello?
+AI Detect : greetings
+--------------------------------------------------
+State: S_INTRO
+Playing : ./sounds/merri/intro/intro_pitch_q.wav
+None
+None
+None
+None
+None
+            ---- BOT JSON LOADED ----             
+==================================================
+    ____    __           __      ___    _    __    __      __      
+   /  _/___/ /________ _/ /__   /   |  (_)  / /   / /_____/ /      
+   / // __  / ___/ __ `/ //_/  / /| | / /  / /   / __/ __  /       
+ _/ // /_/ / /  / /_/ / ,<    / ___ |/ /  / /___/ /_/ /_/ /_       
+/___/\__,_/_/   \__,_/_/|_|  /_/  |_/_/  /_____/\__/\__,_/(_)      
+                                                                   
+
+Version 3.0
+Dated:  05/08/2024 @ 4:10 PM
+==================================================
+==================================================
+Call # 0
+==================================================
+'audio_dict'
+--------------------------------------------------
+State: S_HELLO
+Playing : hello.wav
+Time: 6.0
+listening 0
+listening 1
+listening 2
+listening 3
+listening 4
+User Spoke:  hello
+AI Detect : greetings
+--------------------------------------------------
+State: S_INTRO
+Playing : ./sounds/merri/intro/intro_pitch_q.wav
+None 
+None 
+None 
+None 
+None 
+None do not come
+None 
+None 
+None please leave
+answering_machine please leave a message
+None 
+None 
+None don't tell me
+None don't tell me
+None 
+DNC fuck you
+None 
+Time: 6
+listening 0
+listening 1
+listening 2
+            ---- BOT JSON LOADED ----             
+==================================================
+    ____    __           __      ___    _    __    __      __      
+   /  _/___/ /________ _/ /__   /   |  (_)  / /   / /_____/ /      
+   / // __  / ___/ __ `/ //_/  / /| | / /  / /   / __/ __  /       
+ _/ // /_/ / /  / /_/ / ,<    / ___ |/ /  / /___/ /_/ /_/ /_       
+/___/\__,_/_/   \__,_/_/|_|  /_/  |_/_/  /_____/\__/\__,_/(_)      
+                                                                   
+
+Version 3.0
+Dated:  05/08/2024 @ 4:10 PM
+==================================================
+==================================================
+Call # 0
+==================================================
+'audio_dict'
+--------------------------------------------------
+State: S_HELLO
+Playing : hello.wav
+Time: 6.0
+listening 0
+listening 1
+listening 2
+listening 3
+listening 4
+listening 5
+listening 6
+Playing : are_you_there.wav
+--------------------------------------------------
+State: S_HELLO
+Time: 6.0
+            ---- BOT JSON LOADED ----             
+==================================================
+    ____    __           __      ___    _    __    __      __      
+   /  _/___/ /________ _/ /__   /   |  (_)  / /   / /_____/ /      
+   / // __  / ___/ __ `/ //_/  / /| | / /  / /   / __/ __  /       
+ _/ // /_/ / /  / /_/ / ,<    / ___ |/ /  / /___/ /_/ /_/ /_       
+/___/\__,_/_/   \__,_/_/|_|  /_/  |_/_/  /_____/\__/\__,_/(_)      
+                                                                   
+
+Version 3.0
+Dated:  05/08/2024 @ 4:10 PM
+==================================================
+==================================================
+Call # 0
+==================================================
+'audio_dict'
+--------------------------------------------------
+State: S_HELLO
+Playing : hello.wav
+Time: 6.0
+listening 0
+listening 1
+listening 2
+listening 3
+listening 4
+listening 5
+listening 1
+User Spoke:  hello
+AI Detect : greetings
+--------------------------------------------------
+State: S_INTRO
+Playing : ./sounds/merri/intro/intro_pitch_q.wav
+Time: 6
+listening 0
+listening 1
+listening 2
+listening 3
+listening 4
+listening 5
+listening 6
+            ---- BOT JSON LOADED ----             
+==================================================
+    ____    __           __      ___    _    __    __      __      
+   /  _/___/ /________ _/ /__   /   |  (_)  / /   / /_____/ /      
+   / // __  / ___/ __ `/ //_/  / /| | / /  / /   / __/ __  /       
+ _/ // /_/ / /  / /_/ / ,<    / ___ |/ /  / /___/ /_/ /_/ /_       
+/___/\__,_/_/   \__,_/_/|_|  /_/  |_/_/  /_____/\__/\__,_/(_)      
+                                                                   
+
+Version 3.0
+Dated:  05/08/2024 @ 4:10 PM
+==================================================
+==================================================
+Call # 0
+==================================================
+'audio_dict'
+--------------------------------------------------
+State: S_HELLO
+Playing : hello.wav
+Time: 6.0
+listening 0
+listening 1
+listening 2
+listening 3
+listening 4
+User Spoke:  hello
+AI Detect : greetings
+--------------------------------------------------
+State: S_INTRO
+Playing : ./sounds/merri/intro/intro_pitch_q.wav
+Time: 6
+listening 0
+listening 1
+listening 2
+listening 3
+listening 4
+            ---- BOT JSON LOADED ----             
+==================================================
+    ____    __           __      ___    _    __    __      __      
+   /  _/___/ /________ _/ /__   /   |  (_)  / /   / /_____/ /      
+   / // __  / ___/ __ `/ //_/  / /| | / /  / /   / __/ __  /       
+ _/ // /_/ / /  / /_/ / ,<    / ___ |/ /  / /___/ /_/ /_/ /_       
+/___/\__,_/_/   \__,_/_/|_|  /_/  |_/_/  /_____/\__/\__,_/(_)      
+                                                                   
+
+Version 3.0
+Dated:  05/08/2024 @ 4:10 PM
+==================================================
+==================================================
+Call # 0
+==================================================
+'audio_dict'
+--------------------------------------------------
+State: S_HELLO
+Playing : hello.wav
+None False
+Time: 6.0
+listening 0
+listening 1
+listening 1
+User Spoke:  hello
+AI Detect : greetings
+--------------------------------------------------
+State: S_INTRO
+Playing : ./sounds/merri/intro/intro_pitch_q.wav
+None False
+None False
+None False
+None False
+None False
+None False
+None False
+DNC True
+Time: 6
+listening 0
+listening 1
+listening 2
+listening 3
+listening 4
+listening 5
+listening 6
+Data successfully written to ./logs/20240808171624_02674223939.json
+##################################################
+Disposition =  N
+##################################################
+            ---- BOT JSON LOADED ----             
+==================================================
+    ____    __           __      ___    _    __    __      __      
+   /  _/___/ /________ _/ /__   /   |  (_)  / /   / /_____/ /      
+   / // __  / ___/ __ `/ //_/  / /| | / /  / /   / __/ __  /       
+ _/ // /_/ / /  / /_/ / ,<    / ___ |/ /  / /___/ /_/ /_/ /_       
+/___/\__,_/_/   \__,_/_/|_|  /_/  |_/_/  /_____/\__/\__,_/(_)      
+                                                                   
+
+Version 3.0
+Dated:  05/08/2024 @ 4:10 PM
+==================================================
+==================================================
+Call # 0
+==================================================
+'audio_dict'
+--------------------------------------------------
+State: S_HELLO
+Playing : hello.wav
+None 
+Time: 6.0
+listening 0
+listening 1
+listening 2
+listening 1
+listening 1
+listening 1
+listening 1
+User Spoke:  fuck you so much.
+AI Detect : DNC
+Data successfully written to ./logs/20240808171653_02675195511.json
+##################################################
+Disposition =  DNC
+##################################################
+==================================================
+Call # 1
+==================================================
+--------------------------------------------------
+State: S_HELLO
+Playing : hello.wav
+None 
+None 
+None 
+None 
+None 
+None 
+None 
+None 
+None 
+None 
+None 
+None 
+None 
+None 
+Time: 6.0
+listening 0
+listening 1
+listening 2
+listening 3
+listening 4
+listening 5
+listening 6
+Playing : are_you_there.wav
+None 
+None 
+None 
+None 
+None 
+--------------------------------------------------
+State: S_HELLO
+Time: 6.0
+listening 0
+listening 1
+listening 2
+listening 3
+listening 4
+listening 5
+listening 6
+           ---- User Did Not Speak ----           
+==================================================
+USER DIDNOT RESPONED at S_HELLO
+==================================================
+Data successfully written to ./logs/20240808171709_01679894553.json
+##################################################
+Disposition =  N
+##################################################
+==================================================
+Call # 2
+==================================================
+--------------------------------------------------
+State: S_HELLO
+Playing : hello.wav
+None 
+None 
+None 
+None 
+None 
+None 
+None 
+None 
+None 
+None 
+Time: 6.0
+listening 0
+listening 1
+listening 2
+listening 3
+listening 4
+listening 5
+listening 6
+Playing : are_you_there.wav
+None 
+None 
+None 
+None 
+--------------------------------------------------
+State: S_HELLO
+Time: 6.0
+listening 0
+listening 1
+            ---- BOT JSON LOADED ----             
+==================================================
+    ____    __           __      ___    _    __    __      __      
+   /  _/___/ /________ _/ /__   /   |  (_)  / /   / /_____/ /      
+   / // __  / ___/ __ `/ //_/  / /| | / /  / /   / __/ __  /       
+ _/ // /_/ / /  / /_/ / ,<    / ___ |/ /  / /___/ /_/ /_/ /_       
+/___/\__,_/_/   \__,_/_/|_|  /_/  |_/_/  /_____/\__/\__,_/(_)      
+                                                                   
+
+Version 3.0
+Dated:  05/08/2024 @ 4:10 PM
+==================================================
+==================================================
+Call # 0
+==================================================
+'audio_dict'
+--------------------------------------------------
+State: S_HELLO
+Playing : hello.wav
+None 
+Time: 6.0
+listening 0
+listening 1
+listening 2
+listening 3
+listening 4
+listening 5
+listening 6
+Playing : are_you_there.wav
+None 
+None 
+None 
+None 
+--------------------------------------------------
+State: S_HELLO
+Time: 6.0
+listening 0
+listening 1
+listening 2
+listening 3
+listening 4
+listening 5
+listening 6
+           ---- User Did Not Speak ----           
+==================================================
+USER DIDNOT RESPONED at S_HELLO
+==================================================
+Data successfully written to ./logs/20240808171740_01463347610.json
+##################################################
+Disposition =  N
+##################################################
+==================================================
+Call # 1
+==================================================
+--------------------------------------------------
+State: S_HELLO
+Playing : hello.wav
+None 
+None 
+None 
+None 
+None 
+None 
+None 
+None 
+None 
+None 
+Time: 6.0
+listening 0
+listening 1
+listening 2
+listening 3
+listening 1
+User Spoke:  hello
+AI Detect : greetings
+--------------------------------------------------
+State: S_INTRO
+Playing : ./sounds/merri/intro/intro_pitch_q.wav
+None 
+None 
+None 
+None 
+None 
+None i got married
+None i married a
+None i married a man health and
+None i married a man health and her
+None i married a man health and her i'm calling
+None i married a man health and her i'm calling from that
+None i married a man health and her i'm calling from that you know that
+None i married a man health and her i'm calling from that you know that after
+None i married a man health and her i'm calling from that you know that after that
+None i married a man health and her i'm calling from that you know that after that refund
+None i married a man health and her i'm calling from that you know that after that refund open enrollment
+None i married a man health and her i'm calling from that you know that after that refund open enrollment
+None i married a man health and her i'm calling from that you know that after that refund open enrollment if you have
+None i married a man health and her i'm calling from that you know that after that refund open enrollment if you have medicare
+None i married a man health and her i'm calling from that you know that after that refund open enrollment if you have medicare part a
+None i married a man health and her i'm calling from that you know that after that refund open enrollment if you have medicare part a darling
+None i married a man health and her i'm calling from that you know that after that refund open enrollment if you have medicare part time telling me you're
+None i married a man health and her i'm calling from that you know that after that refund open enrollment if you have medicare part time telling me you're eligible
+None i married a man health and her i'm calling from that you know that after that refund open enrollment if you have medicare part time telling me you're eligible or
+None i married a man health and her i'm calling from that you know that after that refund open enrollment if you have medicare part time telling me you're eligible or great news
+None i married a man health and her i'm calling from that you know that after that refund open enrollment if you have medicare part time telling me you're eligible or great newly added            ---- BOT JSON LOADED ----             
+==================================================
+    ____    __           __      ___    _    __    __      __      
+   /  _/___/ /________ _/ /__   /   |  (_)  / /   / /_____/ /      
+   / // __  / ___/ __ `/ //_/  / /| | / /  / /   / __/ __  /       
+ _/ // /_/ / /  / /_/ / ,<    / ___ |/ /  / /___/ /_/ /_/ /_       
+/___/\__,_/_/   \__,_/_/|_|  /_/  |_/_/  /_____/\__/\__,_/(_)      
+                                                                   
+
+Version 3.0
+Dated:  05/08/2024 @ 4:10 PM
+==================================================
+==================================================
+Call # 0
+==================================================
+'audio_dict'
+--------------------------------------------------
+State: S_HELLO
+Playing : hello.wav
+None 
+Time: 6.0
+listening 0
+listening 1
+listening 2
+listening 3
+listening 4
+listening 5
+listening 6
+Playing : are_you_there.wav
+None 
+None 
+None 
+None 
+--------------------------------------------------
+State: S_HELLO
+Time: 6.0
+listening 0
+listening 1
+listening 2
+listening 3
+listening 4
+listening 5
+listening 6
+           ---- User Did Not Speak ----           
+==================================================
+USER DIDNOT RESPONED at S_HELLO
+==================================================
+Data successfully written to ./logs/20240808171740_01463347610.json
+##################################################
+Disposition =  N
+##################################################
+==================================================
+Call # 1
+==================================================
+--------------------------------------------------
+State: S_HELLO
+Playing : hello.wav
+None 
+None 
+None 
+None 
+None 
+None 
+None 
+None 
+None 
+None 
+Time: 6.0
+listening 0
+listening 1
+listening 2
+listening 3
+listening 1
+User Spoke:  hello
+AI Detect : greetings
+--------------------------------------------------
+State: S_INTRO
+Playing : ./sounds/merri/intro/intro_pitch_q.wav
+None 
+None 
+None 
+None 
+None 
+None i got married
+None i married a
+None i married a man health and
+None i married a man health and her
+None i married a man health and her i'm calling
+None i married a man health and her i'm calling from that
+None i married a man health and her i'm calling from that you know that
+None i married a man health and her i'm calling from that you know that after
+None i married a man health and her i'm calling from that you know that after that
+None i married a man health and her i'm calling from that you know that after that refund
+None i married a man health and her i'm calling from that you know that after that refund open enrollment
+None i married a man health and her i'm calling from that you know that after that refund open enrollment
+None i married a man health and her i'm calling from that you know that after that refund open enrollment if you have
+None i married a man health and her i'm calling from that you know that after that refund open enrollment if you have medicare
+None i married a man health and her i'm calling from that you know that after that refund open enrollment if you have medicare part a
+None i married a man health and her i'm calling from that you know that after that refund open enrollment if you have medicare part a darling
+None i married a man health and her i'm calling from that you know that after that refund open enrollment if you have medicare part time telling me you're
+None i married a man health and her i'm calling from that you know that after that refund open enrollment if you have medicare part time telling me you're eligible
+None i married a man health and her i'm calling from that you know that after that refund open enrollment if you have medicare part time telling me you're eligible or
+None i married a man health and her i'm calling from that you know that after that refund open enrollment if you have medicare part time telling me you're eligible or great news
+None i married a man health and her i'm calling from that you know that after that refund open enrollment if you have medicare part time telling me you're eligible or great newly added
+None i married a man health and her i'm calling from that you know that after that refund open enrollment if you have medicare part time telling me you're eligible or great newly added benefit
+None i married a man health and her i'm calling from that you know that after that refund open enrollment if you have medicare part time telling me you're eligible or great newly added benefit like
+None i married a man health and her i'm calling from that you know that after that refund open enrollment if you have medicare part time telling me you're eligible or great newly added benefit like muster up
+None i married a man health and her i'm calling from that you know that after that refund open enrollment if you have medicare part time telling me you're eligible or great newly added benefit like missouri
+None i married a man health and her i'm calling from that you know that after that refund open enrollment if you have medicare part time telling me you're eligible or great newly added benefit like missouri absorb
+None i married a man health and her i'm calling from that you know that after that refund open enrollment if you have medicare part time telling me you're eligible or great newly added benefit like missouri absorb strongly dollar
+None i married a man health and her i'm calling from that you know that after that refund open enrollment if you have medicare part time telling me you're eligible or great newly added benefit like missouri absorb strongly dollar
+None i married a man health and her i'm calling from that you know that after that refund open enrollment if you have medicare part time telling me you're eligible or great newly added benefit like missouri observers draw the dollar as back then
+None i married a man health and her i'm calling from that you know that after that refund open enrollment if you have medicare part time telling me you're eligible or great newly added benefit like missouri observers draw the dollar as back then
+None i married a man health and her i'm calling from that you know that after that refund open enrollment if you have medicare part time telling me you're eligible or great newly added benefit like missouri observers draw the dollar as back then stay during that
+None i married a man health and her i'm calling from that you know that after that refund open enrollment if you have medicare part time telling me you're eligible or great newly added benefit like missouri observers draw the dollar as back then staggering within a
+None i married a man health and her i'm calling from that you know that after that refund open enrollment if you have medicare part time telling me you're eligible or great newly added benefit like missouri observers draw the dollar as back then staggering within a couple
+None i married a man health and her i'm calling from that you know that after that refund open enrollment if you have medicare part time telling me you're eligible or great newly added benefit like missouri observers draw the dollar as back then staggering within and coverage in
+None i married a man health and her i'm calling from that you know that after that refund open enrollment if you have medicare part time telling me you're eligible or great newly added benefit like missouri observers draw the dollar as back then staggering within and coverage in and around
+None i didn't married a man health and her i'm calling from let you know that after that refund open enrollment if you have medicare part time telling me you're eligible or great newly added benefit like missouri observers strongly dollar as back then staggering within and coverage and and code card
+None 
+None at at a
+None at at alertly no
+None at at alertly know cause
+None at at alertly know cause
+None at at alertly know cause oh do you
+DNC at at alertly know cause oh do you have medical
+Time: 6
+listening 0
+listening 1
+listening 2
+listening 3
+listening 4
+listening 5
+            ---- BOT JSON LOADED ----             
+==================================================
+    ____    __           __      ___    _    __    __      __      
+   /  _/___/ /________ _/ /__   /   |  (_)  / /   / /_____/ /      
+   / // __  / ___/ __ `/ //_/  / /| | / /  / /   / __/ __  /       
+ _/ // /_/ / /  / /_/ / ,<    / ___ |/ /  / /___/ /_/ /_/ /_       
+/___/\__,_/_/   \__,_/_/|_|  /_/  |_/_/  /_____/\__/\__,_/(_)      
+                                                                   
+
+Version 3.0
+Dated:  05/08/2024 @ 4:10 PM
+==================================================
+==================================================
+Call # 0
+==================================================
+'audio_dict'
+--------------------------------------------------
+State: S_HELLO
+Playing : hello.wav
+Time: 6.0
+listening 0
+listening 1
+listening 2
+listening 3
+listening 4
+listening 5
+listening 1
+User Spoke:  hello.
+AI Detect : greetings
+--------------------------------------------------
+State: S_INTRO
+Playing : ./sounds/merri/intro/intro_pitch_q.wav
+DNC fuck you
+Time: 6
+listening 0
+listening 1
+listening 2
+listening 3
+listening 4
+listening 5
+listening 6
+Data successfully written to ./logs/20240808171936_01214167666.json
+##################################################
+Disposition =  N
+##################################################
+            ---- BOT JSON LOADED ----             
+==================================================
+    ____    __           __      ___    _    __    __      __      
+   /  _/___/ /________ _/ /__   /   |  (_)  / /   / /_____/ /      
+   / // __  / ___/ __ `/ //_/  / /| | / /  / /   / __/ __  /       
+ _/ // /_/ / /  / /_/ / ,<    / ___ |/ /  / /___/ /_/ /_/ /_       
+/___/\__,_/_/   \__,_/_/|_|  /_/  |_/_/  /_____/\__/\__,_/(_)      
+                                                                   
+
+Version 3.0
+Dated:  05/08/2024 @ 4:10 PM
+==================================================
+==================================================
+Call # 0
+==================================================
+'audio_dict'
+--------------------------------------------------
+State: S_HELLO
+Playing : hello.wav
+Time: 6.0
+listening 0
+listening 1
+listening 2
+listening 3
+listening 4
+User Spoke:  hello
+AI Detect : greetings
+--------------------------------------------------
+State: S_INTRO
+Playing : ./sounds/merri/intro/intro_pitch_q.wav
+DNC fuck yourself
+==================================================
+DNC Detected at S_INTRO
+==================================================
+Data successfully written to ./logs/20240808172801_01846551246.json
+##################################################
+Disposition =  DNC
+##################################################
+==================================================
+Call # 1
+==================================================
+--------------------------------------------------
+State: S_HELLO
+Playing : hello.wav
+Time: 6.0
+listening 0
+listening 1
+listening 2
+User Spoke:  hello
+AI Detect : greetings
+--------------------------------------------------
+State: S_INTRO
+Playing : ./sounds/merri/intro/intro_pitch_q.wav
+answering_machine please leave a message
+==================================================
+AM Detected at S_INTRO
+==================================================
+Data successfully written to ./logs/20240808172812_01962921634.json
+##################################################
+Disposition =  A
+##################################################
+==================================================
+Call # 2
+==================================================
+--------------------------------------------------
+State: S_HELLO
+Playing : hello.wav
+Time: 6.0
+listening 0
+listening 1
+listening 2
+listening 3
+listening 1
+User Spoke:  fuck you.
+AI Detect : DNC
+Data successfully written to ./logs/20240808172820_01423966712.json
+##################################################
+Disposition =  DNC
+##################################################
+==================================================
+Call # 3
+==================================================
+--------------------------------------------------
+State: S_HELLO
+Playing : hello.wav
+Time: 6.0
+listening 0
+listening 1
+listening 2
+listening 3
+listening 1
+listening 1
+User Spoke:  alright, this is answering machine
+AI Detect : answering_machine
+Data successfully written to ./logs/20240808172829_01838843596.json
+##################################################
+Disposition =  A
+##################################################
+==================================================
+Call # 4
+==================================================
+--------------------------------------------------
+State: S_HELLO
+Playing : hello.wav
+Time: 6.0
+listening 0
+listening 1
+listening 2
+listening 3
+User Spoke:  hello.
+AI Detect : greetings
+--------------------------------------------------
+State: S_INTRO
+Playing : ./sounds/merri/intro/intro_pitch_q.wav
+DNC outside and current hear these they were less
+==================================================
+DNC Detected at S_INTRO
+==================================================
+Data successfully written to ./logs/20240808172844_01597920275.json
+##################################################
+Disposition =  DNC
+##################################################
+==================================================
+Call # 5
+==================================================
+--------------------------------------------------            ---- BOT JSON LOADED ----             
+==================================================
+    ____    __           __      ___    _    __    __      __      
+   /  _/___/ /________ _/ /__   /   |  (_)  / /   / /_____/ /      
+   / // __  / ___/ __ `/ //_/  / /| | / /  / /   / __/ __  /       
+ _/ // /_/ / /  / /_/ / ,<    / ___ |/ /  / /___/ /_/ /_/ /_       
+/___/\__,_/_/   \__,_/_/|_|  /_/  |_/_/  /_____/\__/\__,_/(_)      
+                                                                   
+
+Version 3.0
+Dated:  05/08/2024 @ 4:10 PM
+==================================================
+==================================================
+Call # 0
+==================================================
+'audio_dict'
+--------------------------------------------------
+State: S_HELLO
+Playing : hello.wav
+Time: 6.0
+listening 0
+listening 1
+listening 2
+listening 3
+listening 4
+User Spoke:  hello
+AI Detect : greetings
+--------------------------------------------------
+State: S_INTRO
+Playing : ./sounds/merri/intro/intro_pitch_q.wav
+DNC fuck yourself
+==================================================
+DNC Detected at S_INTRO
+==================================================
+Data successfully written to ./logs/20240808172801_01846551246.json
+##################################################
+Disposition =  DNC
+##################################################
+==================================================
+Call # 1
+==================================================
+--------------------------------------------------
+State: S_HELLO
+Playing : hello.wav
+Time: 6.0
+listening 0
+listening 1
+listening 2
+User Spoke:  hello
+AI Detect : greetings
+--------------------------------------------------
+State: S_INTRO
+Playing : ./sounds/merri/intro/intro_pitch_q.wav
+answering_machine please leave a message
+==================================================
+AM Detected at S_INTRO
+==================================================
+Data successfully written to ./logs/20240808172812_01962921634.json
+##################################################
+Disposition =  A
+##################################################
+==================================================
+Call # 2
+==================================================
+--------------------------------------------------
+State: S_HELLO
+Playing : hello.wav
+Time: 6.0
+listening 0
+listening 1
+listening 2
+listening 3
+listening 1
+User Spoke:  fuck you.
+AI Detect : DNC
+Data successfully written to ./logs/20240808172820_01423966712.json
+##################################################
+Disposition =  DNC
+##################################################
+==================================================
+Call # 3
+==================================================
+--------------------------------------------------
+State: S_HELLO
+Playing : hello.wav
+Time: 6.0
+listening 0
+listening 1
+listening 2
+listening 3
+listening 1
+listening 1
+User Spoke:  alright, this is answering machine
+AI Detect : answering_machine
+Data successfully written to ./logs/20240808172829_01838843596.json
+##################################################
+Disposition =  A
+##################################################
+==================================================
+Call # 4
+==================================================
+--------------------------------------------------
+State: S_HELLO
+Playing : hello.wav
+Time: 6.0
+listening 0
+listening 1
+listening 2
+listening 3
+User Spoke:  hello.
+AI Detect : greetings
+--------------------------------------------------
+State: S_INTRO
+Playing : ./sounds/merri/intro/intro_pitch_q.wav
+DNC outside and current hear these they were less
+==================================================
+DNC Detected at S_INTRO
+==================================================
+Data successfully written to ./logs/20240808172844_01597920275.json
+##################################################
+Disposition =  DNC
+##################################################
+==================================================
+Call # 5
+==================================================
+--------------------------------------------------
+State: S_HELLO
+Playing : hello.wav
+Time: 6.0
+listening 0
+listening 1
+listening 2
+listening 3
+listening 4
+listening 5
+User Spoke:  hello.
+AI Detect : greetings
+--------------------------------------------------
+State: S_INTRO
+Playing : ./sounds/merri/intro/intro_pitch_q.wav
+answering_machine please leave a message
+==================================================
+AM Detected at S_INTRO
+==================================================
+Data successfully written to ./logs/20240808172902_01391192451.json
+##################################################
+Disposition =  A
+##################################################
+==================================================
+Call # 6
+==================================================
+--------------------------------------------------
+State: S_HELLO
+Playing : hello.wav
+            ---- BOT JSON LOADED ----             
+==================================================
+    ____    __           __      ___    _    __    __      __      
+   /  _/___/ /________ _/ /__   /   |  (_)  / /   / /_____/ /      
+   / // __  / ___/ __ `/ //_/  / /| | / /  / /   / __/ __  /       
+ _/ // /_/ / /  / /_/ / ,<    / ___ |/ /  / /___/ /_/ /_/ /_       
+/___/\__,_/_/   \__,_/_/|_|  /_/  |_/_/  /_____/\__/\__,_/(_)      
+                                                                   
+
+Version 3.0
+Dated:  05/08/2024 @ 4:10 PM
+==================================================
+==================================================
+Call # 0
+==================================================
+'audio_dict'
+--------------------------------------------------
+State: S_HELLO
+Playing : hello.wav
+Time: 6.0
+listening 0
+listening 1
+listening 2
+listening 3
+listening 1
+User Spoke:  hello
+AI Detect : greetings
+--------------------------------------------------
+State: S_INTRO
+Playing : ./sounds/merri/intro/intro_pitch_q.wav
+User Spoke:  fuck you
+==================================================
+DNC Detected at S_INTRO
+==================================================
+Data successfully written to ./logs/20240808173028_02613165024.json
+##################################################
+Disposition =  DNC
+##################################################
+==================================================
+Call # 1
+==================================================
+--------------------------------------------------
+State: S_HELLO
+Playing : hello.wav
+Time: 6.0
+listening 0
+            ---- BOT JSON LOADED ----             
+==================================================
+    ____    __           __      ___    _    __    __      __      
+   /  _/___/ /________ _/ /__   /   |  (_)  / /   / /_____/ /      
+   / // __  / ___/ __ `/ //_/  / /| | / /  / /   / __/ __  /       
+ _/ // /_/ / /  / /_/ / ,<    / ___ |/ /  / /___/ /_/ /_/ /_       
+/___/\__,_/_/   \__,_/_/|_|  /_/  |_/_/  /_____/\__/\__,_/(_)      
+                                                                   
+
+Version 3.0
+Dated:  05/08/2024 @ 4:10 PM
+==================================================
+==================================================
+Call # 0
+==================================================
+'audio_dict'
+--------------------------------------------------
+State: S_HELLO
+Playing : hello.wav
+Time: 6.0
+listening 0
+listening 1
+listening 2
+listening 3
+listening 4
+listening 1
+User Spoke:  fuck you.
+AI Detect : DNC
+Data successfully written to ./logs/20240808173223_02545357329.json
+##################################################
+Disposition =  DNC
+##################################################
+            ---- BOT JSON LOADED ----             
+==================================================
+    ____    __           __      ___    _    __    __      __      
+   /  _/___/ /________ _/ /__   /   |  (_)  / /   / /_____/ /      
+   / // __  / ___/ __ `/ //_/  / /| | / /  / /   / __/ __  /       
+ _/ // /_/ / /  / /_/ / ,<    / ___ |/ /  / /___/ /_/ /_/ /_       
+/___/\__,_/_/   \__,_/_/|_|  /_/  |_/_/  /_____/\__/\__,_/(_)      
+                                                                   
+
+Version 3.0
+Dated:  05/08/2024 @ 4:10 PM
+==================================================
+==================================================
+Call # 0
+==================================================
+'audio_dict'
+--------------------------------------------------
+State: S_HELLO
+Playing : hello.wav
+Time: 6.0
+listening 0
+listening 1
+listening 2
+listening 3
+listening 4
+User Spoke:  hi
+AI Detect : greetings
+--------------------------------------------------
+State: S_INTRO
+Playing : ./sounds/merri/intro/intro_pitch_q.wav
+User Spoke:  fuck you
+==================================================
+DNC Detected at S_INTRO
+==================================================
+Data successfully written to ./logs/20240808173252_02644475945.json
+##################################################
+Disposition =  DNC
+##################################################
+==================================================
+Call # 1
+==================================================
+--------------------------------------------------
+State: S_HELLO
+Playing : hello.wav
+            ---- BOT JSON LOADED ----             
+==================================================
+    ____    __           __      ___    _    __    __      __      
+   /  _/___/ /________ _/ /__   /   |  (_)  / /   / /_____/ /      
+   / // __  / ___/ __ `/ //_/  / /| | / /  / /   / __/ __  /       
+ _/ // /_/ / /  / /_/ / ,<    / ___ |/ /  / /___/ /_/ /_/ /_       
+/___/\__,_/_/   \__,_/_/|_|  /_/  |_/_/  /_____/\__/\__,_/(_)      
+                                                                   
+
+Version 3.0
+Dated:  05/08/2024 @ 4:10 PM
+==================================================
+==================================================
+Call # 0
+==================================================
+'audio_dict'
+--------------------------------------------------
+State: S_HELLO
+Playing : hello.wav
+Time: 6.0
+listening 0
+listening 1
+listening 2
+listening 3
+User Spoke:  hello
+AI Detect : greetings
+--------------------------------------------------
+State: S_INTRO
+Playing : ./sounds/merri/intro/intro_pitch_q.wav
+User Spoke:  fuck you
+==================================================
+DNC Detected at S_INTRO
+==================================================
+Data successfully written to ./logs/20240808173455_02987411333.json
+##################################################
+Disposition =  DNC
+##################################################
+            ---- BOT JSON LOADED ----             
+==================================================
+    ____    __           __      ___    _    __    __      __      
+   /  _/___/ /________ _/ /__   /   |  (_)  / /   / /_____/ /      
+   / // __  / ___/ __ `/ //_/  / /| | / /  / /   / __/ __  /       
+ _/ // /_/ / /  / /_/ / ,<    / ___ |/ /  / /___/ /_/ /_/ /_       
+/___/\__,_/_/   \__,_/_/|_|  /_/  |_/_/  /_____/\__/\__,_/(_)      
+                                                                   
+
+Version 3.0
+Dated:  05/08/2024 @ 4:10 PM
+==================================================
+==================================================
+Call # 0
+==================================================
+'audio_dict'
+--------------------------------------------------
+State: S_HELLO
+Playing : hello.wav
+Time: 6.0
+listening 0
+listening 1
+listening 2
+listening 3
+listening 4
+listening 5
+listening 1
+User Spoke:  i am a paramedic
+AI Detect : other
+--------------------------------------------------
+State: S_INTRO
+Playing : ./sounds/merri/intro/intro_pitch_q.wav
+User Spoke:  suck my dick
+==================================================
+DNC Detected at S_INTRO
+==================================================
+Data successfully written to ./logs/20240808173728_01628735369.json
+##################################################
+Disposition =  DNC
+##################################################
+==================================================
+Call # 1
+==================================================
+--------------------------------------------------
+State: S_HELLO
+Playing : hello.wav
+            ---- BOT JSON LOADED ----             
+==================================================
+    ____    __           __      ___    _    __    __      __      
+   /  _/___/ /________ _/ /__   /   |  (_)  / /   / /_____/ /      
+   / // __  / ___/ __ `/ //_/  / /| | / /  / /   / __/ __  /       
+ _/ // /_/ / /  / /_/ / ,<    / ___ |/ /  / /___/ /_/ /_/ /_       
+/___/\__,_/_/   \__,_/_/|_|  /_/  |_/_/  /_____/\__/\__,_/(_)      
+                                                                   
+
+Version 3.0
+Dated:  05/08/2024 @ 4:10 PM
+==================================================
+==================================================
+Call # 0
+==================================================
+'audio_dict'
+--------------------------------------------------
+State: S_HELLO
+Playing : hello.wav
+Time: 6.0
+listening 0
+listening 1
+User Spoke:  hello.
+AI Detect : greetings
+--------------------------------------------------
+State: S_INTRO
+Playing : ./sounds/merri/intro/intro_pitch_q.wav
+            ---- BOT JSON LOADED ----             
+==================================================
+    ____    __           __      ___    _    __    __      __      
+   /  _/___/ /________ _/ /__   /   |  (_)  / /   / /_____/ /      
+   / // __  / ___/ __ `/ //_/  / /| | / /  / /   / __/ __  /       
+ _/ // /_/ / /  / /_/ / ,<    / ___ |/ /  / /___/ /_/ /_/ /_       
+/___/\__,_/_/   \__,_/_/|_|  /_/  |_/_/  /_____/\__/\__,_/(_)      
+                                                                   
+
+Version 3.0
+Dated:  05/08/2024 @ 4:10 PM
+==================================================
+==================================================
+Call # 0
+==================================================
+'audio_dict'
+--------------------------------------------------
+State: S_HELLO
+Playing : hello.wav
+Time: 6.0
+listening 0
+listening 1
+listening 2
+User Spoke:  hi
+AI Detect : greetings
+--------------------------------------------------
+State: S_INTRO
+Playing : ./sounds/merri/intro/intro_pitch_q.wav
+Time: 6
+listening 0
+listening 1
+listening 2
+listening 3
+listening 4
+listening 5
+listening 1
+User Spoke:  i am already having everything.
+AI Detect : already
+--------------------------------------------------
+State: S_Already
+Playing : Already_Rebuttal.wav
+Time: 5
+listening 0
+listening 1
+listening 2
+listening 1
+listening 2
+User Spoke:  okay, go ahead.
+AI Detect : interested
+--------------------------------------------------
+State: S_TRANSFER
+Playing : transfer.wav
+Time: 3
+listening 0
+listening 1
+listening 2
+listening 3
+listening 4
+Data successfully written to ./logs/20240808174846_01692511030.json
+##################################################
+Disposition =  XFER
+##################################################
+==================================================
+Call # 1
+==================================================
+--------------------------------------------------
+State: S_HELLO
+Playing : hello.wav
+Time: 6.0
+listening 0
+listening 1
+listening 2
+            ---- BOT JSON LOADED ----             
+==================================================
+    ____    __           __      ___    _    __    __      __      
+   /  _/___/ /________ _/ /__   /   |  (_)  / /   / /_____/ /      
+   / // __  / ___/ __ `/ //_/  / /| | / /  / /   / __/ __  /       
+ _/ // /_/ / /  / /_/ / ,<    / ___ |/ /  / /___/ /_/ /_/ /_       
+/___/\__,_/_/   \__,_/_/|_|  /_/  |_/_/  /_____/\__/\__,_/(_)      
+                                                                   
+
+Version 3.1
+Dated:  08/08/2024 @ 5:40 PM
+Company Name:  Prime BPO
+==================================================
+==================================================
+Call # 0
+==================================================
+'audio_dict'
+--------------------------------------------------
+State: S_HELLO
+Playing : hello.wav
+Time: 6.0
+listening 0
+listening 1
+listening 2
+User Spoke:  hello.
+AI Detect : greetings
+--------------------------------------------------
+State: S_INTRO
+Playing : ./sounds/Harper/intro/intro_pitch_q.wav
+Time: 6
+listening 0
+listening 1
+listening 2
+listening 3
+listening 1
+User Spoke:  yes i do.
+AI Detect : affirmation
+--------------------------------------------------
+State: S_TRANSFER
+Playing : transfer.wav
+            ---- BOT JSON LOADED ----             
+==================================================
+    ____    __           __      ___    _    __    __      __      
+   /  _/___/ /________ _/ /__   /   |  (_)  / /   / /_____/ /      
+   / // __  / ___/ __ `/ //_/  / /| | / /  / /   / __/ __  /       
+ _/ // /_/ / /  / /_/ / ,<    / ___ |/ /  / /___/ /_/ /_/ /_       
+/___/\__,_/_/   \__,_/_/|_|  /_/  |_/_/  /_____/\__/\__,_/(_)      
+                                                                   
+
+Version 3.1
+Dated:  08/08/2024 @ 5:40 PM
+Company Name:  Prime BPO
+==================================================
+==================================================
+Call # 0
+==================================================
+'audio_dict'
+--------------------------------------------------
+State: S_HELLO
+Playing : hello.wav
+Time: 6.0
+listening 0
+listening 1
+listening 2
+listening 1
+listening 1
+listening 2
+User Spoke: a bodybuilder hi
+AI Detect : other
+--------------------------------------------------
+State: S_INTRO
+Playing : ./sounds/Aria/intro/intro_pitch_q.wav
+User Spoke:  stop calling me
+==================================================
+DNC Detected at S_INTRO
+==================================================
+Data successfully written to ./logs/20240808175433_02184829698.json
+##################################################
+Disposition =  DNC
+##################################################
+==================================================
+Call # 1
+==================================================
+--------------------------------------------------
+State: S_HELLO
+Playing : hello.wav
+            ---- BOT JSON LOADED ----             
+==================================================
+    ____    __           __      ___    _    __    __      __      
+   /  _/___/ /________ _/ /__   /   |  (_)  / /   / /_____/ /      
+   / // __  / ___/ __ `/ //_/  / /| | / /  / /   / __/ __  /       
+ _/ // /_/ / /  / /_/ / ,<    / ___ |/ /  / /___/ /_/ /_/ /_       
+/___/\__,_/_/   \__,_/_/|_|  /_/  |_/_/  /_____/\__/\__,_/(_)      
+                                                                   
+
+Version 3.1
+Dated:  08/08/2024 @ 5:40 PM
+Company Name:  Prime BPO
+==================================================
+==================================================
+Call # 0
+==================================================
+'audio_dict'
+--------------------------------------------------
+State: S_HELLO
+Playing : hello.wav
+Time: 6.0
+listening 0
+listening 1
+listening 1
+User Spoke:  fuck you.
+AI Detect : DNC
+Data successfully written to ./logs/20240808182354_02892221490.json
+##################################################
+Disposition =  DNC
+##################################################
+==================================================
+Call # 1
+==================================================
+--------------------------------------------------
+State: S_HELLO
+Playing : hello.wav
+Time: 6.0
+listening 0
+listening 1
+listening 2
+User Spoke:  hello
+AI Detect : greetings
+--------------------------------------------------
+State: S_INTRO
+Playing : ./sounds/Sofia/intro/intro_pitch_q.wav
+            ---- BOT JSON LOADED ----             
+==================================================
+    ____    __           __      ___    _    __    __      __      
+   /  _/___/ /________ _/ /__   /   |  (_)  / /   / /_____/ /      
+   / // __  / ___/ __ `/ //_/  / /| | / /  / /   / __/ __  /       
+ _/ // /_/ / /  / /_/ / ,<    / ___ |/ /  / /___/ /_/ /_/ /_       
+/___/\__,_/_/   \__,_/_/|_|  /_/  |_/_/  /_____/\__/\__,_/(_)      
+                                                                   
+
+Version 3.1
+Dated:  08/08/2024 @ 5:40 PM
+Company Name:  Prime BPO
+==================================================
+==================================================
+Call # 0
+==================================================
+'audio_dict'
+--------------------------------------------------
+State: S_HELLO
+Playing : hello.wav
+Time: 6.0
+listening 0
+listening 1
+listening 2
+listening 3
+listening 4
+User Spoke:  hello
+AI Detect : greetings
+--------------------------------------------------
+State: S_INTRO
+Playing : ./sounds/Aria/intro/intro_pitch_q.wav
+User Spoke:  fuck you
+==================================================
+DNC Detected at S_INTRO
+==================================================
+Data successfully written to ./logs/20240808182459_01903725488.json
+##################################################
+Disposition =  DNC
+##################################################
+==================================================
+Call # 1
+==================================================
+--------------------------------------------------
+State: S_HELLO
+Playing : hello.wav
+Time: 6.0
+listening 0
+listening 1
+listening 2
+listening 1
+listening 1
+listening 1
+User Spoke:  hello, this is aali
+AI Detect : answering_machine
+Data successfully written to ./logs/20240808182508_01952745667.json
+##################################################
+Disposition =  A
+##################################################
+==================================================
+Call # 2
+==================================================
+--------------------------------------------------
+State: S_HELLO
+Playing : hello.wav
+Time: 6.0
+listening 0
+listening 1
+User Spoke:  no?
+AI Detect : decline
+--------------------------------------------------
+State: S_INTRO
+Playing : ./sounds/Harper/intro/intro_pitch_q.wav
+User Spoke:  ah yes please leave a message
+==================================================
+AM Detected at S_INTRO
+==================================================
+Data successfully written to ./logs/20240808182519_02852344919.json
+##################################################
+Disposition =  A
+##################################################
+==================================================
+Call # 3
+==================================================
+--------------------------------------------------
+State: S_HELLO
+Playing : hello.wav
+Time: 6.0
+listening 0
+listening 1
+listening 2
+listening 3
+listening 4
+listening 5
+listening 6
+Playing : are_you_there.wav
+--------------------------------------------------
+State: S_HELLO
+Time: 6.0
+listening 0
+listening 1
+listening 2
+listening 1
+listening 2
+listening 3
+listening 4
+listening 1
+User Spoke:  hello.
+AI Detect : greetings
+--------------------------------------------------
+State: S_INTRO
+Playing : ./sounds/merri/intro/intro_pitch_q.wav
+User Spoke:  they leave a message
+==================================================
+AM Detected at S_INTRO
+==================================================
+Data successfully written to ./logs/20240808182539_01545708983.json
+##################################################
+Disposition =  A
+##################################################
+==================================================
+Call # 4
+==================================================
+--------------------------------------------------
+State: S_HELLO
+Playing : hello.wav
+            ---- BOT JSON LOADED ----             
+==================================================
+    ____    __           __      ___    _    __    __      __      
+   /  _/___/ /________ _/ /__   /   |  (_)  / /   / /_____/ /      
+   / // __  / ___/ __ `/ //_/  / /| | / /  / /   / __/ __  /       
+ _/ // /_/ / /  / /_/ / ,<    / ___ |/ /  / /___/ /_/ /_/ /_       
+/___/\__,_/_/   \__,_/_/|_|  /_/  |_/_/  /_____/\__/\__,_/(_)      
+                                                                   
+
+Version 3.1
+Dated:  08/08/2024 @ 5:40 PM
+Company Name:  Prime BPO
+==================================================
+==================================================
+Call # 0
+==================================================
+'audio_dict'
+--------------------------------------------------
+State: S_HELLO
+Playing : hello.wav
+Time: 6.0
+listening 0
+listening 1
+listening 1
+listening 1
+listening 1
+            ---- BOT JSON LOADED ----             
+==================================================
+    ____    __           __      ___    _    __    __      __      
+   /  _/___/ /________ _/ /__   /   |  (_)  / /   / /_____/ /      
+   / // __  / ___/ __ `/ //_/  / /| | / /  / /   / __/ __  /       
+ _/ // /_/ / /  / /_/ / ,<    / ___ |/ /  / /___/ /_/ /_/ /_       
+/___/\__,_/_/   \__,_/_/|_|  /_/  |_/_/  /_____/\__/\__,_/(_)      
+                                                                   
+
+Version 3.1
+Dated:  08/08/2024 @ 5:40 PM
+Company Name:  Prime BPO
+==================================================
+==================================================
+Call # 0
+==================================================
+'audio_dict'
+--------------------------------------------------
+State: S_HELLO
+Playing : hello.wav
+Time: 6.0
+listening 0
+listening 1
+listening 2
+listening 3
+listening 4
+listening 5
+listening 6
+User Spoke:  i'm falling.
+AI Detect : other
+--------------------------------------------------
+State: S_INTRO
+Playing : ./sounds/Harper/intro/intro_pitch_q.wav
+            ---- BOT JSON LOADED ----             
+==================================================
+    ____    __           __      ___    _    __    __      __      
+   /  _/___/ /________ _/ /__   /   |  (_)  / /   / /_____/ /      
+   / // __  / ___/ __ `/ //_/  / /| | / /  / /   / __/ __  /       
+ _/ // /_/ / /  / /_/ / ,<    / ___ |/ /  / /___/ /_/ /_/ /_       
+/___/\__,_/_/   \__,_/_/|_|  /_/  |_/_/  /_____/\__/\__,_/(_)      
+                                                                   
+
+Version 3.1
+Dated:  08/08/2024 @ 5:40 PM
+Company Name:  Prime BPO
+==================================================
+==================================================
+Call # 0
+==================================================
+'audio_dict'
+--------------------------------------------------
+State: S_HELLO
+Playing : hello.wav
+Time: 6.0
+listening 0
+listening 1
+listening 2
+listening 3
+listening 1
+User Spoke: hello
+AI Detect : greetings
+--------------------------------------------------
+State: S_INTRO
+Playing : ./sounds/Aria/intro/intro_pitch_q.wav
+User Spoke:  i wanted to inform you that after the recent open enrollment you qualify for some fantastic new benefits if you have medicare part a please leave a message
+==================================================
+AM Detected at S_INTRO
+==================================================
+Data successfully written to ./logs/20240808183130_02373147093.json
+##################################################
+Disposition =  A
+##################################################
+==================================================
+Call # 1
+==================================================
+--------------------------------------------------
+State: S_HELLO
+Playing : hello.wav
+Time: 6.0
+listening 0
+listening 1
+listening 2
+listening 3
+listening 1
+User Spoke:  hello.
+AI Detect : greetings
+--------------------------------------------------
+State: S_INTRO
+Playing : ./sounds/Aria/intro/intro_pitch_q.wav
+User Spoke:  this is answering machine
+==================================================
+AM Detected at S_INTRO
+==================================================
+Data successfully written to ./logs/20240808183146_02589959303.json
+##################################################
+Disposition =  A
+##################################################
+==================================================
+Call # 2
+==================================================
+--------------------------------------------------
+State: S_HELLO
+Playing : hello.wav
+Time: 6.0
+listening 0
+listening 1
