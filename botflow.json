@@ -128,7 +128,11 @@
         "already ": {
             "fileName": "",
             "next_state": "S_ALREADY "
-        }
+        },
+        "Not_Interested ": {
+            "fileName": "",
+            "next_state": "S_NI "
+        } 
 
     },
     "S_PITCH": {
@@ -350,7 +354,7 @@
         "reb_state": true,
         "qq_state": false,
         "Not_Interested ": {
-            "fileName": "NI_rebuttal.wav",
+            "fileName": "",
             "next_state": "disp_NI "
         },
         "DNC ": {
@@ -403,6 +407,10 @@
         "fileName": "already have rebuttal.wav",
         "reb_state": true,
         "qq_state": false,
+        "already ": {
+            "fileName": "",
+            "next_state": "disp_NI "
+        }, 
         "DNC ": {
             "fileName": "",
             "next_state": "disp_DNC "
@@ -421,7 +429,7 @@
         },
         "decline ": {
             "fileName": "",
-            "next_state": "disp_B "
+            "next_state": "disp_NI"
         },
         "answering_machine ": {
             "fileName": "",
